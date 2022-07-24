@@ -17,9 +17,16 @@ and add the package to the setup function:
 
 ```python
 setup(ext_modules=cythonize([
-                             package1,
-                             package2,
-                             package3,
+                             #full_model,
+                             small_model,
+                             small_model_glu,
                              my_package,
                              ]))
 ```
+
+##  Note on the full model
+By default, we don't compile the full model as this requires 
+substantial computational resources and might not be suitable
+on every system. If you choose to use the "full_model" uncomment 
+the full_model in the setup function by deleting the respective # 
+in the setup.py file.
