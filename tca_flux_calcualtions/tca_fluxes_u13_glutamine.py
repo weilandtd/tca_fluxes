@@ -16,7 +16,7 @@ import json
 import tqdm
 import pandas as pd
 
-from models.small_model import tca_model, IXM,  PARAMETERS
+from models.small_model_glu import tca_model, IXM,  PARAMETERS
 
 from tca_inference import InstatFluxFitter, ci_table
 
