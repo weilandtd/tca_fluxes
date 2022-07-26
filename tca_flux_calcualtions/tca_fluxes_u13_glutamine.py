@@ -24,7 +24,7 @@ from tca_inference import InstatFluxFitter, ci_table
 Computational parameters:
 
 N_init  Number of initializations
-N_CPU   Numper of CPUs used for the optimization (this should be choosen carefully)
+N_CPU   Number of CPUs used for the optimization (this should be chosen carefully)
 """
 
 N_init = 10

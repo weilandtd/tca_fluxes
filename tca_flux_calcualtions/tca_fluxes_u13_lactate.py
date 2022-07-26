@@ -23,16 +23,16 @@ from tca_inference import InstatFluxFitter, ci_table
 Computational parameters:
 
 N_init          Number of initializations
-N_CPU           Number of CPUs used for the optimization (this should be choosen carefully)
+N_CPU           Number of CPUs used for the optimization (this should be chosen carefully)
 
 EXAMPLE         Flag to run either the full simulation across all tissues and tumors or just a sample simulation
                 for liver, soleus, quad, and one tumor
 """
 
-N_init = 10
+N_init = 1000
 N_CPU = 8
 
-EXAMPLE = True
+EXAMPLE = False
 
 
 # Main Script
