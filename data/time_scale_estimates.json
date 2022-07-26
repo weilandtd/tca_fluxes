@@ -14,6 +14,7 @@
     "pancreas": 0.2,
     "skin": 0.01,
     "spleen": 0.04,
+    "controlSpleen_forLeukemia": 0.04,
     "flankPDAC": 0.02,
     "spleencontrol": 0.02,
     "flankNSCLC": 0.015,
