@@ -18,7 +18,7 @@ import pandas as pd
 
 from models.small_model import tca_model, IXM,  PARAMETERS
 
-from tca_inference import InstatFluxFitter
+from tca_inference import InstatFluxFitter, ci_table
 
 """
 Computational parameters:
@@ -48,6 +48,8 @@ if __name__ == '__main__':
                               parameters=PARAMETERS,)
 
     # Optimize each tissue
+    confidence_intervals = dict()
+
     for tissue in tissues:
         print("Running flux inference for {}".format(tissue))
 
@@ -64,4 +66,10 @@ if __name__ == '__main__':
 
         print("Postprocessing fitting results for {}".format(tissue))
 
-        confidence_intervals = fitter.find_confidence_intervals(tissue_result, columns=['TCA','r'])
+        tissue_ci = fitter.find_confidence_intervals(tissue_result, columns=['TCA','r'])
+
+        confidence_intervals[tissue] = tissue_ci
+
+
+    # Print/export results
+    print(ci_table(confidence_intervals, 'TCA'))
