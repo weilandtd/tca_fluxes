@@ -27,6 +27,7 @@ or [Miniconda](https://docs.conda.io/projects/conda/en/latest/glossary.html#mini
 to run the code, all required packages can be install by 
 simply running: 
 ```bash
+conda config --add channels conda-forge
 conda install --file requirements.txt
 ```
 
