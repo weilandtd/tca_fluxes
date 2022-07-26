@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 This script contains all necessary instructions to fit the tissue TCA fluxes
-from the provided U13-glutamine labeling data
+from the provided U13-lactate labeling data
 """
-
 
 import pyximport
 pyximport.install(setup_args={"script_args" : ["--verbose"]})
@@ -16,30 +15,35 @@ import json
 import tqdm
 import pandas as pd
 
-from models.small_model_glu import tca_model, IXM,  PARAMETERS
+from models.small_model import tca_model, IXM,  PARAMETERS
 
 from tca_inference import InstatFluxFitter, ci_table
 
 """
 Computational parameters:
 
-N_init  Number of initializations
-N_CPU   Number of CPUs used for the optimization (this should be chosen carefully)
+N_init          Number of initializations
+N_CPU           Number of CPUs used for the optimization (this should be chosen carefully)
+
+EXAMPLE         Flag to run either the full simulation across all tissues and tumors or just a sample simulation
+                for liver, soleus, quad, and one tumor
 """
 
-N_init = 1000
-N_CPU = 36
+N_init = 10
+N_CPU = 4
+
 
 # Main Script
 if __name__ == '__main__':
 
     # Load data sets (labeling and pools sizes)
-    labeling_data = pd.read_csv('./../data/gln_labeling.csv')
+    labeling_data = pd.read_csv('./../data/lac_labeling.csv')
     pool_size_data = pd.read_csv('./../data/pool_sizes.csv', )
 
     # Load initial guesses for the timescale
     tissue_time_scale = json.load(open('./../data/time_scale_estimates.json'))
-    tissues = labeling_data.tissue.unique()
+
+    tissues = ['liver', 'soleus', 'quad', 'GEMMPDAC']
 
 
     # Initialize fitter class
@@ -73,6 +77,8 @@ if __name__ == '__main__':
 
     # Print/export results
     tca_ci = ci_table(confidence_intervals, 'TCA')
-    tca_ci.to_csv('glutamine_TCA_flux_estimates.csv')
+    tca_ci.to_csv('lactate_TCA_flux_estimates.csv')
     print(tca_ci)
+
+
 

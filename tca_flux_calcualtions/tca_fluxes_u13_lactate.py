@@ -30,9 +30,7 @@ EXAMPLE         Flag to run either the full simulation across all tissues and tu
 """
 
 N_init = 1000
-N_CPU = 8
-
-EXAMPLE = False
+N_CPU = 36
 
 
 # Main Script
@@ -45,10 +43,8 @@ if __name__ == '__main__':
     # Load initial guesses for the timescale
     tissue_time_scale = json.load(open('./../data/time_scale_estimates.json'))
 
-    if EXAMPLE:
-        tissues = ['liver', 'soleus', 'quad', 'GEMMPDAC']
-    else:
-        tissues = labeling_data.tissue.unique()
+
+    tissues = labeling_data.tissue.unique()
 
 
     # Initialize fitter class
