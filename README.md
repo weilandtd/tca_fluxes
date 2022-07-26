@@ -52,12 +52,12 @@ More details on how to use the full collision model and how to compile custom mo
 [here](https://github.com/weilandtd/tca_fluxes/tree/main/models). 
 
 We then provide two scripts to perform the TCA flux inference using data from U13-Lactate 
-(`tca_flux_calculations/tca_fluxees_u13_lactate.py`) 
-and U13-Glutamine tracer (`tca_flux_calculations/tca_fluxees_u13_glutamine.py`)
+(`tca_flux_calculations/tca_fluxes_u13_lactate.py`) 
+and U13-Glutamine tracer (`tca_flux_calculations/tca_fluxes_u13_glutamine.py`)
 To run these scripts change the directory to `tca_flux_calculations` and open an `ipython` console. 
 You can then run the scripts:
 ```bash
-run tca_fluxees_u13_lactate.py
+run example_tca_fluxees_u13_lactate.py
 ```
 when the script starts successful you should see an output similar to below
 ```
@@ -66,7 +66,8 @@ Running flux inference for diaphragm
 Postprocessing fitting results for diaphragm
 ...
 ```
-
+Note that the scripts `tca_fluxes_u13_lactate.py` and `tca_fluxes_u13_glutamine.py` are configured 
+to reproduce the paper results and are quite computationally expensive (See code for details).  
 
 Both these scripts follow a similar structure, first we import the required data which consists of 
 three elements i) labeling data, ii) pool size data (tissue concentrations), and iii)
