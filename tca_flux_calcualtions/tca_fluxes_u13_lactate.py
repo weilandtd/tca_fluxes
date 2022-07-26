@@ -29,7 +29,7 @@ EXAMPLE         Flag to run either the full simulation across all tissues and tu
                 for liver, soleus, quad, and one tumor
 """
 
-N_init = 1000
+N_init = 2000
 N_CPU = 36
 
 
