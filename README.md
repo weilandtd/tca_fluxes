@@ -7,6 +7,7 @@ Flux calculations for [cite]
 The following python packages are required to run the code: 
 
  - numpy
+ - pandas
  - scipy
  - scikits.odes
  - matplotlib
@@ -19,7 +20,6 @@ conda install --file requirements.txt
 ```
 
 or using pip
-
 ```bash
 pip install -r requirements.txt
 ```
