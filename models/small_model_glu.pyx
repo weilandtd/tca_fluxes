@@ -20,6 +20,8 @@ IXM = {'accoa_0b110': 0, 'accoa_0b10': 1, 'accoa_0b0': 2, 'accoa_0b100': 3, 'oaa
        'glu_0b111000': 80, 'glu_0b100000': 81, 'glu_0b1000': 82, 'glu_0b10000': 83, 'glu_0b0': 84, 'glu_0b10': 85,
        'glu_0b11000': 86, 'glu_0b111110': 87, 'glu_0b110': 88, 'glu_0b110000': 89, 'glu_0b100': 90}
 
+PARAMETERS = ['dg','PPCK','TCA','ME','RMDH','RSUCC','RTAA','RAA','RTAG','RAG','RLAC','dl','da','r']
+
 
 cpdef tca_model(double t,
                np.ndarray[double, ndim=1] x,

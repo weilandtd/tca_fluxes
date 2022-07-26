@@ -45,6 +45,9 @@ IXM = {'akg_0b101110': 0, 'akg_0b101100': 1, 'akg_0b110': 2, 'akg_0b11110': 3, '
 # R > 0
 SERUM_LAC_LABEL = 0.25
 
+PARAMETERS = ['dg','PPCK','TCA','ME','RMDH','RSUCC','RTAA','RAA','RTAG','RAG','RLAC','dl','da','r']
+
+
 cpdef tca_model(double t,
                np.ndarray[double, ndim=1] x,
                np.ndarray[double, ndim=1] dxdt,

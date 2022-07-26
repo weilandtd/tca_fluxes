@@ -6,6 +6,8 @@ SERUM_LAC_LABEL = 0.25
 
 IXM = {'succ_0b1000': 0, 'succ_0b10000': 1, 'succ_0b1100': 2, 'succ_0b110': 3, 'succ_0b100': 4, 'succ_0b0': 5, 'succ_0b11100': 6, 'succ_0b1110': 7, 'succ_0b10': 8, 'succ_0b11000': 9, 'pyr_0b100': 10, 'pyr_0b1110': 11, 'pyr_0b0': 12, 'pyr_0b1000': 13, 'pyr_0b1100': 14, 'pyr_0b110': 15, 'pyr_0b10': 16, 'mal_0b10': 17, 'mal_0b100': 18, 'mal_0b1110': 19, 'mal_0b1100': 20, 'mal_0b11000': 21, 'mal_0b1000': 22, 'mal_0b0': 23, 'mal_0b11100': 24, 'mal_0b10000': 25, 'mal_0b110': 26, 'asp_0b110': 27, 'asp_0b1110': 28, 'asp_0b100': 29, 'asp_0b10': 30, 'asp_0b0': 31, 'asp_0b11100': 32, 'asp_0b1000': 33, 'asp_0b10000': 34, 'asp_0b11000': 35, 'asp_0b1100': 36, 'akg_0b0': 37, 'akg_0b100': 38, 'akg_0b11000': 39, 'akg_0b10000': 40, 'akg_0b110000': 41, 'akg_0b110': 42, 'akg_0b1000': 43, 'akg_0b10': 44, 'akg_0b111000': 45, 'akg_0b100000': 46, 'glu_0b111000': 47, 'glu_0b10': 48, 'glu_0b11000': 49, 'glu_0b10000': 50, 'glu_0b110': 51, 'glu_0b110000': 52, 'glu_0b100': 53, 'glu_0b1000': 54, 'glu_0b100000': 55, 'glu_0b0': 56, 'cit_0b1110000': 57, 'cit_0b1000000': 58, 'cit_0b100': 59, 'cit_0b10': 60, 'cit_0b10010': 61, 'cit_0b0': 62, 'cit_0b110000': 63, 'cit_0b110010': 64, 'cit_0b100000': 65, 'cit_0b1100000': 66, 'cit_0b10000': 67, 'cit_0b1100': 68, 'cit_0b1000': 69, 'accoa_0b100': 70, 'accoa_0b10': 71, 'accoa_0b110': 72, 'accoa_0b0': 73, 'oaa_0b11000': 74, 'oaa_0b1100': 75, 'oaa_0b100': 76, 'oaa_0b1110': 77, 'oaa_0b10': 78, 'oaa_0b11100': 79, 'oaa_0b1000': 80, 'oaa_0b10000': 81, 'oaa_0b110': 82, 'oaa_0b0': 83}
 
+PARAMETERS = ['dg','PPCK','TCA','ME','RMDH','RSUCC','RTAA','RAA','RTAG','RAG','RLAC','dl','da','r']
+
 
 cpdef tca_model(double t,
                np.ndarray[double, ndim=1] x,
