@@ -1,0 +1,3348 @@
+"Compound","C_Label","fraction","tissue","time","omitFromFit"
+"glutamate",1,0.065318716,"diaphragm",90,TRUE
+"glutamate",2,0.040806242,"diaphragm",90,TRUE
+"glutamate",3,0.004906523,"diaphragm",90,TRUE
+"succinate",1,0.067357848,"diaphragm",90,TRUE
+"succinate",2,0.027943981,"diaphragm",90,TRUE
+"succinate",3,0.003048959,"diaphragm",90,TRUE
+"malate",1,0.071204513,"diaphragm",90,TRUE
+"malate",2,0.029810734,"diaphragm",90,TRUE
+"malate",3,0.003670252,"diaphragm",90,TRUE
+"aspartate",1,0.05986513,"diaphragm",90,TRUE
+"aspartate",2,0.024144191,"diaphragm",90,TRUE
+"aspartate",3,0.003553894,"diaphragm",90,TRUE
+"glutamate",1,0.0562964,"diaphragm",90,TRUE
+"glutamate",2,0.034517137,"diaphragm",90,TRUE
+"glutamate",3,0.004651309,"diaphragm",90,TRUE
+"succinate",1,0.052307022,"diaphragm",90,TRUE
+"succinate",2,0.024949403,"diaphragm",90,TRUE
+"succinate",3,0.003638549,"diaphragm",90,TRUE
+"malate",1,0.05803955,"diaphragm",90,TRUE
+"malate",2,0.025544478,"diaphragm",90,TRUE
+"malate",3,0.004360764,"diaphragm",90,TRUE
+"aspartate",1,0.05773854,"diaphragm",90,TRUE
+"aspartate",2,0.021906875,"diaphragm",90,TRUE
+"aspartate",3,0.004281788,"diaphragm",90,TRUE
+"glutamate",1,0.039000843,"gastrocnemius",90,FALSE
+"glutamate",2,0.028155321,"gastrocnemius",90,FALSE
+"glutamate",3,0.004397472,"gastrocnemius",90,FALSE
+"succinate",1,0.034161265,"gastrocnemius",90,FALSE
+"succinate",2,0.019849671,"gastrocnemius",90,FALSE
+"succinate",3,0.002505346,"gastrocnemius",90,FALSE
+"malate",1,0.035267702,"gastrocnemius",90,FALSE
+"malate",2,0.018773422,"gastrocnemius",90,FALSE
+"malate",3,0.003969017,"gastrocnemius",90,FALSE
+"aspartate",1,0.031805439,"gastrocnemius",90,FALSE
+"aspartate",2,0.013460938,"gastrocnemius",90,FALSE
+"aspartate",3,0.00417783,"gastrocnemius",90,FALSE
+"glutamate",1,0.027326257,"gastrocnemius",90,FALSE
+"glutamate",2,0.019934458,"gastrocnemius",90,FALSE
+"glutamate",3,0.003414112,"gastrocnemius",90,FALSE
+"succinate",1,0.027123632,"gastrocnemius",90,FALSE
+"succinate",2,0.017661115,"gastrocnemius",90,FALSE
+"succinate",3,0.003599792,"gastrocnemius",90,FALSE
+"malate",1,0.029586158,"gastrocnemius",90,FALSE
+"malate",2,0.015011193,"gastrocnemius",90,FALSE
+"malate",3,0.005697408,"gastrocnemius",90,FALSE
+"aspartate",1,0.02630967,"gastrocnemius",90,FALSE
+"aspartate",2,0.007929284,"gastrocnemius",90,FALSE
+"aspartate",3,0.005557157,"gastrocnemius",90,FALSE
+"glutamate",1,0.043853034,"heart",90,FALSE
+"glutamate",2,0.026555235,"heart",90,FALSE
+"glutamate",3,0.002313889,"heart",90,FALSE
+"succinate",1,0.043564893,"heart",90,FALSE
+"succinate",2,0.017608389,"heart",90,FALSE
+"succinate",3,0.001658682,"heart",90,FALSE
+"malate",1,0.045807274,"heart",90,FALSE
+"malate",2,0.018509153,"heart",90,FALSE
+"malate",3,0.002198054,"heart",90,FALSE
+"aspartate",1,0.049007543,"heart",90,FALSE
+"aspartate",2,0.020073691,"heart",90,FALSE
+"aspartate",3,0.002997456,"heart",90,FALSE
+"glutamate",1,0.03189563,"heart",90,FALSE
+"glutamate",2,0.019056523,"heart",90,FALSE
+"glutamate",3,0.001562097,"heart",90,FALSE
+"succinate",1,0.030369714,"heart",90,FALSE
+"succinate",2,0.013019023,"heart",90,FALSE
+"succinate",3,0.001454447,"heart",90,FALSE
+"malate",1,0.032209159,"heart",90,FALSE
+"malate",2,0.013788982,"heart",90,FALSE
+"malate",3,0.002073057,"heart",90,FALSE
+"aspartate",1,0.03244164,"heart",90,FALSE
+"aspartate",2,0.012594465,"heart",90,FALSE
+"aspartate",3,0.002433161,"heart",90,FALSE
+"glutamate",1,0.084564569,"intestine",90,TRUE
+"glutamate",2,0.085146455,"intestine",90,TRUE
+"glutamate",3,0.012153864,"intestine",90,TRUE
+"succinate",1,0.096045574,"intestine",90,TRUE
+"succinate",2,0.062570809,"intestine",90,TRUE
+"succinate",3,0.008193035,"intestine",90,TRUE
+"malate",1,0.092823667,"intestine",90,TRUE
+"malate",2,0.058035026,"intestine",90,TRUE
+"malate",3,0.009112613,"intestine",90,TRUE
+"aspartate",1,0.087142921,"intestine",90,TRUE
+"aspartate",2,0.058511303,"intestine",90,TRUE
+"aspartate",3,0.011021345,"intestine",90,TRUE
+"glutamate",1,0.073883729,"intestine",90,TRUE
+"glutamate",2,0.066073156,"intestine",90,TRUE
+"glutamate",3,0.008617127,"intestine",90,TRUE
+"succinate",1,0.076649309,"intestine",90,TRUE
+"succinate",2,0.049335054,"intestine",90,TRUE
+"succinate",3,0.006602265,"intestine",90,TRUE
+"malate",1,0.069118887,"intestine",90,TRUE
+"malate",2,0.043323798,"intestine",90,TRUE
+"malate",3,0.009874519,"intestine",90,TRUE
+"aspartate",1,0.077957703,"intestine",90,TRUE
+"aspartate",2,0.047347644,"intestine",90,TRUE
+"aspartate",3,0.00779867,"intestine",90,TRUE
+"glutamate",1,0.089410182,"kidney",90,TRUE
+"glutamate",2,0.078926495,"kidney",90,TRUE
+"glutamate",3,0.01897119,"kidney",90,TRUE
+"succinate",1,0.105489407,"kidney",90,TRUE
+"succinate",2,0.076877221,"kidney",90,TRUE
+"succinate",3,0.015920782,"kidney",90,TRUE
+"malate",1,0.099327208,"kidney",90,TRUE
+"malate",2,0.065757268,"kidney",90,TRUE
+"malate",3,0.018784779,"kidney",90,TRUE
+"aspartate",1,0.112412487,"kidney",90,TRUE
+"aspartate",2,0.059809059,"kidney",90,TRUE
+"aspartate",3,0.016378929,"kidney",90,TRUE
+"glutamate",1,0.075195843,"kidney",90,TRUE
+"glutamate",2,0.065107312,"kidney",90,TRUE
+"glutamate",3,0.015787538,"kidney",90,TRUE
+"succinate",1,0.089123971,"kidney",90,TRUE
+"succinate",2,0.064686707,"kidney",90,TRUE
+"succinate",3,0.016709237,"kidney",90,TRUE
+"malate",1,0.082937523,"kidney",90,TRUE
+"malate",2,0.056961887,"kidney",90,TRUE
+"malate",3,0.021569684,"kidney",90,TRUE
+"aspartate",1,0.084645739,"kidney",90,TRUE
+"aspartate",2,0.044267391,"kidney",90,TRUE
+"aspartate",3,0.011084801,"kidney",90,TRUE
+"glutamate",1,0.071633092,"liver",90,FALSE
+"glutamate",2,0.07331099,"liver",90,FALSE
+"glutamate",3,0.018167002,"liver",90,FALSE
+"succinate",1,0.069667186,"liver",90,FALSE
+"succinate",2,0.080595807,"liver",90,FALSE
+"succinate",3,0.007788989,"liver",90,FALSE
+"malate",1,0.086247097,"liver",90,FALSE
+"malate",2,0.052722498,"liver",90,FALSE
+"malate",3,0.022303589,"liver",90,FALSE
+"aspartate",1,0.044252415,"liver",90,FALSE
+"aspartate",2,0.01905078,"liver",90,FALSE
+"aspartate",3,0.009541,"liver",90,FALSE
+"glutamate",1,0.055112839,"liver",90,FALSE
+"glutamate",2,0.062529156,"liver",90,FALSE
+"glutamate",3,0.013203516,"liver",90,FALSE
+"succinate",1,0.060464821,"liver",90,FALSE
+"succinate",2,0.072860173,"liver",90,FALSE
+"succinate",3,0.006027062,"liver",90,FALSE
+"malate",1,0.072494214,"liver",90,FALSE
+"malate",2,0.045301403,"liver",90,FALSE
+"malate",3,0.021617125,"liver",90,FALSE
+"aspartate",1,0.038612849,"liver",90,FALSE
+"aspartate",2,0.017019117,"liver",90,FALSE
+"aspartate",3,0.009275504,"liver",90,FALSE
+"glutamate",1,0.029232405,"quad",90,FALSE
+"glutamate",2,0.02746798,"quad",90,FALSE
+"glutamate",3,0.004260649,"quad",90,FALSE
+"succinate",1,0.035554183,"quad",90,FALSE
+"succinate",2,0.020173307,"quad",90,FALSE
+"succinate",3,0.002840068,"quad",90,FALSE
+"malate",1,0.034708895,"quad",90,FALSE
+"malate",2,0.01859168,"quad",90,FALSE
+"malate",3,0.005633179,"quad",90,FALSE
+"aspartate",1,0.027519116,"quad",90,FALSE
+"aspartate",2,0.013668684,"quad",90,FALSE
+"aspartate",3,0.005011129,"quad",90,FALSE
+"glutamate",1,0.03164867,"quad",90,FALSE
+"glutamate",2,0.022171604,"quad",90,FALSE
+"glutamate",3,0.003761898,"quad",90,FALSE
+"succinate",1,0.027012798,"quad",90,FALSE
+"succinate",2,0.017869638,"quad",90,FALSE
+"succinate",3,0.004874161,"quad",90,FALSE
+"malate",1,0.032680228,"quad",90,FALSE
+"malate",2,0.01658662,"quad",90,FALSE
+"malate",3,0.005989696,"quad",90,FALSE
+"aspartate",1,0.026475383,"quad",90,FALSE
+"aspartate",2,0.013712192,"quad",90,FALSE
+"aspartate",3,0.005299864,"quad",90,FALSE
+"glutamate",1,0.044473847,"spleen",90,FALSE
+"glutamate",2,0.046285052,"spleen",90,FALSE
+"glutamate",3,0.005313604,"spleen",90,FALSE
+"succinate",1,0.054233277,"spleen",90,FALSE
+"succinate",2,0.043287935,"spleen",90,FALSE
+"succinate",3,0.002602234,"spleen",90,FALSE
+"malate",1,0.050264282,"spleen",90,FALSE
+"malate",2,0.035932801,"spleen",90,FALSE
+"malate",3,0.005364978,"spleen",90,FALSE
+"aspartate",1,0.042404866,"spleen",90,FALSE
+"aspartate",2,0.033909211,"spleen",90,FALSE
+"aspartate",3,0.004093082,"spleen",90,FALSE
+"glutamate",1,0.044958279,"spleen",90,FALSE
+"glutamate",2,0.039502982,"spleen",90,FALSE
+"glutamate",3,0.004573641,"spleen",90,FALSE
+"succinate",1,0.046165616,"spleen",90,FALSE
+"succinate",2,0.03257865,"spleen",90,FALSE
+"succinate",3,0.00181785,"spleen",90,FALSE
+"malate",1,0.047016755,"spleen",90,FALSE
+"malate",2,0.030190931,"spleen",90,FALSE
+"malate",3,0.005101079,"spleen",90,FALSE
+"aspartate",1,0.04585438,"spleen",90,FALSE
+"aspartate",2,0.029030509,"spleen",90,FALSE
+"aspartate",3,0.004162761,"spleen",90,FALSE
+"glutamate",1,0.046774473,"brown adipose",90,TRUE
+"glutamate",2,0.035775298,"brown adipose",90,TRUE
+"glutamate",3,0.006856797,"brown adipose",90,TRUE
+"succinate",1,0.072232446,"brown adipose",90,TRUE
+"succinate",2,0.033407897,"brown adipose",90,TRUE
+"succinate",3,0.011522615,"brown adipose",90,TRUE
+"malate",1,0.068399612,"brown adipose",90,TRUE
+"malate",2,0.029481381,"brown adipose",90,TRUE
+"malate",3,0.012454359,"brown adipose",90,TRUE
+"aspartate",1,0.044995992,"brown adipose",90,TRUE
+"aspartate",2,0.020986144,"brown adipose",90,TRUE
+"aspartate",3,0.008506257,"brown adipose",90,TRUE
+"glutamate",1,0.042667302,"brown adipose",90,TRUE
+"glutamate",2,0.03072882,"brown adipose",90,TRUE
+"glutamate",3,0.005302373,"brown adipose",90,TRUE
+"succinate",1,0.068872405,"brown adipose",90,TRUE
+"succinate",2,0.032111439,"brown adipose",90,TRUE
+"succinate",3,0.012070719,"brown adipose",90,TRUE
+"malate",1,0.059506247,"brown adipose",90,TRUE
+"malate",2,0.027711641,"brown adipose",90,TRUE
+"malate",3,0.011155129,"brown adipose",90,TRUE
+"aspartate",1,0.03313756,"brown adipose",90,TRUE
+"aspartate",2,0.017099902,"brown adipose",90,TRUE
+"aspartate",3,0.00639977,"brown adipose",90,TRUE
+"glutamate",1,0.037048647,"colon",90,FALSE
+"glutamate",2,0.024630378,"colon",90,FALSE
+"glutamate",3,0.007491454,"colon",90,FALSE
+"succinate",1,0.053977209,"colon",90,FALSE
+"succinate",2,0.031965883,"colon",90,FALSE
+"succinate",3,0.008127555,"colon",90,FALSE
+"malate",1,0.052465767,"colon",90,FALSE
+"malate",2,0.028728292,"colon",90,FALSE
+"malate",3,0.013640731,"colon",90,FALSE
+"aspartate",1,0.043794543,"colon",90,FALSE
+"aspartate",2,0.019387847,"colon",90,FALSE
+"aspartate",3,0.010006085,"colon",90,FALSE
+"glutamate",1,0.037763376,"colon",90,FALSE
+"glutamate",2,0.022809581,"colon",90,FALSE
+"glutamate",3,0.005578632,"colon",90,FALSE
+"succinate",1,0.048958269,"colon",90,FALSE
+"succinate",2,0.025682369,"colon",90,FALSE
+"succinate",3,0.008035082,"colon",90,FALSE
+"malate",1,0.046130815,"colon",90,FALSE
+"malate",2,0.022629889,"colon",90,FALSE
+"malate",3,0.010919925,"colon",90,FALSE
+"aspartate",1,0.036613475,"colon",90,FALSE
+"aspartate",2,0.017850124,"colon",90,FALSE
+"aspartate",3,0.007194563,"colon",90,FALSE
+"glutamate",1,0.057253561,"lung",90,FALSE
+"glutamate",2,0.046170621,"lung",90,FALSE
+"glutamate",3,0.008216833,"lung",90,FALSE
+"succinate",1,0.068033385,"lung",90,FALSE
+"succinate",2,0.042917673,"lung",90,FALSE
+"succinate",3,0.002840481,"lung",90,FALSE
+"malate",1,0.07191486,"lung",90,FALSE
+"malate",2,0.043537147,"lung",90,FALSE
+"malate",3,0.015279649,"lung",90,FALSE
+"aspartate",1,0.056989666,"lung",90,FALSE
+"aspartate",2,0.036072603,"lung",90,FALSE
+"aspartate",3,0.012939456,"lung",90,FALSE
+"glutamate",1,0.050269199,"lung",90,FALSE
+"glutamate",2,0.035797335,"lung",90,FALSE
+"glutamate",3,0.006501751,"lung",90,FALSE
+"succinate",1,0.054109412,"lung",90,FALSE
+"succinate",2,0.034274595,"lung",90,FALSE
+"succinate",3,0.00266685,"lung",90,FALSE
+"malate",1,0.061491139,"lung",90,FALSE
+"malate",2,0.034203748,"lung",90,FALSE
+"malate",3,0.011434606,"lung",90,FALSE
+"aspartate",1,0.049128533,"lung",90,FALSE
+"aspartate",2,0.031955418,"lung",90,FALSE
+"aspartate",3,0.011440496,"lung",90,FALSE
+"glutamate",1,0.055528978,"pancreas",90,FALSE
+"glutamate",2,0.0389327,"pancreas",90,FALSE
+"glutamate",3,0.00799604,"pancreas",90,FALSE
+"succinate",1,0.058428983,"pancreas",90,FALSE
+"succinate",2,0.030899022,"pancreas",90,FALSE
+"succinate",3,0.002628222,"pancreas",90,FALSE
+"malate",1,0.054145389,"pancreas",90,FALSE
+"malate",2,0.025888652,"pancreas",90,FALSE
+"malate",3,0.012098956,"pancreas",90,FALSE
+"aspartate",1,0.053124385,"pancreas",90,FALSE
+"aspartate",2,0.027470747,"pancreas",90,FALSE
+"aspartate",3,0.008273078,"pancreas",90,FALSE
+"glutamate",1,0.046725198,"pancreas",90,FALSE
+"glutamate",2,0.030281717,"pancreas",90,FALSE
+"glutamate",3,0.007085154,"pancreas",90,FALSE
+"succinate",1,0.045709431,"pancreas",90,FALSE
+"succinate",2,0.026861279,"pancreas",90,FALSE
+"succinate",3,0.002630277,"pancreas",90,FALSE
+"malate",1,0.046600544,"pancreas",90,FALSE
+"malate",2,0.024256221,"pancreas",90,FALSE
+"malate",3,0.012159556,"pancreas",90,FALSE
+"aspartate",1,0.040714197,"pancreas",90,FALSE
+"aspartate",2,0.02180155,"pancreas",90,FALSE
+"aspartate",3,0.011821648,"pancreas",90,FALSE
+"glutamate",1,0.040308973,"skin",90,FALSE
+"glutamate",2,0.047704232,"skin",90,FALSE
+"glutamate",3,0.0077302,"skin",90,FALSE
+"succinate",1,0.052579917,"skin",90,FALSE
+"succinate",2,0.043657307,"skin",90,FALSE
+"succinate",3,0.004118664,"skin",90,FALSE
+"malate",1,0.063858975,"skin",90,FALSE
+"malate",2,0.038869356,"skin",90,FALSE
+"malate",3,0.012660147,"skin",90,FALSE
+"aspartate",1,0.03492447,"skin",90,FALSE
+"aspartate",2,0.023773434,"skin",90,FALSE
+"aspartate",3,0.009119259,"skin",90,FALSE
+"glutamate",1,0.035033807,"skin",90,FALSE
+"glutamate",2,0.037910676,"skin",90,FALSE
+"glutamate",3,0.007537577,"skin",90,FALSE
+"succinate",1,0.042898428,"skin",90,FALSE
+"succinate",2,0.035584056,"skin",90,FALSE
+"succinate",3,0.002663506,"skin",90,FALSE
+"malate",1,0.047661627,"skin",90,FALSE
+"malate",2,0.028920027,"skin",90,FALSE
+"malate",3,0.012797238,"skin",90,FALSE
+"aspartate",1,0.032425101,"skin",90,FALSE
+"aspartate",2,0.02236501,"skin",90,FALSE
+"aspartate",3,0.010568396,"skin",90,FALSE
+"glutamate",1,0.040291622,"white adipose",90,TRUE
+"glutamate",2,0.034594523,"white adipose",90,TRUE
+"glutamate",3,0.010174274,"white adipose",90,TRUE
+"succinate",1,0.05272107,"white adipose",90,TRUE
+"succinate",2,0.05413525,"white adipose",90,TRUE
+"succinate",3,0.000977265,"white adipose",90,TRUE
+"malate",1,0.049384935,"white adipose",90,TRUE
+"malate",2,0.032031798,"white adipose",90,TRUE
+"malate",3,0.012554914,"white adipose",90,TRUE
+"aspartate",1,0.020738604,"white adipose",90,TRUE
+"aspartate",2,0.002875647,"white adipose",90,TRUE
+"aspartate",3,0.006274477,"white adipose",90,TRUE
+"glutamate",1,0.043266449,"white adipose",90,TRUE
+"glutamate",2,0.031776806,"white adipose",90,TRUE
+"glutamate",3,0.008014115,"white adipose",90,TRUE
+"succinate",1,0.055915569,"white adipose",90,TRUE
+"succinate",2,0.0411878,"white adipose",90,TRUE
+"succinate",3,0.00193913,"white adipose",90,TRUE
+"malate",1,0.040262773,"white adipose",90,TRUE
+"malate",2,0.024831046,"white adipose",90,TRUE
+"malate",3,0.012484086,"white adipose",90,TRUE
+"aspartate",1,0.027101707,"white adipose",90,TRUE
+"aspartate",2,0.006416186,"white adipose",90,TRUE
+"aspartate",3,0.005250507,"white adipose",90,TRUE
+"glutamate",1,0.023914635,"diaphragm",3,FALSE
+"glutamate",2,0.022616582,"diaphragm",3,FALSE
+"glutamate",3,0.00141738,"diaphragm",3,FALSE
+"succinate",1,0.0309294,"diaphragm",3,FALSE
+"succinate",2,0.020697402,"diaphragm",3,FALSE
+"succinate",3,0.001863374,"diaphragm",3,FALSE
+"malate",1,0.028208416,"diaphragm",3,FALSE
+"malate",2,0.020440193,"diaphragm",3,FALSE
+"malate",3,0.002439012,"diaphragm",3,FALSE
+"aspartate",1,0.021566395,"diaphragm",3,FALSE
+"aspartate",2,0.018622986,"diaphragm",3,FALSE
+"aspartate",3,0.001652985,"diaphragm",3,FALSE
+"glutamate",1,0.049010841,"diaphragm",20,FALSE
+"glutamate",2,0.031471179,"diaphragm",20,FALSE
+"glutamate",3,0.003302191,"diaphragm",20,FALSE
+"succinate",1,0.054791238,"diaphragm",20,FALSE
+"succinate",2,0.02495586,"diaphragm",20,FALSE
+"succinate",3,0.002995968,"diaphragm",20,FALSE
+"malate",1,0.054689296,"diaphragm",20,FALSE
+"malate",2,0.024765902,"diaphragm",20,FALSE
+"malate",3,0.004488003,"diaphragm",20,FALSE
+"aspartate",1,0.042158694,"diaphragm",20,FALSE
+"aspartate",2,0.022808914,"diaphragm",20,FALSE
+"aspartate",3,0.003729962,"diaphragm",20,FALSE
+"glutamate",1,0.000914312,"gastrocnemius",3,FALSE
+"glutamate",2,0.003900738,"gastrocnemius",3,FALSE
+"glutamate",3,0.000502462,"gastrocnemius",3,FALSE
+"succinate",1,0.002013012,"gastrocnemius",3,FALSE
+"succinate",2,0.002508726,"gastrocnemius",3,FALSE
+"succinate",3,0.00084647,"gastrocnemius",3,FALSE
+"malate",2,0.002231968,"gastrocnemius",3,FALSE
+"malate",3,0.001217383,"gastrocnemius",3,FALSE
+"aspartate",2,0.001601174,"gastrocnemius",3,FALSE
+"aspartate",3,0.001238356,"gastrocnemius",3,FALSE
+"glutamate",1,0.014051854,"gastrocnemius",20,FALSE
+"glutamate",2,0.019499674,"gastrocnemius",20,FALSE
+"glutamate",3,0.001603826,"gastrocnemius",20,FALSE
+"succinate",1,0.014455876,"gastrocnemius",20,FALSE
+"succinate",2,0.0136297,"gastrocnemius",20,FALSE
+"succinate",3,0.002385982,"gastrocnemius",20,FALSE
+"malate",1,0.013043112,"gastrocnemius",20,FALSE
+"malate",2,0.012928213,"gastrocnemius",20,FALSE
+"malate",3,0.003729374,"gastrocnemius",20,FALSE
+"aspartate",1,0.010104809,"gastrocnemius",20,FALSE
+"aspartate",2,0.011997931,"gastrocnemius",20,FALSE
+"aspartate",3,0.004215789,"gastrocnemius",20,FALSE
+"glutamate",1,0.017093723,"heart",3,FALSE
+"glutamate",2,0.010268452,"heart",3,FALSE
+"glutamate",3,0.000631771,"heart",3,FALSE
+"succinate",1,0.017982096,"heart",3,FALSE
+"succinate",2,0.007607439,"heart",3,FALSE
+"succinate",3,0.00064089,"heart",3,FALSE
+"malate",1,0.015987722,"heart",3,FALSE
+"malate",2,0.008013543,"heart",3,FALSE
+"malate",3,0.000909381,"heart",3,FALSE
+"aspartate",1,0.015890122,"heart",3,FALSE
+"aspartate",2,0.007715564,"heart",3,FALSE
+"aspartate",3,0.000797512,"heart",3,FALSE
+"glutamate",1,0.023359216,"heart",20,FALSE
+"glutamate",2,0.016411545,"heart",20,FALSE
+"glutamate",3,0.001109664,"heart",20,FALSE
+"succinate",1,0.025039678,"heart",20,FALSE
+"succinate",2,0.010452652,"heart",20,FALSE
+"succinate",3,0.000969894,"heart",20,FALSE
+"malate",1,0.027599554,"heart",20,FALSE
+"malate",2,0.010433421,"heart",20,FALSE
+"malate",3,0.001036448,"heart",20,FALSE
+"aspartate",1,0.022369821,"heart",20,FALSE
+"aspartate",2,0.011034704,"heart",20,FALSE
+"aspartate",3,0.001454746,"heart",20,FALSE
+"glutamate",1,0.003200377,"intestine",3,FALSE
+"glutamate",2,0.004550269,"intestine",3,FALSE
+"glutamate",3,0.00134405,"intestine",3,FALSE
+"succinate",1,0.007655703,"intestine",3,FALSE
+"succinate",2,0.007740861,"intestine",3,FALSE
+"succinate",3,0.003197401,"intestine",3,FALSE
+"malate",1,0.004794661,"intestine",3,FALSE
+"malate",2,0.004414299,"intestine",3,FALSE
+"malate",3,0.004769531,"intestine",3,FALSE
+"aspartate",2,0.001228626,"intestine",3,FALSE
+"aspartate",3,0.00383668,"intestine",3,FALSE
+"glutamate",1,0.017376738,"intestine",20,FALSE
+"glutamate",2,0.024646757,"intestine",20,FALSE
+"glutamate",3,0.005591353,"intestine",20,FALSE
+"succinate",1,0.025214149,"intestine",20,FALSE
+"succinate",2,0.01947449,"intestine",20,FALSE
+"succinate",3,0.003010121,"intestine",20,FALSE
+"malate",1,0.023773623,"intestine",20,FALSE
+"malate",2,0.019011027,"intestine",20,FALSE
+"malate",3,0.006844705,"intestine",20,FALSE
+"aspartate",1,0.011448401,"intestine",20,FALSE
+"aspartate",2,0.019416334,"intestine",20,FALSE
+"aspartate",3,0.006729736,"intestine",20,FALSE
+"glutamate",1,0.010884357,"kidney",3,FALSE
+"glutamate",2,0.024471989,"kidney",3,FALSE
+"glutamate",3,0.00772292,"kidney",3,FALSE
+"succinate",1,0.02724052,"kidney",3,FALSE
+"succinate",2,0.033596659,"kidney",3,FALSE
+"succinate",3,0.022872548,"kidney",3,FALSE
+"malate",1,0.027651064,"kidney",3,FALSE
+"malate",2,0.032048998,"kidney",3,FALSE
+"malate",3,0.029935317,"kidney",3,FALSE
+"aspartate",1,0.026099119,"kidney",3,FALSE
+"aspartate",2,0.035754077,"kidney",3,FALSE
+"aspartate",3,0.044341505,"kidney",3,FALSE
+"glutamate",1,0.038751017,"kidney",20,FALSE
+"glutamate",2,0.037859208,"kidney",20,FALSE
+"glutamate",3,0.009840272,"kidney",20,FALSE
+"succinate",1,0.054120745,"kidney",20,FALSE
+"succinate",2,0.04111354,"kidney",20,FALSE
+"succinate",3,0.0129975,"kidney",20,FALSE
+"malate",1,0.056221331,"kidney",20,FALSE
+"malate",2,0.038866338,"kidney",20,FALSE
+"malate",3,0.01873441,"kidney",20,FALSE
+"aspartate",1,0.044995076,"kidney",20,FALSE
+"aspartate",2,0.032005687,"kidney",20,FALSE
+"aspartate",3,0.018574293,"kidney",20,FALSE
+"glutamate",1,0.008619001,"liver",3,FALSE
+"glutamate",2,0.039832438,"liver",3,FALSE
+"glutamate",3,0.013845824,"liver",3,FALSE
+"succinate",1,0.016392068,"liver",3,FALSE
+"succinate",2,0.055086898,"liver",3,FALSE
+"succinate",3,0.015514442,"liver",3,FALSE
+"malate",1,0.019231364,"liver",3,FALSE
+"malate",2,0.039570589,"liver",3,FALSE
+"aspartate",1,0.006128485,"liver",3,FALSE
+"aspartate",2,0.009724389,"liver",3,FALSE
+"aspartate",3,0.010060798,"liver",3,FALSE
+"glutamate",1,0.031126848,"liver",20,FALSE
+"glutamate",2,0.065329947,"liver",20,FALSE
+"glutamate",3,0.02101204,"liver",20,FALSE
+"succinate",1,0.041765216,"liver",20,FALSE
+"succinate",2,0.074667593,"liver",20,FALSE
+"succinate",3,0.015266291,"liver",20,FALSE
+"malate",1,0.046422878,"liver",20,FALSE
+"malate",2,0.053064457,"liver",20,FALSE
+"malate",3,0.031925262,"liver",20,FALSE
+"aspartate",1,0.021238135,"liver",20,FALSE
+"aspartate",2,0.025635636,"liver",20,FALSE
+"aspartate",3,0.017525767,"liver",20,FALSE
+"glutamate",1,0.003714465,"quad",3,FALSE
+"glutamate",2,0.006589171,"quad",3,FALSE
+"succinate",1,0.002351886,"quad",3,FALSE
+"succinate",2,0.004750838,"quad",3,FALSE
+"succinate",3,0.001037767,"quad",3,FALSE
+"malate",1,0.001307999,"quad",3,FALSE
+"malate",2,0.003777192,"quad",3,FALSE
+"malate",3,0.001769509,"quad",3,FALSE
+"aspartate",2,0.001962253,"quad",3,FALSE
+"aspartate",3,0.000874518,"quad",3,FALSE
+"glutamate",1,0.009604885,"quad",20,FALSE
+"glutamate",2,0.01424897,"quad",20,FALSE
+"glutamate",3,0.001443924,"quad",20,FALSE
+"succinate",1,0.008368443,"quad",20,FALSE
+"succinate",2,0.009397223,"quad",20,FALSE
+"succinate",3,0.002504721,"quad",20,FALSE
+"malate",1,0.00914633,"quad",20,FALSE
+"malate",2,0.010434094,"quad",20,FALSE
+"malate",3,0.003794496,"quad",20,FALSE
+"aspartate",1,0.004626725,"quad",20,FALSE
+"aspartate",2,0.007652226,"quad",20,FALSE
+"aspartate",3,0.002687378,"quad",20,FALSE
+"glutamate",1,0.001097792,"spleen",3,FALSE
+"glutamate",2,0.001033983,"spleen",3,FALSE
+"glutamate",3,0.000211457,"spleen",3,FALSE
+"succinate",1,0.001515362,"spleen",3,FALSE
+"succinate",2,0.002978022,"spleen",3,FALSE
+"succinate",3,0.00015978,"spleen",3,FALSE
+"malate",2,0.001334313,"spleen",3,FALSE
+"malate",3,0.002134948,"spleen",3,FALSE
+"aspartate",2,0.000520389,"spleen",3,FALSE
+"aspartate",3,0.001155539,"spleen",3,FALSE
+"glutamate",1,0.007355786,"spleen",20,FALSE
+"glutamate",2,0.012269142,"spleen",20,FALSE
+"glutamate",3,0.002384579,"spleen",20,FALSE
+"succinate",1,0.009740609,"spleen",20,FALSE
+"succinate",2,0.015471397,"spleen",20,FALSE
+"succinate",3,0.000307599,"spleen",20,FALSE
+"malate",1,0.010129628,"spleen",20,FALSE
+"malate",2,0.010918419,"spleen",20,FALSE
+"malate",3,0.004441544,"spleen",20,FALSE
+"aspartate",1,0.007026271,"spleen",20,FALSE
+"aspartate",2,0.009476074,"spleen",20,FALSE
+"aspartate",3,0.004308155,"spleen",20,FALSE
+"glutamate",1,0.004608319,"brown adipose",3,FALSE
+"glutamate",2,0.003959273,"brown adipose",3,FALSE
+"glutamate",3,0.000654658,"brown adipose",3,FALSE
+"succinate",1,0.018357731,"brown adipose",3,FALSE
+"succinate",2,0.009435015,"brown adipose",3,FALSE
+"succinate",3,0.006849941,"brown adipose",3,FALSE
+"malate",1,0.012617201,"brown adipose",3,FALSE
+"malate",2,0.006247386,"brown adipose",3,FALSE
+"malate",3,0.00564127,"brown adipose",3,FALSE
+"aspartate",1,0.003490317,"brown adipose",3,FALSE
+"aspartate",2,0.002930519,"brown adipose",3,FALSE
+"aspartate",3,0.004033107,"brown adipose",3,FALSE
+"glutamate",1,0.011532818,"brown adipose",20,FALSE
+"glutamate",2,0.016832426,"brown adipose",20,FALSE
+"glutamate",3,0.003833532,"brown adipose",20,FALSE
+"succinate",1,0.031627167,"brown adipose",20,FALSE
+"succinate",2,0.020753131,"brown adipose",20,FALSE
+"succinate",3,0.011241965,"brown adipose",20,FALSE
+"malate",1,0.028033754,"brown adipose",20,FALSE
+"malate",2,0.016907706,"brown adipose",20,FALSE
+"malate",3,0.010648074,"brown adipose",20,FALSE
+"aspartate",1,0.009864203,"brown adipose",20,FALSE
+"aspartate",2,0.010071777,"brown adipose",20,FALSE
+"aspartate",3,0.007719356,"brown adipose",20,FALSE
+"glutamate",1,0.003150251,"colon",3,FALSE
+"glutamate",2,0.004844903,"colon",3,FALSE
+"glutamate",3,0.002053613,"colon",3,FALSE
+"succinate",1,0.00457224,"colon",3,FALSE
+"succinate",2,0.009263022,"colon",3,FALSE
+"succinate",3,0.005294006,"colon",3,FALSE
+"malate",1,0.002657721,"colon",3,FALSE
+"malate",2,0.006924089,"colon",3,FALSE
+"malate",3,0.006670134,"colon",3,FALSE
+"aspartate",2,0.003579634,"colon",3,FALSE
+"aspartate",3,0.005559485,"colon",3,FALSE
+"glutamate",1,0.014984544,"colon",20,FALSE
+"glutamate",2,0.015538964,"colon",20,FALSE
+"glutamate",3,0.004635541,"colon",20,FALSE
+"succinate",1,0.032635314,"colon",20,FALSE
+"succinate",2,0.024318038,"colon",20,FALSE
+"succinate",3,0.005856732,"colon",20,FALSE
+"malate",1,0.031065479,"colon",20,FALSE
+"malate",2,0.022336277,"colon",20,FALSE
+"malate",3,0.009496099,"colon",20,FALSE
+"aspartate",1,0.019095357,"colon",20,FALSE
+"aspartate",2,0.010922356,"colon",20,FALSE
+"aspartate",3,0.006374877,"colon",20,FALSE
+"glutamate",1,0.00429516,"lung",3,FALSE
+"glutamate",2,0.006563688,"lung",3,FALSE
+"glutamate",3,0.001742713,"lung",3,FALSE
+"succinate",1,0.00474196,"lung",3,FALSE
+"succinate",2,0.010901943,"lung",3,FALSE
+"succinate",3,0.000502877,"lung",3,FALSE
+"malate",1,0.007090571,"lung",3,FALSE
+"malate",2,0.008537527,"lung",3,FALSE
+"malate",3,0.007428232,"lung",3,FALSE
+"aspartate",1,0.003006979,"lung",3,FALSE
+"aspartate",2,0.004662222,"lung",3,FALSE
+"aspartate",3,0.005851889,"lung",3,FALSE
+"glutamate",1,0.020916782,"lung",20,FALSE
+"glutamate",2,0.022501963,"lung",20,FALSE
+"glutamate",3,0.0056507,"lung",20,FALSE
+"succinate",1,0.030752465,"lung",20,FALSE
+"succinate",2,0.027089027,"lung",20,FALSE
+"succinate",3,0.000849668,"lung",20,FALSE
+"malate",1,0.035885317,"lung",20,FALSE
+"malate",2,0.026568911,"lung",20,FALSE
+"malate",3,0.013261034,"lung",20,FALSE
+"aspartate",1,0.01726456,"lung",20,FALSE
+"aspartate",2,0.020399318,"lung",20,FALSE
+"aspartate",3,0.01357092,"lung",20,FALSE
+"glutamate",1,0.004319883,"pancreas",3,FALSE
+"glutamate",2,0.007433981,"pancreas",3,FALSE
+"glutamate",3,0.002270867,"pancreas",3,FALSE
+"succinate",1,0.007189143,"pancreas",3,FALSE
+"succinate",2,0.008965338,"pancreas",3,FALSE
+"succinate",3,0.002368914,"pancreas",3,FALSE
+"malate",1,0.00616102,"pancreas",3,FALSE
+"malate",2,0.006592059,"pancreas",3,FALSE
+"malate",3,0.015505621,"pancreas",3,FALSE
+"aspartate",1,0.004017183,"pancreas",3,FALSE
+"aspartate",2,0.00497815,"pancreas",3,FALSE
+"aspartate",3,0.011718824,"pancreas",3,FALSE
+"glutamate",1,0.025895251,"pancreas",20,FALSE
+"glutamate",2,0.026617923,"pancreas",20,FALSE
+"glutamate",3,0.007820154,"pancreas",20,FALSE
+"succinate",1,0.029594084,"pancreas",20,FALSE
+"succinate",2,0.026723229,"pancreas",20,FALSE
+"succinate",3,0.003132239,"pancreas",20,FALSE
+"malate",1,0.031334871,"pancreas",20,FALSE
+"malate",2,0.021590425,"pancreas",20,FALSE
+"malate",3,0.02045791,"pancreas",20,FALSE
+"aspartate",1,0.028776401,"pancreas",20,FALSE
+"aspartate",2,0.018711764,"pancreas",20,FALSE
+"aspartate",3,0.018322783,"pancreas",20,FALSE
+"glutamate",1,0.001942428,"skin",3,FALSE
+"glutamate",2,0.001415738,"skin",3,FALSE
+"glutamate",3,0.000214655,"skin",3,FALSE
+"succinate",1,0.003083655,"skin",3,FALSE
+"succinate",2,0.002555917,"skin",3,FALSE
+"succinate",3,0.000747054,"skin",3,FALSE
+"malate",1,0.001975687,"skin",3,FALSE
+"malate",2,0.002747428,"skin",3,FALSE
+"aspartate",1,0.001077497,"skin",3,FALSE
+"aspartate",3,0.001263562,"skin",3,FALSE
+"glutamate",1,0.008713359,"skin",20,FALSE
+"glutamate",2,0.014704607,"skin",20,FALSE
+"glutamate",3,0.003203947,"skin",20,FALSE
+"succinate",1,0.018628322,"skin",20,FALSE
+"succinate",2,0.023973166,"skin",20,FALSE
+"succinate",3,0.00340287,"skin",20,FALSE
+"malate",1,0.014709074,"skin",20,FALSE
+"malate",2,0.017546471,"skin",20,FALSE
+"malate",3,0.009617199,"skin",20,FALSE
+"aspartate",1,0.007224591,"skin",20,FALSE
+"aspartate",2,0.006738448,"skin",20,FALSE
+"aspartate",3,0.005953998,"skin",20,FALSE
+"glutamate",1,0.003760166,"soleus",3,FALSE
+"glutamate",2,0.013690746,"soleus",3,FALSE
+"glutamate",3,0.001220655,"soleus",3,FALSE
+"succinate",1,0.005620066,"soleus",3,FALSE
+"succinate",2,0.009180029,"soleus",3,FALSE
+"succinate",3,0.003194944,"soleus",3,FALSE
+"malate",1,0.00433516,"soleus",3,FALSE
+"malate",2,0.00681382,"soleus",3,FALSE
+"malate",3,0.004250584,"soleus",3,FALSE
+"aspartate",1,0.001297984,"soleus",3,FALSE
+"aspartate",2,0.006245308,"soleus",3,FALSE
+"aspartate",3,0.004364449,"soleus",3,FALSE
+"glutamate",1,0.052530323,"soleus",20,FALSE
+"glutamate",2,0.039344273,"soleus",20,FALSE
+"glutamate",3,0.002585594,"soleus",20,FALSE
+"succinate",1,0.052853888,"soleus",20,FALSE
+"succinate",2,0.029506311,"soleus",20,FALSE
+"succinate",3,0.005240634,"soleus",20,FALSE
+"malate",1,0.054034041,"soleus",20,FALSE
+"malate",2,0.029291333,"soleus",20,FALSE
+"malate",3,0.006238474,"soleus",20,FALSE
+"aspartate",1,0.052697172,"soleus",20,FALSE
+"aspartate",2,0.029116167,"soleus",20,FALSE
+"aspartate",3,0.006541024,"soleus",20,FALSE
+"glutamate",1,0.006833522,"white adipose",3,FALSE
+"glutamate",2,0.013867971,"white adipose",3,FALSE
+"glutamate",3,0.002420402,"white adipose",3,FALSE
+"succinate",1,0.016953799,"white adipose",3,FALSE
+"succinate",2,0.020197189,"white adipose",3,FALSE
+"succinate",3,0.000963713,"white adipose",3,FALSE
+"malate",1,0.015089288,"white adipose",3,FALSE
+"malate",2,0.011344909,"white adipose",3,FALSE
+"malate",3,0.007854251,"white adipose",3,FALSE
+"aspartate",3,0.002344876,"white adipose",3,FALSE
+"glutamate",1,0.015655008,"white adipose",20,FALSE
+"glutamate",2,0.018676723,"white adipose",20,FALSE
+"glutamate",3,0.006652091,"white adipose",20,FALSE
+"succinate",1,0.019155273,"white adipose",20,FALSE
+"succinate",2,0.02098211,"white adipose",20,FALSE
+"succinate",3,0.000651503,"white adipose",20,FALSE
+"malate",1,0.021374089,"white adipose",20,FALSE
+"malate",2,0.018488826,"white adipose",20,FALSE
+"malate",3,0.012858342,"white adipose",20,FALSE
+"aspartate",1,0.016485467,"white adipose",20,FALSE
+"aspartate",3,0.002411887,"white adipose",20,FALSE
+"glutamate",1,0.009294032,"diaphragm",1.5,FALSE
+"glutamate",2,0.015420073,"diaphragm",1.5,FALSE
+"glutamate",3,0.00065194,"diaphragm",1.5,FALSE
+"succinate",1,0.015127451,"diaphragm",1.5,FALSE
+"succinate",2,0.014552122,"diaphragm",1.5,FALSE
+"succinate",3,0.002109188,"diaphragm",1.5,FALSE
+"malate",1,0.014490002,"diaphragm",1.5,FALSE
+"malate",2,0.013807815,"diaphragm",1.5,FALSE
+"malate",3,0.001749124,"diaphragm",1.5,FALSE
+"aspartate",1,0.008205073,"diaphragm",1.5,FALSE
+"aspartate",2,0.01014401,"diaphragm",1.5,FALSE
+"aspartate",3,0.001423862,"diaphragm",1.5,FALSE
+"glutamate",1,0.051011862,"diaphragm",45,TRUE
+"glutamate",2,0.039174948,"diaphragm",45,TRUE
+"glutamate",3,0.004512754,"diaphragm",45,TRUE
+"succinate",1,0.04724937,"diaphragm",45,TRUE
+"succinate",2,0.034304806,"diaphragm",45,TRUE
+"succinate",3,0.003512488,"diaphragm",45,TRUE
+"malate",1,0.050883064,"diaphragm",45,TRUE
+"malate",2,0.024597148,"diaphragm",45,TRUE
+"malate",3,0.00490535,"diaphragm",45,TRUE
+"aspartate",1,0.04753266,"diaphragm",45,TRUE
+"aspartate",2,0.025538756,"diaphragm",45,TRUE
+"aspartate",3,0.003908941,"diaphragm",45,TRUE
+"glutamate",1,0.036797081,"diaphragm",10,FALSE
+"glutamate",2,0.028023498,"diaphragm",10,FALSE
+"glutamate",3,0.002172973,"diaphragm",10,FALSE
+"succinate",1,0.045899,"diaphragm",10,FALSE
+"succinate",2,0.023332124,"diaphragm",10,FALSE
+"succinate",3,0.002086909,"diaphragm",10,FALSE
+"malate",1,0.043202953,"diaphragm",10,FALSE
+"malate",2,0.021927938,"diaphragm",10,FALSE
+"malate",3,0.002750884,"diaphragm",10,FALSE
+"aspartate",1,0.037832591,"diaphragm",10,FALSE
+"aspartate",2,0.02099077,"diaphragm",10,FALSE
+"aspartate",3,0.003213096,"diaphragm",10,FALSE
+"glutamate",1,0.012512231,"diaphragm",3,FALSE
+"glutamate",2,0.014341317,"diaphragm",3,FALSE
+"glutamate",3,0.001264379,"diaphragm",3,FALSE
+"succinate",1,0.016896583,"diaphragm",3,FALSE
+"succinate",2,0.013924696,"diaphragm",3,FALSE
+"succinate",3,0.002730756,"diaphragm",3,FALSE
+"malate",1,0.014723541,"diaphragm",3,FALSE
+"malate",2,0.013020242,"diaphragm",3,FALSE
+"malate",3,0.003716593,"diaphragm",3,FALSE
+"aspartate",1,0.010790757,"diaphragm",3,FALSE
+"aspartate",2,0.010614814,"diaphragm",3,FALSE
+"aspartate",3,0.003045561,"diaphragm",3,FALSE
+"glutamate",1,0.002000715,"gastrocnemius",1.5,FALSE
+"glutamate",2,0.003536161,"gastrocnemius",1.5,FALSE
+"succinate",1,0.003178158,"gastrocnemius",1.5,FALSE
+"succinate",2,0.004140315,"gastrocnemius",1.5,FALSE
+"succinate",3,0.000932719,"gastrocnemius",1.5,FALSE
+"malate",1,0.002690698,"gastrocnemius",1.5,FALSE
+"malate",2,0.004353929,"gastrocnemius",1.5,FALSE
+"malate",3,0.001117687,"gastrocnemius",1.5,FALSE
+"aspartate",1,0.001305362,"gastrocnemius",1.5,FALSE
+"aspartate",2,0.003883241,"gastrocnemius",1.5,FALSE
+"aspartate",3,0.00039143,"gastrocnemius",1.5,FALSE
+"glutamate",1,0.022005383,"gastrocnemius",45,FALSE
+"glutamate",2,0.022155966,"gastrocnemius",45,FALSE
+"glutamate",3,0.004017146,"gastrocnemius",45,FALSE
+"succinate",1,0.02683466,"gastrocnemius",45,FALSE
+"succinate",2,0.016193777,"gastrocnemius",45,FALSE
+"succinate",3,0.003822703,"gastrocnemius",45,FALSE
+"malate",1,0.026179763,"gastrocnemius",45,FALSE
+"malate",2,0.01813546,"gastrocnemius",45,FALSE
+"malate",3,0.005852378,"gastrocnemius",45,FALSE
+"aspartate",1,0.022568434,"gastrocnemius",45,FALSE
+"aspartate",2,0.014234207,"gastrocnemius",45,FALSE
+"aspartate",3,0.004818681,"gastrocnemius",45,FALSE
+"glutamate",1,0.009118648,"gastrocnemius",10,FALSE
+"glutamate",2,0.008687363,"gastrocnemius",10,FALSE
+"glutamate",3,0.001214378,"gastrocnemius",10,FALSE
+"succinate",1,0.01340373,"gastrocnemius",10,FALSE
+"succinate",2,0.009568966,"gastrocnemius",10,FALSE
+"succinate",3,0.001529358,"gastrocnemius",10,FALSE
+"malate",1,0.014465367,"gastrocnemius",10,FALSE
+"malate",2,0.010336984,"gastrocnemius",10,FALSE
+"malate",3,0.002016626,"gastrocnemius",10,FALSE
+"aspartate",1,0.017031874,"gastrocnemius",10,FALSE
+"aspartate",2,0.010840622,"gastrocnemius",10,FALSE
+"aspartate",3,0.002566544,"gastrocnemius",10,FALSE
+"glutamate",2,0.002284026,"gastrocnemius",3,FALSE
+"glutamate",3,0.000597391,"gastrocnemius",3,FALSE
+"succinate",1,0.00169299,"gastrocnemius",3,FALSE
+"succinate",2,0.002227916,"gastrocnemius",3,FALSE
+"succinate",3,0.001542596,"gastrocnemius",3,FALSE
+"malate",2,0.001881662,"gastrocnemius",3,FALSE
+"malate",3,0.002362181,"gastrocnemius",3,FALSE
+"aspartate",2,0.001569401,"gastrocnemius",3,FALSE
+"aspartate",3,0.002424047,"gastrocnemius",3,FALSE
+"glutamate",1,0.009910378,"heart",1.5,FALSE
+"glutamate",2,0.010177093,"heart",1.5,FALSE
+"glutamate",3,0.000413241,"heart",1.5,FALSE
+"succinate",1,0.01204644,"heart",1.5,FALSE
+"succinate",2,0.00820257,"heart",1.5,FALSE
+"succinate",3,0.000703291,"heart",1.5,FALSE
+"malate",1,0.010951411,"heart",1.5,FALSE
+"malate",2,0.008812341,"heart",1.5,FALSE
+"malate",3,0.001419891,"heart",1.5,FALSE
+"aspartate",1,0.009558192,"heart",1.5,FALSE
+"aspartate",2,0.007853861,"heart",1.5,FALSE
+"aspartate",3,0.001089041,"heart",1.5,FALSE
+"glutamate",1,0.041944431,"heart",45,FALSE
+"glutamate",2,0.025200146,"heart",45,FALSE
+"glutamate",3,0.001515289,"heart",45,FALSE
+"succinate",1,0.042030446,"heart",45,FALSE
+"succinate",2,0.016683598,"heart",45,FALSE
+"succinate",3,0.001063331,"heart",45,FALSE
+"malate",1,0.042043922,"heart",45,FALSE
+"malate",2,0.018550735,"heart",45,FALSE
+"malate",3,0.001279415,"heart",45,FALSE
+"aspartate",1,0.039296469,"heart",45,FALSE
+"aspartate",2,0.016937648,"heart",45,FALSE
+"aspartate",3,0.001461368,"heart",45,FALSE
+"glutamate",1,0.0214887,"heart",10,FALSE
+"glutamate",2,0.015333955,"heart",10,FALSE
+"glutamate",3,0.0005777,"heart",10,FALSE
+"succinate",1,0.021695152,"heart",10,FALSE
+"succinate",2,0.010821562,"heart",10,FALSE
+"succinate",3,0.001692339,"heart",10,FALSE
+"malate",1,0.02079118,"heart",10,FALSE
+"malate",2,0.010925607,"heart",10,FALSE
+"malate",3,0.001947894,"heart",10,FALSE
+"aspartate",1,0.018280497,"heart",10,FALSE
+"aspartate",2,0.01168597,"heart",10,FALSE
+"aspartate",3,0.002088048,"heart",10,FALSE
+"glutamate",1,0.01777691,"heart",3,FALSE
+"glutamate",2,0.011653725,"heart",3,FALSE
+"glutamate",3,0.000691352,"heart",3,FALSE
+"succinate",1,0.01852132,"heart",3,FALSE
+"succinate",2,0.008189102,"heart",3,FALSE
+"succinate",3,0.000392167,"heart",3,FALSE
+"malate",1,0.01993669,"heart",3,FALSE
+"malate",2,0.008093451,"heart",3,FALSE
+"malate",3,0.00076638,"heart",3,FALSE
+"aspartate",1,0.018712688,"heart",3,FALSE
+"aspartate",2,0.007817785,"heart",3,FALSE
+"aspartate",3,0.000784052,"heart",3,FALSE
+"glutamate",1,0.002542298,"intestine",1.5,FALSE
+"glutamate",2,0.000952417,"intestine",1.5,FALSE
+"glutamate",3,0.000368666,"intestine",1.5,FALSE
+"succinate",1,0.001643481,"intestine",1.5,FALSE
+"succinate",2,0.002265031,"intestine",1.5,FALSE
+"succinate",3,0.002493168,"intestine",1.5,FALSE
+"malate",1,0.00082791,"intestine",1.5,FALSE
+"malate",2,0.001200286,"intestine",1.5,FALSE
+"malate",3,0.003291237,"intestine",1.5,FALSE
+"aspartate",2,0.000148278,"intestine",1.5,FALSE
+"aspartate",3,0.001793636,"intestine",1.5,FALSE
+"glutamate",1,0.064118824,"intestine",45,FALSE
+"glutamate",2,0.071303051,"intestine",45,FALSE
+"glutamate",3,0.009609176,"intestine",45,FALSE
+"succinate",1,0.066166739,"intestine",45,FALSE
+"succinate",2,0.048226679,"intestine",45,FALSE
+"succinate",3,0.00695856,"intestine",45,FALSE
+"malate",1,0.062210655,"intestine",45,FALSE
+"malate",2,0.042329289,"intestine",45,FALSE
+"malate",3,0.009838502,"intestine",45,FALSE
+"aspartate",1,0.054918518,"intestine",45,FALSE
+"aspartate",2,0.045425697,"intestine",45,FALSE
+"aspartate",3,0.007516184,"intestine",45,FALSE
+"glutamate",1,0.010597057,"intestine",10,FALSE
+"glutamate",2,0.017199242,"intestine",10,FALSE
+"glutamate",3,0.003092675,"intestine",10,FALSE
+"succinate",1,0.020368886,"intestine",10,FALSE
+"succinate",2,0.017138477,"intestine",10,FALSE
+"succinate",3,0.005920492,"intestine",10,FALSE
+"malate",1,0.015282056,"intestine",10,FALSE
+"malate",2,0.012866379,"intestine",10,FALSE
+"malate",3,0.010675688,"intestine",10,FALSE
+"aspartate",1,0.005104176,"intestine",10,FALSE
+"aspartate",2,0.010546608,"intestine",10,FALSE
+"aspartate",3,0.006291607,"intestine",10,FALSE
+"glutamate",1,0.002011331,"intestine",3,FALSE
+"glutamate",2,0.005233855,"intestine",3,FALSE
+"glutamate",3,0.000545489,"intestine",3,FALSE
+"succinate",1,0.003082959,"intestine",3,FALSE
+"succinate",2,0.00486497,"intestine",3,FALSE
+"succinate",3,0.001210999,"intestine",3,FALSE
+"malate",1,0.004009193,"intestine",3,FALSE
+"malate",2,0.003585123,"intestine",3,FALSE
+"malate",3,0.002993096,"intestine",3,FALSE
+"aspartate",2,0.003100691,"intestine",3,FALSE
+"aspartate",3,0.002551994,"intestine",3,FALSE
+"glutamate",1,0.006582352,"kidney",1.5,FALSE
+"glutamate",2,0.014848339,"kidney",1.5,FALSE
+"glutamate",3,0.005070955,"kidney",1.5,FALSE
+"succinate",1,0.011116593,"kidney",1.5,FALSE
+"succinate",2,0.02150623,"kidney",1.5,FALSE
+"succinate",3,0.016032911,"kidney",1.5,FALSE
+"malate",1,0.010991569,"kidney",1.5,FALSE
+"malate",2,0.020290702,"kidney",1.5,FALSE
+"malate",3,0.020223288,"kidney",1.5,FALSE
+"aspartate",1,0.006097464,"kidney",1.5,FALSE
+"aspartate",2,0.015011389,"kidney",1.5,FALSE
+"aspartate",3,0.019402848,"kidney",1.5,FALSE
+"glutamate",1,0.062675112,"kidney",45,TRUE
+"glutamate",2,0.057657635,"kidney",45,TRUE
+"glutamate",3,0.014134954,"kidney",45,TRUE
+"succinate",1,0.08044499,"kidney",45,TRUE
+"succinate",2,0.059251727,"kidney",45,TRUE
+"succinate",3,0.014824493,"kidney",45,TRUE
+"malate",1,0.078722415,"kidney",45,TRUE
+"malate",2,0.05538335,"kidney",45,TRUE
+"malate",3,0.019545826,"kidney",45,TRUE
+"aspartate",1,0.077804021,"kidney",45,TRUE
+"aspartate",2,0.047680118,"kidney",45,TRUE
+"aspartate",3,0.017277938,"kidney",45,TRUE
+"glutamate",1,0.03202735,"kidney",10,FALSE
+"glutamate",2,0.045143722,"kidney",10,FALSE
+"glutamate",3,0.014166753,"kidney",10,FALSE
+"succinate",1,0.047886145,"kidney",10,FALSE
+"succinate",2,0.048673254,"kidney",10,FALSE
+"succinate",3,0.021981494,"kidney",10,FALSE
+"malate",1,0.048435324,"kidney",10,FALSE
+"malate",2,0.046788202,"kidney",10,FALSE
+"malate",3,0.028550912,"kidney",10,FALSE
+"aspartate",1,0.034446533,"kidney",10,FALSE
+"aspartate",2,0.031800333,"kidney",10,FALSE
+"aspartate",3,0.026640047,"kidney",10,FALSE
+"glutamate",1,0.016451575,"kidney",3,FALSE
+"glutamate",2,0.030443266,"kidney",3,FALSE
+"glutamate",3,0.00886889,"kidney",3,FALSE
+"succinate",1,0.029054497,"kidney",3,FALSE
+"succinate",2,0.038063276,"kidney",3,FALSE
+"succinate",3,0.019374434,"kidney",3,FALSE
+"malate",1,0.031203586,"kidney",3,FALSE
+"malate",2,0.036297368,"kidney",3,FALSE
+"malate",3,0.029813013,"kidney",3,FALSE
+"aspartate",1,0.023833539,"kidney",3,FALSE
+"aspartate",2,0.028545342,"kidney",3,FALSE
+"aspartate",3,0.030040998,"kidney",3,FALSE
+"glutamate",1,0.001449244,"liver",1.5,FALSE
+"glutamate",2,0.015032263,"liver",1.5,FALSE
+"glutamate",3,0.004926363,"liver",1.5,FALSE
+"succinate",1,0.006667146,"liver",1.5,FALSE
+"succinate",2,0.02179358,"liver",1.5,FALSE
+"succinate",3,0.018296332,"liver",1.5,FALSE
+"malate",1,0.008869342,"liver",1.5,FALSE
+"malate",2,0.019042521,"liver",1.5,FALSE
+"malate",3,0.024606639,"liver",1.5,FALSE
+"aspartate",2,0.010259091,"liver",1.5,FALSE
+"aspartate",3,0.012860066,"liver",1.5,FALSE
+"glutamate",1,0.049071456,"liver",45,FALSE
+"glutamate",2,0.067081986,"liver",45,FALSE
+"glutamate",3,0.015051095,"liver",45,FALSE
+"succinate",1,0.05392684,"liver",45,FALSE
+"succinate",2,0.078412789,"liver",45,FALSE
+"succinate",3,0.00866713,"liver",45,FALSE
+"malate",1,0.05937238,"liver",45,FALSE
+"malate",2,0.047297444,"liver",45,FALSE
+"malate",3,0.017329002,"liver",45,FALSE
+"aspartate",1,0.031306662,"liver",45,FALSE
+"aspartate",2,0.021551349,"liver",45,FALSE
+"aspartate",3,0.008213621,"liver",45,FALSE
+"glutamate",1,0.01790121,"liver",10,FALSE
+"glutamate",2,0.050491731,"liver",10,FALSE
+"glutamate",3,0.016683826,"liver",10,FALSE
+"succinate",1,0.028726728,"liver",10,FALSE
+"succinate",2,0.06110099,"liver",10,FALSE
+"succinate",3,0.017538596,"liver",10,FALSE
+"malate",1,0.033147028,"liver",10,FALSE
+"malate",2,0.044910422,"liver",10,FALSE
+"malate",3,0.027614515,"liver",10,FALSE
+"aspartate",1,0.011365709,"liver",10,FALSE
+"aspartate",2,0.015622379,"liver",10,FALSE
+"aspartate",3,0.011902558,"liver",10,FALSE
+"glutamate",1,0.006011598,"liver",3,FALSE
+"glutamate",2,0.038411571,"liver",3,FALSE
+"glutamate",3,0.013855679,"liver",3,FALSE
+"succinate",1,0.009661107,"liver",3,FALSE
+"succinate",2,0.049407003,"liver",3,FALSE
+"succinate",3,0.021680321,"liver",3,FALSE
+"malate",1,0.015572505,"liver",3,FALSE
+"malate",2,0.036981951,"liver",3,FALSE
+"malate",3,0.039347966,"liver",3,FALSE
+"aspartate",1,0.005119419,"liver",3,FALSE
+"aspartate",2,0.017697367,"liver",3,FALSE
+"aspartate",3,0.021446775,"liver",3,FALSE
+"glutamate",2,0.000473441,"quad",1.5,FALSE
+"succinate",1,0.002173233,"quad",1.5,FALSE
+"succinate",2,0.001772292,"quad",1.5,FALSE
+"succinate",3,0.000514583,"quad",1.5,FALSE
+"malate",1,0.000922566,"quad",1.5,FALSE
+"malate",2,0.001864356,"quad",1.5,FALSE
+"malate",3,0.000815155,"quad",1.5,FALSE
+"aspartate",2,0.00054365,"quad",1.5,FALSE
+"aspartate",3,0.00038682,"quad",1.5,FALSE
+"glutamate",1,0.024849348,"quad",45,FALSE
+"glutamate",2,0.02162115,"quad",45,FALSE
+"glutamate",3,0.002904257,"quad",45,FALSE
+"succinate",1,0.0301209,"quad",45,FALSE
+"succinate",2,0.016409432,"quad",45,FALSE
+"succinate",3,0.003928584,"quad",45,FALSE
+"malate",1,0.025591623,"quad",45,FALSE
+"malate",2,0.016115858,"quad",45,FALSE
+"malate",3,0.005182029,"quad",45,FALSE
+"aspartate",1,0.022509338,"quad",45,FALSE
+"aspartate",2,0.014608475,"quad",45,FALSE
+"aspartate",3,0.005490417,"quad",45,FALSE
+"glutamate",1,0.001786689,"quad",10,FALSE
+"glutamate",2,0.00740576,"quad",10,FALSE
+"glutamate",3,0.00115401,"quad",10,FALSE
+"succinate",1,0.009666693,"quad",10,FALSE
+"succinate",2,0.007636832,"quad",10,FALSE
+"succinate",3,0.000831311,"quad",10,FALSE
+"malate",1,0.011886703,"quad",10,FALSE
+"malate",2,0.007164186,"quad",10,FALSE
+"malate",3,0.001669159,"quad",10,FALSE
+"aspartate",1,0.009651055,"quad",10,FALSE
+"aspartate",2,0.006318006,"quad",10,FALSE
+"aspartate",3,0.001733625,"quad",10,FALSE
+"glutamate",1,0.004869498,"quad",3,FALSE
+"glutamate",2,0.009352495,"quad",3,FALSE
+"glutamate",3,0.001413967,"quad",3,FALSE
+"succinate",1,0.010911359,"quad",3,FALSE
+"succinate",2,0.012690697,"quad",3,FALSE
+"succinate",3,0.002489149,"quad",3,FALSE
+"malate",1,0.005614844,"quad",3,FALSE
+"malate",2,0.011610066,"quad",3,FALSE
+"malate",3,0.003786333,"quad",3,FALSE
+"aspartate",1,0.005044524,"quad",3,FALSE
+"aspartate",2,0.009210869,"quad",3,FALSE
+"aspartate",3,0.003623445,"quad",3,FALSE
+"glutamate",1,0.002002893,"spleen",1.5,FALSE
+"glutamate",2,0.000550915,"spleen",1.5,FALSE
+"succinate",1,0.001630838,"spleen",1.5,FALSE
+"succinate",2,0.001151403,"spleen",1.5,FALSE
+"succinate",3,0.000518981,"spleen",1.5,FALSE
+"malate",1,0.000342014,"spleen",1.5,FALSE
+"malate",2,0.000462004,"spleen",1.5,FALSE
+"malate",3,0.001271944,"spleen",1.5,FALSE
+"aspartate",3,0.00060673,"spleen",1.5,FALSE
+"glutamate",1,0.024106349,"spleen",45,FALSE
+"glutamate",2,0.027756304,"spleen",45,FALSE
+"glutamate",3,0.003181728,"spleen",45,FALSE
+"succinate",1,0.025779952,"spleen",45,FALSE
+"succinate",2,0.024463132,"spleen",45,FALSE
+"succinate",3,0.000957428,"spleen",45,FALSE
+"malate",1,0.02758654,"spleen",45,FALSE
+"malate",2,0.021775214,"spleen",45,FALSE
+"malate",3,0.004121913,"spleen",45,FALSE
+"aspartate",1,0.022299763,"spleen",45,FALSE
+"aspartate",2,0.01998636,"spleen",45,FALSE
+"aspartate",3,0.003128165,"spleen",45,FALSE
+"glutamate",1,0.004407057,"spleen",10,FALSE
+"glutamate",2,0.005581616,"spleen",10,FALSE
+"glutamate",3,0.001028028,"spleen",10,FALSE
+"succinate",1,0.006610927,"spleen",10,FALSE
+"succinate",2,0.008330039,"spleen",10,FALSE
+"succinate",3,0.000764432,"spleen",10,FALSE
+"malate",1,0.004822161,"spleen",10,FALSE
+"malate",2,0.005897214,"spleen",10,FALSE
+"malate",3,0.003835121,"spleen",10,FALSE
+"aspartate",1,0.001203777,"spleen",10,FALSE
+"aspartate",2,0.003557873,"spleen",10,FALSE
+"aspartate",3,0.00256317,"spleen",10,FALSE
+"glutamate",1,0.003106775,"spleen",3,FALSE
+"glutamate",2,0.002116147,"spleen",3,FALSE
+"glutamate",3,0.000484982,"spleen",3,FALSE
+"succinate",1,0.001623588,"spleen",3,FALSE
+"succinate",2,0.004095266,"spleen",3,FALSE
+"succinate",3,0.000424937,"spleen",3,FALSE
+"malate",1,0.001569972,"spleen",3,FALSE
+"malate",2,0.002186206,"spleen",3,FALSE
+"malate",3,0.005086454,"spleen",3,FALSE
+"aspartate",1,0.000542978,"spleen",3,FALSE
+"aspartate",2,0.000868261,"spleen",3,FALSE
+"aspartate",3,0.002802475,"spleen",3,FALSE
+"glutamate",1,0.004398101,"brown adipose",1.5,FALSE
+"glutamate",2,0.004537145,"brown adipose",1.5,FALSE
+"glutamate",3,0.00088508,"brown adipose",1.5,FALSE
+"succinate",1,0.014195314,"brown adipose",1.5,FALSE
+"succinate",2,0.009416428,"brown adipose",1.5,FALSE
+"succinate",3,0.004420449,"brown adipose",1.5,FALSE
+"malate",1,0.006653003,"brown adipose",1.5,FALSE
+"malate",2,0.005973276,"brown adipose",1.5,FALSE
+"malate",3,0.003097168,"brown adipose",1.5,FALSE
+"aspartate",2,0.002292303,"brown adipose",1.5,FALSE
+"aspartate",3,0.001703196,"brown adipose",1.5,FALSE
+"glutamate",1,0.025627238,"brown adipose",45,TRUE
+"glutamate",2,0.023887889,"brown adipose",45,TRUE
+"glutamate",3,0.004469259,"brown adipose",45,TRUE
+"succinate",1,0.048089932,"brown adipose",45,TRUE
+"succinate",2,0.024448525,"brown adipose",45,TRUE
+"succinate",3,0.011144786,"brown adipose",45,TRUE
+"malate",1,0.040960748,"brown adipose",45,TRUE
+"malate",2,0.021227755,"brown adipose",45,TRUE
+"malate",3,0.01073467,"brown adipose",45,TRUE
+"aspartate",1,0.022106516,"brown adipose",45,TRUE
+"aspartate",2,0.015032731,"brown adipose",45,TRUE
+"aspartate",3,0.007034173,"brown adipose",45,TRUE
+"glutamate",1,0.023515969,"brown adipose",10,FALSE
+"glutamate",2,0.01600041,"brown adipose",10,FALSE
+"glutamate",3,0.004441325,"brown adipose",10,FALSE
+"succinate",1,0.032461762,"brown adipose",10,FALSE
+"succinate",2,0.014746938,"brown adipose",10,FALSE
+"succinate",3,0.007207164,"brown adipose",10,FALSE
+"malate",1,0.025547908,"brown adipose",10,FALSE
+"malate",2,0.013050076,"brown adipose",10,FALSE
+"malate",3,0.005561044,"brown adipose",10,FALSE
+"aspartate",1,0.017769543,"brown adipose",10,FALSE
+"aspartate",2,0.010290347,"brown adipose",10,FALSE
+"aspartate",3,0.00695415,"brown adipose",10,FALSE
+"glutamate",1,0.015265448,"brown adipose",3,FALSE
+"glutamate",2,0.013715448,"brown adipose",3,FALSE
+"glutamate",3,0.003929038,"brown adipose",3,FALSE
+"succinate",1,0.032996705,"brown adipose",3,FALSE
+"succinate",2,0.02095081,"brown adipose",3,FALSE
+"succinate",3,0.008428487,"brown adipose",3,FALSE
+"malate",1,0.013467659,"brown adipose",3,FALSE
+"malate",2,0.01048009,"brown adipose",3,FALSE
+"malate",3,0.006577223,"brown adipose",3,FALSE
+"aspartate",1,0.007447898,"brown adipose",3,FALSE
+"aspartate",2,0.007173818,"brown adipose",3,FALSE
+"aspartate",3,0.00594099,"brown adipose",3,FALSE
+"glutamate",1,0.001059041,"colon",1.5,FALSE
+"glutamate",2,0.001669773,"colon",1.5,FALSE
+"glutamate",3,0.000472329,"colon",1.5,FALSE
+"succinate",1,0.001009507,"colon",1.5,FALSE
+"succinate",2,0.002424852,"colon",1.5,FALSE
+"succinate",3,0.003186632,"colon",1.5,FALSE
+"malate",1,0.001832994,"colon",1.5,FALSE
+"malate",2,0.002173313,"colon",1.5,FALSE
+"malate",3,0.003274776,"colon",1.5,FALSE
+"aspartate",2,0.000286244,"colon",1.5,FALSE
+"aspartate",3,0.002127361,"colon",1.5,FALSE
+"glutamate",1,0.036541969,"colon",45,FALSE
+"glutamate",2,0.030200667,"colon",45,FALSE
+"glutamate",3,0.007096161,"colon",45,FALSE
+"succinate",1,0.038408347,"colon",45,FALSE
+"succinate",2,0.020795859,"colon",45,FALSE
+"succinate",3,0.006355474,"colon",45,FALSE
+"malate",1,0.0374473,"colon",45,FALSE
+"malate",2,0.021402036,"colon",45,FALSE
+"malate",3,0.008063597,"colon",45,FALSE
+"aspartate",1,0.034048802,"colon",45,FALSE
+"aspartate",2,0.020739976,"colon",45,FALSE
+"aspartate",3,0.009833829,"colon",45,FALSE
+"glutamate",1,0.009084645,"colon",10,FALSE
+"glutamate",2,0.014326464,"colon",10,FALSE
+"glutamate",3,0.005110386,"colon",10,FALSE
+"succinate",1,0.015926968,"colon",10,FALSE
+"succinate",2,0.017182491,"colon",10,FALSE
+"succinate",3,0.007321425,"colon",10,FALSE
+"malate",1,0.013587678,"colon",10,FALSE
+"malate",2,0.014183318,"colon",10,FALSE
+"malate",3,0.009896724,"colon",10,FALSE
+"aspartate",1,0.006500451,"colon",10,FALSE
+"aspartate",2,0.009963086,"colon",10,FALSE
+"aspartate",3,0.009769222,"colon",10,FALSE
+"glutamate",1,0.003301689,"colon",3,FALSE
+"glutamate",2,0.005816161,"colon",3,FALSE
+"glutamate",3,0.002021299,"colon",3,FALSE
+"succinate",1,0.00398299,"colon",3,FALSE
+"succinate",2,0.008224725,"colon",3,FALSE
+"succinate",3,0.005535512,"colon",3,FALSE
+"malate",2,0.005081107,"colon",3,FALSE
+"malate",3,0.007314208,"colon",3,FALSE
+"aspartate",2,0.003358408,"colon",3,FALSE
+"aspartate",3,0.006059461,"colon",3,FALSE
+"glutamate",1,0.003599576,"lung",1.5,FALSE
+"glutamate",2,0.003717208,"lung",1.5,FALSE
+"glutamate",3,0.001117985,"lung",1.5,FALSE
+"succinate",1,0.002691505,"lung",1.5,FALSE
+"succinate",2,0.007466831,"lung",1.5,FALSE
+"succinate",3,0.000523406,"lung",1.5,FALSE
+"malate",1,0.00316042,"lung",1.5,FALSE
+"malate",3,0.006388053,"lung",1.5,FALSE
+"aspartate",1,0.001895612,"lung",1.5,FALSE
+"aspartate",2,0.00297265,"lung",1.5,FALSE
+"aspartate",3,0.004259982,"lung",1.5,FALSE
+"glutamate",1,0.033864141,"lung",45,FALSE
+"glutamate",2,0.032067885,"lung",45,FALSE
+"glutamate",3,0.006508909,"lung",45,FALSE
+"succinate",1,0.039143728,"lung",45,FALSE
+"succinate",2,0.033096051,"lung",45,FALSE
+"succinate",3,0.001253431,"lung",45,FALSE
+"malate",1,0.047993039,"lung",45,FALSE
+"malate",2,0.033925145,"lung",45,FALSE
+"malate",3,0.015333049,"lung",45,FALSE
+"aspartate",1,0.034260988,"lung",45,FALSE
+"aspartate",2,0.025528419,"lung",45,FALSE
+"aspartate",3,0.013880354,"lung",45,FALSE
+"glutamate",1,0.011642335,"lung",10,FALSE
+"glutamate",2,0.014747278,"lung",10,FALSE
+"glutamate",3,0.003995086,"lung",10,FALSE
+"succinate",1,0.019203872,"lung",10,FALSE
+"succinate",2,0.019821845,"lung",10,FALSE
+"succinate",3,0.001342549,"lung",10,FALSE
+"malate",1,0.021387224,"lung",10,FALSE
+"malate",3,0.012865825,"lung",10,FALSE
+"aspartate",1,0.01243952,"lung",10,FALSE
+"aspartate",2,0.011235788,"lung",10,FALSE
+"aspartate",3,0.011560475,"lung",10,FALSE
+"glutamate",1,0.002661639,"lung",3,FALSE
+"glutamate",2,0.006305066,"lung",3,FALSE
+"glutamate",3,0.002114913,"lung",3,FALSE
+"succinate",1,0.006736101,"lung",3,FALSE
+"succinate",2,0.011510166,"lung",3,FALSE
+"succinate",3,0.000252288,"lung",3,FALSE
+"malate",1,0.004131967,"lung",3,FALSE
+"malate",2,0.009177922,"lung",3,FALSE
+"malate",3,0.008988245,"lung",3,FALSE
+"aspartate",1,0.00222884,"lung",3,FALSE
+"aspartate",2,0.004172885,"lung",3,FALSE
+"aspartate",3,0.008118315,"lung",3,FALSE
+"glutamate",1,0.002934118,"pancreas",1.5,FALSE
+"glutamate",2,0.002263721,"pancreas",1.5,FALSE
+"glutamate",3,0.000821447,"pancreas",1.5,FALSE
+"succinate",2,0.003725788,"pancreas",1.5,FALSE
+"succinate",3,0.002913956,"pancreas",1.5,FALSE
+"malate",2,0.003364919,"pancreas",1.5,FALSE
+"malate",3,0.008474857,"pancreas",1.5,FALSE
+"aspartate",2,0.000389586,"pancreas",1.5,FALSE
+"aspartate",3,0.008282068,"pancreas",1.5,FALSE
+"glutamate",1,0.040950087,"pancreas",45,FALSE
+"glutamate",2,0.031587379,"pancreas",45,FALSE
+"glutamate",3,0.007070191,"pancreas",45,FALSE
+"succinate",1,0.040860518,"pancreas",45,FALSE
+"succinate",2,0.028972445,"pancreas",45,FALSE
+"succinate",3,0.005206635,"pancreas",45,FALSE
+"malate",1,0.043892649,"pancreas",45,FALSE
+"malate",2,0.022997534,"pancreas",45,FALSE
+"malate",3,0.016930328,"pancreas",45,FALSE
+"aspartate",1,0.035544813,"pancreas",45,FALSE
+"aspartate",2,0.022111169,"pancreas",45,FALSE
+"aspartate",3,0.015174594,"pancreas",45,FALSE
+"glutamate",1,0.017335175,"pancreas",10,FALSE
+"glutamate",2,0.019531235,"pancreas",10,FALSE
+"glutamate",3,0.005976393,"pancreas",10,FALSE
+"succinate",1,0.020292583,"pancreas",10,FALSE
+"succinate",2,0.020198408,"pancreas",10,FALSE
+"succinate",3,0.005550648,"pancreas",10,FALSE
+"malate",1,0.019661501,"pancreas",10,FALSE
+"malate",2,0.017485238,"pancreas",10,FALSE
+"malate",3,0.019320154,"pancreas",10,FALSE
+"aspartate",1,0.017033777,"pancreas",10,FALSE
+"aspartate",2,0.012726448,"pancreas",10,FALSE
+"aspartate",3,0.016181418,"pancreas",10,FALSE
+"glutamate",1,0.004486336,"pancreas",3,FALSE
+"glutamate",2,0.008743295,"pancreas",3,FALSE
+"glutamate",3,0.002405319,"pancreas",3,FALSE
+"succinate",1,0.00547638,"pancreas",3,FALSE
+"succinate",2,0.011198035,"pancreas",3,FALSE
+"succinate",3,0.004744126,"pancreas",3,FALSE
+"malate",1,0.006841891,"pancreas",3,FALSE
+"malate",2,0.008642989,"pancreas",3,FALSE
+"malate",3,0.019309792,"pancreas",3,FALSE
+"aspartate",1,0.005766409,"pancreas",3,FALSE
+"aspartate",2,0.005864783,"pancreas",3,FALSE
+"aspartate",3,0.016938369,"pancreas",3,FALSE
+"glutamate",1,0.001254112,"skin",1.5,FALSE
+"glutamate",2,0.000335253,"skin",1.5,FALSE
+"succinate",1,0.000583408,"skin",1.5,FALSE
+"succinate",2,0.001612219,"skin",1.5,FALSE
+"succinate",3,0.000212879,"skin",1.5,FALSE
+"malate",1,0.000265986,"skin",1.5,FALSE
+"malate",2,0.001585422,"skin",1.5,FALSE
+"malate",3,0.001359297,"skin",1.5,FALSE
+"aspartate",3,0.000398552,"skin",1.5,FALSE
+"glutamate",1,0.022937397,"skin",45,FALSE
+"glutamate",2,0.029697618,"skin",45,FALSE
+"glutamate",3,0.004760032,"skin",45,FALSE
+"succinate",1,0.033135859,"skin",45,FALSE
+"succinate",2,0.026197847,"skin",45,FALSE
+"succinate",3,0.005268699,"skin",45,FALSE
+"malate",1,0.031525695,"skin",45,FALSE
+"malate",2,0.020899793,"skin",45,FALSE
+"malate",3,0.007984138,"skin",45,FALSE
+"aspartate",1,0.024347846,"skin",45,FALSE
+"aspartate",2,0.012634942,"skin",45,FALSE
+"aspartate",3,0.007113121,"skin",45,FALSE
+"glutamate",1,0.004314684,"skin",10,FALSE
+"glutamate",2,0.006469317,"skin",10,FALSE
+"glutamate",3,0.001635266,"skin",10,FALSE
+"succinate",1,0.010393103,"skin",10,FALSE
+"succinate",2,0.011891636,"skin",10,FALSE
+"succinate",3,0.001941591,"skin",10,FALSE
+"malate",1,0.006626076,"skin",10,FALSE
+"malate",2,0.007778432,"skin",10,FALSE
+"malate",3,0.00617932,"skin",10,FALSE
+"aspartate",1,0.001570862,"skin",10,FALSE
+"aspartate",2,0.004921186,"skin",10,FALSE
+"aspartate",3,0.004217738,"skin",10,FALSE
+"glutamate",1,0.003052034,"skin",3,FALSE
+"glutamate",2,0.001457675,"skin",3,FALSE
+"glutamate",3,0.000386391,"skin",3,FALSE
+"succinate",1,0.003540327,"skin",3,FALSE
+"succinate",2,0.004209397,"skin",3,FALSE
+"succinate",3,0.001398129,"skin",3,FALSE
+"malate",1,0.000426261,"skin",3,FALSE
+"malate",2,0.002131381,"skin",3,FALSE
+"malate",3,0.004615584,"skin",3,FALSE
+"aspartate",1,0.000202266,"skin",3,FALSE
+"aspartate",2,0.002168992,"skin",3,FALSE
+"aspartate",3,0.002627391,"skin",3,FALSE
+"glutamate",1,0.004639337,"soleus",1.5,FALSE
+"glutamate",2,0.017973291,"soleus",1.5,FALSE
+"glutamate",3,0.000300857,"soleus",1.5,FALSE
+"succinate",1,0.00773709,"soleus",1.5,FALSE
+"succinate",2,0.011495087,"soleus",1.5,FALSE
+"succinate",3,0.000873094,"soleus",1.5,FALSE
+"malate",1,0.005142243,"soleus",1.5,FALSE
+"malate",2,0.010164162,"soleus",1.5,FALSE
+"malate",3,0.001404419,"soleus",1.5,FALSE
+"aspartate",1,0.003393926,"soleus",1.5,FALSE
+"aspartate",2,0.009524805,"soleus",1.5,FALSE
+"aspartate",3,0.001090201,"soleus",1.5,FALSE
+"glutamate",1,0.049878751,"soleus",45,FALSE
+"glutamate",2,0.023096062,"soleus",45,FALSE
+"glutamate",3,0.00601757,"soleus",45,FALSE
+"succinate",1,0.048068405,"soleus",45,FALSE
+"succinate",2,0.019279846,"soleus",45,FALSE
+"succinate",3,0.007267876,"soleus",45,FALSE
+"malate",1,0.043267813,"soleus",45,FALSE
+"malate",2,0.019525588,"soleus",45,FALSE
+"malate",3,0.008333546,"soleus",45,FALSE
+"aspartate",1,0.048220716,"soleus",45,FALSE
+"aspartate",2,0.018324255,"soleus",45,FALSE
+"aspartate",3,0.008876528,"soleus",45,FALSE
+"glutamate",1,0.040474105,"soleus",10,FALSE
+"glutamate",2,0.035828338,"soleus",10,FALSE
+"glutamate",3,0.002243379,"soleus",10,FALSE
+"succinate",1,0.042803434,"soleus",10,FALSE
+"succinate",2,0.023051734,"soleus",10,FALSE
+"succinate",3,0.002346048,"soleus",10,FALSE
+"malate",1,0.038821243,"soleus",10,FALSE
+"malate",2,0.02289703,"soleus",10,FALSE
+"malate",3,0.002803633,"soleus",10,FALSE
+"aspartate",1,0.040599324,"soleus",10,FALSE
+"aspartate",2,0.023895897,"soleus",10,FALSE
+"aspartate",3,0.002508819,"soleus",10,FALSE
+"glutamate",1,0.00171121,"soleus",3,FALSE
+"glutamate",2,0.004119579,"soleus",3,FALSE
+"glutamate",3,0.000742801,"soleus",3,FALSE
+"succinate",1,0.002077483,"soleus",3,FALSE
+"succinate",2,0.00297811,"soleus",3,FALSE
+"succinate",3,0.00259221,"soleus",3,FALSE
+"malate",2,0.002586369,"soleus",3,FALSE
+"malate",3,0.002990763,"soleus",3,FALSE
+"aspartate",2,0.00192042,"soleus",3,FALSE
+"aspartate",3,0.003312994,"soleus",3,FALSE
+"glutamate",1,0.002694315,"white adipose",1.5,FALSE
+"glutamate",2,0.009483804,"white adipose",1.5,FALSE
+"glutamate",3,0.002045869,"white adipose",1.5,FALSE
+"succinate",1,0.006955978,"white adipose",1.5,FALSE
+"succinate",2,0.009286523,"white adipose",1.5,FALSE
+"malate",1,0.0041621,"white adipose",1.5,FALSE
+"malate",2,0.006815816,"white adipose",1.5,FALSE
+"malate",3,0.004675666,"white adipose",1.5,FALSE
+"aspartate",1,0.003066125,"white adipose",1.5,FALSE
+"aspartate",3,0.001005448,"white adipose",1.5,FALSE
+"glutamate",1,0.034803565,"white adipose",45,FALSE
+"glutamate",2,0.03116404,"white adipose",45,FALSE
+"glutamate",3,0.009160236,"white adipose",45,FALSE
+"succinate",1,0.048558299,"white adipose",45,FALSE
+"succinate",2,0.040541332,"white adipose",45,FALSE
+"succinate",3,0.004714872,"white adipose",45,FALSE
+"malate",1,0.035535706,"white adipose",45,FALSE
+"malate",2,0.016224589,"white adipose",45,FALSE
+"malate",3,0.009251205,"white adipose",45,FALSE
+"aspartate",1,0.011966394,"white adipose",45,FALSE
+"aspartate",2,0.004359911,"white adipose",45,FALSE
+"aspartate",3,0.004113061,"white adipose",45,FALSE
+"glutamate",1,0.018118578,"white adipose",10,FALSE
+"glutamate",2,0.020703402,"white adipose",10,FALSE
+"glutamate",3,0.005922143,"white adipose",10,FALSE
+"succinate",1,0.018616521,"white adipose",10,FALSE
+"succinate",2,0.024119713,"white adipose",10,FALSE
+"aspartate",1,0.010153597,"white adipose",10,FALSE
+"aspartate",2,0.001605266,"white adipose",10,FALSE
+"aspartate",3,0.003633406,"white adipose",10,FALSE
+"glutamate",1,0.005501376,"white adipose",3,FALSE
+"glutamate",2,0.013705277,"white adipose",3,FALSE
+"glutamate",3,0.003482155,"white adipose",3,FALSE
+"succinate",1,0.010640582,"white adipose",3,FALSE
+"succinate",2,0.014619351,"white adipose",3,FALSE
+"succinate",3,0.001718587,"white adipose",3,FALSE
+"glutamate",1,0.021913665,"diaphragm",1.5,FALSE
+"glutamate",2,0.017646633,"diaphragm",1.5,FALSE
+"glutamate",3,0.000912382,"diaphragm",1.5,FALSE
+"succinate",1,0.028246238,"diaphragm",1.5,FALSE
+"succinate",2,0.016557713,"diaphragm",1.5,FALSE
+"succinate",3,0.001341901,"diaphragm",1.5,FALSE
+"malate",1,0.026779703,"diaphragm",1.5,FALSE
+"malate",2,0.016764986,"diaphragm",1.5,FALSE
+"malate",3,0.001851465,"diaphragm",1.5,FALSE
+"aspartate",1,0.018381761,"diaphragm",1.5,FALSE
+"aspartate",2,0.01609353,"diaphragm",1.5,FALSE
+"aspartate",3,0.001718289,"diaphragm",1.5,FALSE
+"glutamate",1,0.03732435,"diaphragm",10,FALSE
+"glutamate",2,0.02983927,"diaphragm",10,FALSE
+"glutamate",3,0.00402973,"diaphragm",10,FALSE
+"succinate",1,0.044075668,"diaphragm",10,FALSE
+"succinate",2,0.028581188,"diaphragm",10,FALSE
+"succinate",3,0.005143642,"diaphragm",10,FALSE
+"malate",1,0.042938853,"diaphragm",10,FALSE
+"malate",2,0.026014672,"diaphragm",10,FALSE
+"malate",3,0.0046512,"diaphragm",10,FALSE
+"aspartate",1,0.042904595,"diaphragm",10,FALSE
+"aspartate",2,0.022642917,"diaphragm",10,FALSE
+"aspartate",3,0.00405498,"diaphragm",10,FALSE
+"glutamate",1,0.001419207,"gastrocnemius",1.5,FALSE
+"glutamate",2,0.004576168,"gastrocnemius",1.5,FALSE
+"glutamate",3,0.00026666,"gastrocnemius",1.5,FALSE
+"succinate",1,0.010582943,"gastrocnemius",1.5,FALSE
+"succinate",2,0.007979948,"gastrocnemius",1.5,FALSE
+"succinate",3,0.001950298,"gastrocnemius",1.5,FALSE
+"malate",1,0.006624463,"gastrocnemius",1.5,FALSE
+"malate",2,0.007286921,"gastrocnemius",1.5,FALSE
+"malate",3,0.002751542,"gastrocnemius",1.5,FALSE
+"aspartate",1,0.00873725,"gastrocnemius",1.5,FALSE
+"aspartate",2,0.009020362,"gastrocnemius",1.5,FALSE
+"aspartate",3,0.002459427,"gastrocnemius",1.5,FALSE
+"glutamate",1,0.000575321,"gastrocnemius",10,FALSE
+"glutamate",2,0.003723212,"gastrocnemius",10,FALSE
+"glutamate",3,0.001161036,"gastrocnemius",10,FALSE
+"succinate",1,0.003837558,"gastrocnemius",10,FALSE
+"succinate",2,0.003569409,"gastrocnemius",10,FALSE
+"succinate",3,0.00112427,"gastrocnemius",10,FALSE
+"malate",1,0.003211944,"gastrocnemius",10,FALSE
+"malate",2,0.00274933,"gastrocnemius",10,FALSE
+"malate",3,0.002158082,"gastrocnemius",10,FALSE
+"aspartate",1,0.003734674,"gastrocnemius",10,FALSE
+"aspartate",2,0.002175195,"gastrocnemius",10,FALSE
+"aspartate",3,0.001369556,"gastrocnemius",10,FALSE
+"glutamate",1,0.012396789,"heart",1.5,FALSE
+"glutamate",2,0.011438244,"heart",1.5,FALSE
+"glutamate",3,0.000439501,"heart",1.5,FALSE
+"succinate",1,0.016999838,"heart",1.5,FALSE
+"succinate",2,0.009479319,"heart",1.5,FALSE
+"succinate",3,0.000866379,"heart",1.5,FALSE
+"malate",1,0.01116564,"heart",1.5,FALSE
+"malate",2,0.008664022,"heart",1.5,FALSE
+"malate",3,0.001606367,"heart",1.5,FALSE
+"aspartate",1,0.011913732,"heart",1.5,FALSE
+"aspartate",2,0.009001853,"heart",1.5,FALSE
+"aspartate",3,0.001254125,"heart",1.5,FALSE
+"glutamate",1,0.028979065,"heart",10,FALSE
+"glutamate",2,0.023040873,"heart",10,FALSE
+"glutamate",3,0.001210159,"heart",10,FALSE
+"succinate",1,0.031743667,"heart",10,FALSE
+"succinate",2,0.016617275,"heart",10,FALSE
+"succinate",3,0.002868805,"heart",10,FALSE
+"malate",1,0.030964865,"heart",10,FALSE
+"malate",2,0.016571333,"heart",10,FALSE
+"malate",3,0.003449146,"heart",10,FALSE
+"aspartate",1,0.028324947,"heart",10,FALSE
+"aspartate",2,0.015418808,"heart",10,FALSE
+"aspartate",3,0.003664998,"heart",10,FALSE
+"glutamate",1,0.001816821,"intestine",1.5,FALSE
+"glutamate",2,0.001880032,"intestine",1.5,FALSE
+"glutamate",3,0.000329398,"intestine",1.5,FALSE
+"succinate",1,0.002350385,"intestine",1.5,FALSE
+"succinate",2,0.00285945,"intestine",1.5,FALSE
+"succinate",3,0.002921224,"intestine",1.5,FALSE
+"malate",1,0.000368596,"intestine",1.5,FALSE
+"malate",2,0.001478321,"intestine",1.5,FALSE
+"malate",3,0.005472521,"intestine",1.5,FALSE
+"aspartate",2,0.000704523,"intestine",1.5,FALSE
+"aspartate",3,0.00229735,"intestine",1.5,FALSE
+"glutamate",1,0.007805505,"intestine",10,FALSE
+"glutamate",2,0.013659252,"intestine",10,FALSE
+"glutamate",3,0.003080805,"intestine",10,FALSE
+"succinate",1,0.014786321,"intestine",10,FALSE
+"succinate",2,0.013808971,"intestine",10,FALSE
+"succinate",3,0.003810516,"intestine",10,FALSE
+"malate",1,0.011764691,"intestine",10,FALSE
+"malate",2,0.01126134,"intestine",10,FALSE
+"malate",3,0.006880513,"intestine",10,FALSE
+"aspartate",1,0.00112935,"intestine",10,FALSE
+"aspartate",2,0.006891237,"intestine",10,FALSE
+"aspartate",3,0.006953244,"intestine",10,FALSE
+"glutamate",1,0.008876506,"kidney",1.5,FALSE
+"glutamate",2,0.022848672,"kidney",1.5,FALSE
+"glutamate",3,0.007553804,"kidney",1.5,FALSE
+"succinate",1,0.014999946,"kidney",1.5,FALSE
+"succinate",2,0.029302975,"kidney",1.5,FALSE
+"succinate",3,0.017089618,"kidney",1.5,FALSE
+"malate",1,0.01488511,"kidney",1.5,FALSE
+"malate",2,0.027339965,"kidney",1.5,FALSE
+"malate",3,0.025931498,"kidney",1.5,FALSE
+"aspartate",1,0.011629394,"kidney",1.5,FALSE
+"aspartate",2,0.022173202,"kidney",1.5,FALSE
+"aspartate",3,0.030204777,"kidney",1.5,FALSE
+"glutamate",1,0.030759271,"kidney",10,FALSE
+"glutamate",2,0.04011227,"kidney",10,FALSE
+"glutamate",3,0.011956426,"kidney",10,FALSE
+"succinate",1,0.04699148,"kidney",10,FALSE
+"succinate",2,0.048381736,"kidney",10,FALSE
+"succinate",3,0.033556893,"kidney",10,FALSE
+"malate",1,0.046546395,"kidney",10,FALSE
+"malate",2,0.046647195,"kidney",10,FALSE
+"malate",3,0.04174906,"kidney",10,FALSE
+"aspartate",1,0.048121803,"kidney",10,FALSE
+"aspartate",2,0.044847456,"kidney",10,FALSE
+"aspartate",3,0.052497548,"kidney",10,FALSE
+"glutamate",1,0.003492746,"liver",1.5,FALSE
+"glutamate",2,0.022430287,"liver",1.5,FALSE
+"glutamate",3,0.008440961,"liver",1.5,FALSE
+"succinate",1,0.00426971,"liver",1.5,FALSE
+"succinate",2,0.030549418,"liver",1.5,FALSE
+"succinate",3,0.016995461,"liver",1.5,FALSE
+"malate",1,0.007821504,"liver",1.5,FALSE
+"malate",2,0.024774277,"liver",1.5,FALSE
+"malate",3,0.02416466,"liver",1.5,FALSE
+"aspartate",1,0.00316973,"liver",1.5,FALSE
+"aspartate",2,0.009752794,"liver",1.5,FALSE
+"aspartate",3,0.01187691,"liver",1.5,FALSE
+"glutamate",1,0.025103121,"liver",10,FALSE
+"glutamate",2,0.065208001,"liver",10,FALSE
+"glutamate",3,0.021024928,"liver",10,FALSE
+"succinate",1,0.033211909,"liver",10,FALSE
+"succinate",2,0.081214489,"liver",10,FALSE
+"succinate",3,0.017875499,"liver",10,FALSE
+"malate",1,0.039478018,"liver",10,FALSE
+"malate",2,0.054988016,"liver",10,FALSE
+"malate",3,0.036904233,"liver",10,FALSE
+"aspartate",1,0.011283745,"liver",10,FALSE
+"aspartate",2,0.01943613,"liver",10,FALSE
+"aspartate",3,0.015471945,"liver",10,FALSE
+"glutamate",1,0.002556597,"quad",1.5,FALSE
+"glutamate",2,0.001475112,"quad",1.5,FALSE
+"succinate",1,0.002584301,"quad",1.5,FALSE
+"succinate",2,0.001905798,"quad",1.5,FALSE
+"succinate",3,0.000608683,"quad",1.5,FALSE
+"malate",1,0.001123334,"quad",1.5,FALSE
+"malate",2,0.001949262,"quad",1.5,FALSE
+"malate",3,0.001664583,"quad",1.5,FALSE
+"aspartate",2,0.001537418,"quad",1.5,FALSE
+"aspartate",3,0.001147788,"quad",1.5,FALSE
+"glutamate",1,0.003797641,"quad",10,FALSE
+"glutamate",2,0.004402881,"quad",10,FALSE
+"glutamate",3,0.000934891,"quad",10,FALSE
+"succinate",1,0.004207919,"quad",10,FALSE
+"succinate",2,0.0042952,"quad",10,FALSE
+"succinate",3,0.000911759,"quad",10,FALSE
+"malate",1,0.000884033,"quad",10,FALSE
+"malate",2,0.003378056,"quad",10,FALSE
+"malate",3,0.001604188,"quad",10,FALSE
+"aspartate",1,0.0026737,"quad",10,FALSE
+"aspartate",2,0.002780886,"quad",10,FALSE
+"aspartate",3,0.001324698,"quad",10,FALSE
+"glutamate",1,0.001553922,"spleen",1.5,FALSE
+"glutamate",2,0.000713516,"spleen",1.5,FALSE
+"glutamate",3,0.000153089,"spleen",1.5,FALSE
+"succinate",2,0.001563186,"spleen",1.5,FALSE
+"succinate",3,0.000229783,"spleen",1.5,FALSE
+"malate",1,0.002138476,"spleen",1.5,FALSE
+"malate",2,0.000642104,"spleen",1.5,FALSE
+"malate",3,0.002110102,"spleen",1.5,FALSE
+"aspartate",1,0.001533955,"spleen",1.5,FALSE
+"aspartate",2,0.000232541,"spleen",1.5,FALSE
+"aspartate",3,0.001185063,"spleen",1.5,FALSE
+"glutamate",1,0.003511874,"spleen",10,FALSE
+"glutamate",2,0.009551882,"spleen",10,FALSE
+"glutamate",3,0.001503689,"spleen",10,FALSE
+"succinate",1,0.005183725,"spleen",10,FALSE
+"succinate",2,0.012268762,"spleen",10,FALSE
+"succinate",3,0.000716887,"spleen",10,FALSE
+"malate",1,0.005566844,"spleen",10,FALSE
+"malate",2,0.006991785,"spleen",10,FALSE
+"malate",3,0.005058521,"spleen",10,FALSE
+"aspartate",1,0.003343046,"spleen",10,FALSE
+"aspartate",2,0.00526096,"spleen",10,FALSE
+"aspartate",3,0.003760212,"spleen",10,FALSE
+"glutamate",1,0.006343924,"brown adipose",1.5,FALSE
+"glutamate",2,0.004701207,"brown adipose",1.5,FALSE
+"glutamate",3,0.000892818,"brown adipose",1.5,FALSE
+"succinate",1,0.013500222,"brown adipose",1.5,FALSE
+"succinate",2,0.00784193,"brown adipose",1.5,FALSE
+"succinate",3,0.007187772,"brown adipose",1.5,FALSE
+"malate",1,0.009210668,"brown adipose",1.5,FALSE
+"malate",2,0.006212319,"brown adipose",1.5,FALSE
+"malate",3,0.0058537,"brown adipose",1.5,FALSE
+"aspartate",1,0.001876304,"brown adipose",1.5,FALSE
+"aspartate",3,0.003890441,"brown adipose",1.5,FALSE
+"glutamate",1,0.017505663,"brown adipose",10,FALSE
+"glutamate",2,0.014531207,"brown adipose",10,FALSE
+"glutamate",3,0.003348256,"brown adipose",10,FALSE
+"succinate",1,0.028822886,"brown adipose",10,FALSE
+"succinate",2,0.015947798,"brown adipose",10,FALSE
+"succinate",3,0.010100669,"brown adipose",10,FALSE
+"malate",1,0.020294058,"brown adipose",10,FALSE
+"malate",2,0.011253683,"brown adipose",10,FALSE
+"malate",3,0.007889133,"brown adipose",10,FALSE
+"aspartate",1,0.01435614,"brown adipose",10,FALSE
+"aspartate",2,0.00019968,"brown adipose",10,FALSE
+"aspartate",3,0.007621975,"brown adipose",10,FALSE
+"glutamate",1,0.001636237,"colon",1.5,FALSE
+"glutamate",2,0.001712846,"colon",1.5,FALSE
+"glutamate",3,0.000635103,"colon",1.5,FALSE
+"succinate",1,0.003548425,"colon",1.5,FALSE
+"succinate",2,0.002436117,"colon",1.5,FALSE
+"succinate",3,0.003133413,"colon",1.5,FALSE
+"malate",1,0.000378395,"colon",1.5,FALSE
+"malate",2,0.002067714,"colon",1.5,FALSE
+"malate",3,0.003404693,"colon",1.5,FALSE
+"aspartate",3,0.004050567,"colon",1.5,FALSE
+"glutamate",1,0.008784108,"colon",10,FALSE
+"glutamate",2,0.013086235,"colon",10,FALSE
+"glutamate",3,0.004134829,"colon",10,FALSE
+"succinate",1,0.017823935,"colon",10,FALSE
+"succinate",2,0.018507985,"colon",10,FALSE
+"succinate",3,0.009016809,"colon",10,FALSE
+"malate",1,0.015893885,"colon",10,FALSE
+"malate",2,0.014136915,"colon",10,FALSE
+"malate",3,0.010396716,"colon",10,FALSE
+"aspartate",1,0.005601813,"colon",10,FALSE
+"aspartate",2,0.002732556,"colon",10,FALSE
+"aspartate",3,0.008093085,"colon",10,FALSE
+"glutamate",1,0.003826799,"lung",1.5,FALSE
+"glutamate",2,0.00374506,"lung",1.5,FALSE
+"glutamate",3,0.001010613,"lung",1.5,FALSE
+"succinate",1,0.004700093,"lung",1.5,FALSE
+"succinate",2,0.006969352,"lung",1.5,FALSE
+"succinate",3,0.000251479,"lung",1.5,FALSE
+"malate",1,0.005430887,"lung",1.5,FALSE
+"malate",2,0.005813114,"lung",1.5,FALSE
+"malate",3,0.004929622,"lung",1.5,FALSE
+"aspartate",2,0.000590905,"lung",1.5,FALSE
+"aspartate",3,0.003810754,"lung",1.5,FALSE
+"glutamate",1,0.01144621,"lung",10,FALSE
+"glutamate",2,0.016422722,"lung",10,FALSE
+"glutamate",3,0.004016895,"lung",10,FALSE
+"succinate",1,0.017281184,"lung",10,FALSE
+"succinate",2,0.025472883,"lung",10,FALSE
+"succinate",3,0.000470675,"lung",10,FALSE
+"malate",1,0.022320518,"lung",10,FALSE
+"malate",2,0.020751113,"lung",10,FALSE
+"malate",3,0.011307516,"lung",10,FALSE
+"aspartate",1,0.01001264,"lung",10,FALSE
+"aspartate",2,0.013730341,"lung",10,FALSE
+"aspartate",3,0.012219985,"lung",10,FALSE
+"glutamate",1,0.000993847,"pancreas",1.5,FALSE
+"glutamate",2,0.003040921,"pancreas",1.5,FALSE
+"glutamate",3,0.000969727,"pancreas",1.5,FALSE
+"succinate",1,0.001070431,"pancreas",1.5,FALSE
+"succinate",2,0.004362912,"pancreas",1.5,FALSE
+"succinate",3,0.002707539,"pancreas",1.5,FALSE
+"malate",1,0.000906148,"pancreas",1.5,FALSE
+"malate",2,0.003788187,"pancreas",1.5,FALSE
+"malate",3,0.010086184,"pancreas",1.5,FALSE
+"aspartate",3,0.006929611,"pancreas",1.5,FALSE
+"glutamate",1,0.012586219,"pancreas",10,FALSE
+"glutamate",2,0.012896005,"pancreas",10,FALSE
+"glutamate",3,0.004063589,"pancreas",10,FALSE
+"succinate",1,0.015446252,"pancreas",10,FALSE
+"succinate",2,0.012877403,"pancreas",10,FALSE
+"succinate",3,0.003255044,"pancreas",10,FALSE
+"malate",1,0.019006991,"pancreas",10,FALSE
+"malate",2,0.009821472,"pancreas",10,FALSE
+"malate",3,0.015106492,"pancreas",10,FALSE
+"aspartate",1,0.012917323,"pancreas",10,FALSE
+"aspartate",3,0.013874166,"pancreas",10,FALSE
+"glutamate",1,0.001282334,"skin",1.5,FALSE
+"glutamate",2,0.000831732,"skin",1.5,FALSE
+"glutamate",3,0.000117819,"skin",1.5,FALSE
+"succinate",2,0.001525646,"skin",1.5,FALSE
+"succinate",3,0.000301336,"skin",1.5,FALSE
+"malate",1,0.001099272,"skin",1.5,FALSE
+"malate",2,0.001179395,"skin",1.5,FALSE
+"malate",3,0.001784471,"skin",1.5,FALSE
+"aspartate",3,0.001008152,"skin",1.5,FALSE
+"glutamate",1,0.014753249,"soleus",1.5,FALSE
+"glutamate",2,0.020329256,"soleus",1.5,FALSE
+"glutamate",3,0.000562493,"soleus",1.5,FALSE
+"succinate",1,0.016676546,"soleus",1.5,FALSE
+"succinate",2,0.017234021,"soleus",1.5,FALSE
+"malate",1,0.012937127,"soleus",1.5,FALSE
+"malate",2,0.014111707,"soleus",1.5,FALSE
+"malate",3,0.00157581,"soleus",1.5,FALSE
+"aspartate",1,0.005009876,"soleus",1.5,FALSE
+"aspartate",2,0.010359006,"soleus",1.5,FALSE
+"aspartate",3,0.001355237,"soleus",1.5,FALSE
+"glutamate",1,0.007023131,"soleus",10,FALSE
+"glutamate",2,0.01134826,"soleus",10,FALSE
+"glutamate",3,0.002409723,"soleus",10,FALSE
+"succinate",1,0.01011672,"soleus",10,FALSE
+"succinate",2,0.010820154,"soleus",10,FALSE
+"succinate",3,0.004393439,"soleus",10,FALSE
+"malate",1,0.011474528,"soleus",10,FALSE
+"malate",2,0.00948577,"soleus",10,FALSE
+"malate",3,0.004929114,"soleus",10,FALSE
+"aspartate",1,0.008737871,"soleus",10,FALSE
+"aspartate",2,0.006106539,"soleus",10,FALSE
+"aspartate",3,0.005877304,"soleus",10,FALSE
+"glutamate",1,0.002233074,"white adipose",1.5,FALSE
+"glutamate",2,0.009833679,"white adipose",1.5,FALSE
+"glutamate",3,0.003079517,"white adipose",1.5,FALSE
+"succinate",1,0.010565706,"white adipose",1.5,FALSE
+"succinate",2,0.023383196,"white adipose",1.5,FALSE
+"succinate",3,0.000225008,"white adipose",1.5,FALSE
+"malate",1,0.010823339,"white adipose",1.5,FALSE
+"malate",2,0.007608259,"white adipose",1.5,FALSE
+"malate",3,0.00747789,"white adipose",1.5,FALSE
+"glutamate",1,0.016590152,"white adipose",10,FALSE
+"glutamate",2,0.019457579,"white adipose",10,FALSE
+"glutamate",3,0.00559503,"white adipose",10,FALSE
+"succinate",1,0.046310988,"white adipose",10,FALSE
+"succinate",2,0.036789256,"white adipose",10,FALSE
+"malate",1,0.025109725,"white adipose",10,FALSE
+"malate",2,0.023252392,"white adipose",10,FALSE
+"malate",3,0.013305385,"white adipose",10,FALSE
+"aspartate",3,0.004665742,"white adipose",10,FALSE
+"glutamate",1,0.053458673,"diaphragm",45,TRUE
+"glutamate",2,0.039744359,"diaphragm",45,TRUE
+"glutamate",3,0.004497335,"diaphragm",45,TRUE
+"succinate",1,0.059706946,"diaphragm",45,TRUE
+"succinate",2,0.03117332,"diaphragm",45,TRUE
+"succinate",3,0.003800444,"diaphragm",45,TRUE
+"malate",1,0.061212192,"diaphragm",45,TRUE
+"malate",2,0.029528662,"diaphragm",45,TRUE
+"malate",3,0.005826582,"diaphragm",45,TRUE
+"aspartate",1,0.054829909,"diaphragm",45,TRUE
+"aspartate",2,0.026335858,"diaphragm",45,TRUE
+"aspartate",3,0.00450081,"diaphragm",45,TRUE
+"glutamate",1,0.04148056,"diaphragm",20,FALSE
+"glutamate",2,0.030196006,"diaphragm",20,FALSE
+"glutamate",3,0.004175546,"diaphragm",20,FALSE
+"succinate",1,0.042903625,"diaphragm",20,FALSE
+"succinate",2,0.025150293,"diaphragm",20,FALSE
+"succinate",3,0.003399673,"diaphragm",20,FALSE
+"malate",1,0.046896004,"diaphragm",20,FALSE
+"malate",2,0.026501738,"diaphragm",20,FALSE
+"malate",3,0.004371456,"diaphragm",20,FALSE
+"aspartate",1,0.038852042,"diaphragm",20,FALSE
+"aspartate",2,0.023926931,"diaphragm",20,FALSE
+"aspartate",3,0.004267168,"diaphragm",20,FALSE
+"glutamate",1,0.019885766,"gastrocnemius",45,FALSE
+"glutamate",2,0.018503311,"gastrocnemius",45,FALSE
+"glutamate",3,0.003250896,"gastrocnemius",45,FALSE
+"succinate",1,0.028378394,"gastrocnemius",45,FALSE
+"succinate",2,0.015302404,"gastrocnemius",45,FALSE
+"succinate",3,0.002379465,"gastrocnemius",45,FALSE
+"malate",1,0.025893764,"gastrocnemius",45,FALSE
+"malate",2,0.015756213,"gastrocnemius",45,FALSE
+"malate",3,0.003948074,"gastrocnemius",45,FALSE
+"aspartate",1,0.028532702,"gastrocnemius",45,FALSE
+"aspartate",2,0.018312118,"gastrocnemius",45,FALSE
+"aspartate",3,0.003399096,"gastrocnemius",45,FALSE
+"glutamate",1,0.005504943,"gastrocnemius",20,FALSE
+"glutamate",2,0.008039057,"gastrocnemius",20,FALSE
+"glutamate",3,0.00284135,"gastrocnemius",20,FALSE
+"succinate",1,0.005228196,"gastrocnemius",20,FALSE
+"succinate",2,0.007220676,"gastrocnemius",20,FALSE
+"succinate",3,0.002441359,"gastrocnemius",20,FALSE
+"malate",1,0.005368126,"gastrocnemius",20,FALSE
+"malate",2,0.007981713,"gastrocnemius",20,FALSE
+"malate",3,0.003814105,"gastrocnemius",20,FALSE
+"aspartate",1,0.008712421,"gastrocnemius",20,FALSE
+"aspartate",2,0.005353006,"gastrocnemius",20,FALSE
+"aspartate",3,0.004176653,"gastrocnemius",20,FALSE
+"glutamate",1,0.020496994,"heart",45,FALSE
+"glutamate",2,0.015360739,"heart",45,FALSE
+"glutamate",3,0.001008752,"heart",45,FALSE
+"succinate",1,0.022551777,"heart",45,FALSE
+"succinate",2,0.009456687,"heart",45,FALSE
+"succinate",3,0.001347409,"heart",45,FALSE
+"malate",1,0.02576073,"heart",45,FALSE
+"malate",2,0.010772751,"heart",45,FALSE
+"malate",3,0.002694125,"heart",45,FALSE
+"aspartate",1,0.0200911,"heart",45,FALSE
+"aspartate",2,0.010572752,"heart",45,FALSE
+"aspartate",3,0.002324506,"heart",45,FALSE
+"glutamate",1,0.021934183,"heart",20,FALSE
+"glutamate",2,0.015527736,"heart",20,FALSE
+"glutamate",3,0.001355925,"heart",20,FALSE
+"succinate",1,0.024200983,"heart",20,FALSE
+"succinate",2,0.011117804,"heart",20,FALSE
+"succinate",3,0.002387644,"heart",20,FALSE
+"malate",1,0.024463572,"heart",20,FALSE
+"malate",2,0.011552961,"heart",20,FALSE
+"malate",3,0.003192645,"heart",20,FALSE
+"aspartate",1,0.023168482,"heart",20,FALSE
+"aspartate",2,0.011687256,"heart",20,FALSE
+"aspartate",3,0.002784821,"heart",20,FALSE
+"glutamate",1,0.052106233,"intestine",45,FALSE
+"glutamate",2,0.051444286,"intestine",45,FALSE
+"glutamate",3,0.007260391,"intestine",45,FALSE
+"succinate",1,0.048857535,"intestine",45,FALSE
+"succinate",2,0.028283374,"intestine",45,FALSE
+"succinate",3,0.006585745,"intestine",45,FALSE
+"malate",1,0.051833423,"intestine",45,FALSE
+"malate",2,0.0292728,"intestine",45,FALSE
+"malate",3,0.009690088,"intestine",45,FALSE
+"aspartate",1,0.051454284,"intestine",45,FALSE
+"aspartate",2,0.038717747,"intestine",45,FALSE
+"aspartate",3,0.007770332,"intestine",45,FALSE
+"glutamate",1,0.015834248,"intestine",20,FALSE
+"glutamate",2,0.019791586,"intestine",20,FALSE
+"glutamate",3,0.006194262,"intestine",20,FALSE
+"succinate",1,0.022979128,"intestine",20,FALSE
+"succinate",2,0.021995881,"intestine",20,FALSE
+"succinate",3,0.006217397,"intestine",20,FALSE
+"malate",1,0.019282589,"intestine",20,FALSE
+"malate",2,0.018500633,"intestine",20,FALSE
+"malate",3,0.015550948,"intestine",20,FALSE
+"aspartate",1,0.011868011,"intestine",20,FALSE
+"aspartate",2,0.012194323,"intestine",20,FALSE
+"aspartate",3,0.008393503,"intestine",20,FALSE
+"glutamate",1,0.059826156,"kidney",45,TRUE
+"glutamate",2,0.057842597,"kidney",45,TRUE
+"glutamate",3,0.01707294,"kidney",45,TRUE
+"succinate",1,0.075227274,"kidney",45,TRUE
+"succinate",2,0.061835658,"kidney",45,TRUE
+"succinate",3,0.020015394,"kidney",45,TRUE
+"malate",1,0.070306781,"kidney",45,TRUE
+"malate",2,0.057338351,"kidney",45,TRUE
+"malate",3,0.025447139,"kidney",45,TRUE
+"aspartate",1,0.055969073,"kidney",45,TRUE
+"aspartate",2,0.036336911,"kidney",45,TRUE
+"aspartate",3,0.010807867,"kidney",45,TRUE
+"glutamate",1,0.033626569,"kidney",20,FALSE
+"glutamate",2,0.042260457,"kidney",20,FALSE
+"glutamate",3,0.013834374,"kidney",20,FALSE
+"succinate",1,0.052895821,"kidney",20,FALSE
+"succinate",2,0.049605974,"kidney",20,FALSE
+"succinate",3,0.032278187,"kidney",20,FALSE
+"malate",1,0.055435109,"kidney",20,FALSE
+"malate",2,0.05013876,"kidney",20,FALSE
+"malate",3,0.046562821,"kidney",20,FALSE
+"aspartate",1,0.053913236,"kidney",20,FALSE
+"aspartate",2,0.051651056,"kidney",20,FALSE
+"aspartate",3,0.061008597,"kidney",20,FALSE
+"glutamate",1,0.0446076,"liver",45,FALSE
+"glutamate",2,0.060383365,"liver",45,FALSE
+"glutamate",3,0.017285205,"liver",45,FALSE
+"succinate",1,0.04588399,"liver",45,FALSE
+"succinate",2,0.065898584,"liver",45,FALSE
+"succinate",3,0.009734108,"liver",45,FALSE
+"malate",1,0.06482861,"liver",45,FALSE
+"malate",2,0.045136679,"liver",45,FALSE
+"malate",3,0.03632983,"liver",45,FALSE
+"aspartate",1,0.032519544,"liver",45,FALSE
+"aspartate",2,0.022249225,"liver",45,FALSE
+"aspartate",3,0.018573377,"liver",45,FALSE
+"glutamate",1,0.0313333,"liver",20,FALSE
+"glutamate",2,0.082055345,"liver",20,FALSE
+"glutamate",3,0.028017799,"liver",20,FALSE
+"succinate",1,0.043081296,"liver",20,FALSE
+"succinate",2,0.100585822,"liver",20,FALSE
+"succinate",3,0.017456945,"liver",20,FALSE
+"malate",1,0.04656626,"liver",20,FALSE
+"malate",2,0.066160567,"liver",20,FALSE
+"malate",3,0.052844134,"liver",20,FALSE
+"aspartate",1,0.016220146,"liver",20,FALSE
+"aspartate",2,0.025159784,"liver",20,FALSE
+"aspartate",3,0.025530906,"liver",20,FALSE
+"glutamate",1,0.022633793,"quad",45,FALSE
+"glutamate",2,0.021477723,"quad",45,FALSE
+"glutamate",3,0.003654631,"quad",45,FALSE
+"succinate",1,0.024791606,"quad",45,FALSE
+"succinate",2,0.015646073,"quad",45,FALSE
+"succinate",3,0.002323156,"quad",45,FALSE
+"malate",1,0.023435072,"quad",45,FALSE
+"malate",2,0.017221842,"quad",45,FALSE
+"malate",3,0.004154115,"quad",45,FALSE
+"aspartate",1,0.022306755,"quad",45,FALSE
+"aspartate",2,0.015584162,"quad",45,FALSE
+"aspartate",3,0.003933729,"quad",45,FALSE
+"glutamate",1,0.003478239,"quad",20,FALSE
+"glutamate",2,0.009313671,"quad",20,FALSE
+"glutamate",3,0.002353884,"quad",20,FALSE
+"succinate",1,0.008136747,"quad",20,FALSE
+"succinate",2,0.009152001,"quad",20,FALSE
+"succinate",3,0.001514119,"quad",20,FALSE
+"malate",1,0.008504465,"quad",20,FALSE
+"malate",2,0.009203019,"quad",20,FALSE
+"malate",3,0.002978097,"quad",20,FALSE
+"aspartate",1,0.004574442,"quad",20,FALSE
+"aspartate",2,0.006298843,"quad",20,FALSE
+"aspartate",3,0.003338967,"quad",20,FALSE
+"glutamate",1,0.028084871,"spleen",45,FALSE
+"glutamate",2,0.036975782,"spleen",45,FALSE
+"glutamate",3,0.003772973,"spleen",45,FALSE
+"succinate",1,0.035768761,"spleen",45,FALSE
+"succinate",2,0.02942209,"spleen",45,FALSE
+"succinate",3,0.00238352,"spleen",45,FALSE
+"malate",1,0.034878569,"spleen",45,FALSE
+"malate",2,0.028062352,"spleen",45,FALSE
+"malate",3,0.004507992,"spleen",45,FALSE
+"aspartate",1,0.026240127,"spleen",45,FALSE
+"aspartate",2,0.02710472,"spleen",45,FALSE
+"aspartate",3,0.004178648,"spleen",45,FALSE
+"glutamate",1,0.008512592,"spleen",20,FALSE
+"glutamate",2,0.012734953,"spleen",20,FALSE
+"glutamate",3,0.003000797,"spleen",20,FALSE
+"succinate",1,0.010277693,"spleen",20,FALSE
+"succinate",2,0.015266175,"spleen",20,FALSE
+"succinate",3,0.000319094,"spleen",20,FALSE
+"malate",1,0.010778682,"spleen",20,FALSE
+"malate",2,0.012576916,"spleen",20,FALSE
+"malate",3,0.008144742,"spleen",20,FALSE
+"aspartate",1,0.006631615,"spleen",20,FALSE
+"aspartate",2,0.009169709,"spleen",20,FALSE
+"aspartate",3,0.007541983,"spleen",20,FALSE
+"glutamate",1,0.033647604,"brown adipose",45,TRUE
+"glutamate",2,0.024738645,"brown adipose",45,TRUE
+"glutamate",3,0.004067382,"brown adipose",45,TRUE
+"succinate",1,0.048917624,"brown adipose",45,TRUE
+"succinate",2,0.023496182,"brown adipose",45,TRUE
+"succinate",3,0.0097485,"brown adipose",45,TRUE
+"malate",1,0.042437541,"brown adipose",45,TRUE
+"malate",2,0.020148799,"brown adipose",45,TRUE
+"malate",3,0.008924956,"brown adipose",45,TRUE
+"aspartate",1,0.025657757,"brown adipose",45,TRUE
+"aspartate",2,0.011742418,"brown adipose",45,TRUE
+"aspartate",3,0.007397798,"brown adipose",45,TRUE
+"glutamate",1,0.019667761,"brown adipose",20,FALSE
+"glutamate",2,0.015582884,"brown adipose",20,FALSE
+"glutamate",3,0.005375684,"brown adipose",20,FALSE
+"succinate",1,0.033756279,"brown adipose",20,FALSE
+"succinate",2,0.017656371,"brown adipose",20,FALSE
+"succinate",3,0.009561336,"brown adipose",20,FALSE
+"malate",1,0.02126055,"brown adipose",20,FALSE
+"malate",2,0.014119028,"brown adipose",20,FALSE
+"malate",3,0.007578529,"brown adipose",20,FALSE
+"aspartate",1,0.012878893,"brown adipose",20,FALSE
+"aspartate",2,0.002531034,"brown adipose",20,FALSE
+"aspartate",3,0.007312834,"brown adipose",20,FALSE
+"glutamate",1,0.026457033,"colon",45,FALSE
+"glutamate",2,0.019258967,"colon",45,FALSE
+"glutamate",3,0.005178032,"colon",45,FALSE
+"succinate",1,0.040589739,"colon",45,FALSE
+"succinate",2,0.023356033,"colon",45,FALSE
+"succinate",3,0.008710474,"colon",45,FALSE
+"malate",1,0.038961128,"colon",45,FALSE
+"malate",2,0.021072452,"colon",45,FALSE
+"malate",3,0.012185578,"colon",45,FALSE
+"aspartate",1,0.0345872,"colon",45,FALSE
+"aspartate",2,0.007967586,"colon",45,FALSE
+"aspartate",3,0.007453669,"colon",45,FALSE
+"glutamate",1,0.019207872,"colon",20,FALSE
+"glutamate",2,0.021945641,"colon",20,FALSE
+"glutamate",3,0.008016397,"colon",20,FALSE
+"succinate",1,0.030660891,"colon",20,FALSE
+"succinate",2,0.023937863,"colon",20,FALSE
+"succinate",3,0.010246319,"colon",20,FALSE
+"malate",1,0.025736689,"colon",20,FALSE
+"malate",2,0.020442574,"colon",20,FALSE
+"malate",3,0.014914297,"colon",20,FALSE
+"aspartate",1,0.018611282,"colon",20,FALSE
+"aspartate",2,0.009334262,"colon",20,FALSE
+"aspartate",3,0.011977632,"colon",20,FALSE
+"glutamate",1,0.034893434,"lung",45,FALSE
+"glutamate",2,0.03113757,"lung",45,FALSE
+"glutamate",3,0.00723293,"lung",45,FALSE
+"succinate",1,0.041517987,"lung",45,FALSE
+"succinate",2,0.036073721,"lung",45,FALSE
+"succinate",3,0.001657449,"lung",45,FALSE
+"malate",1,0.046571762,"lung",45,FALSE
+"malate",2,0.033445526,"lung",45,FALSE
+"malate",3,0.021245037,"lung",45,FALSE
+"aspartate",1,0.036315008,"lung",45,FALSE
+"aspartate",2,0.024392377,"lung",45,FALSE
+"aspartate",3,0.017792736,"lung",45,FALSE
+"glutamate",1,0.015762691,"lung",20,FALSE
+"glutamate",2,0.019749161,"lung",20,FALSE
+"glutamate",3,0.006005999,"lung",20,FALSE
+"succinate",1,0.026282269,"lung",20,FALSE
+"succinate",2,0.029492335,"lung",20,FALSE
+"malate",1,0.029471998,"lung",20,FALSE
+"malate",2,0.025610039,"lung",20,FALSE
+"malate",3,0.016747318,"lung",20,FALSE
+"aspartate",1,0.017459002,"lung",20,FALSE
+"aspartate",2,0.012938665,"lung",20,FALSE
+"aspartate",3,0.016190562,"lung",20,FALSE
+"glutamate",1,0.036822229,"pancreas",45,FALSE
+"glutamate",2,0.030215383,"pancreas",45,FALSE
+"glutamate",3,0.008358714,"pancreas",45,FALSE
+"succinate",1,0.042553678,"pancreas",45,FALSE
+"succinate",2,0.026542982,"pancreas",45,FALSE
+"succinate",3,0.008263601,"pancreas",45,FALSE
+"malate",1,0.043756891,"pancreas",45,FALSE
+"malate",2,0.022313862,"pancreas",45,FALSE
+"malate",3,0.015484437,"pancreas",45,FALSE
+"aspartate",1,0.036894971,"pancreas",45,FALSE
+"aspartate",2,0.01534617,"pancreas",45,FALSE
+"aspartate",3,0.015322528,"pancreas",45,FALSE
+"glutamate",1,0.029011265,"pancreas",20,FALSE
+"glutamate",2,0.029594983,"pancreas",20,FALSE
+"glutamate",3,0.009896433,"pancreas",20,FALSE
+"succinate",1,0.028644666,"pancreas",20,FALSE
+"succinate",2,0.029116958,"pancreas",20,FALSE
+"succinate",3,0.00451632,"pancreas",20,FALSE
+"malate",1,0.030147994,"pancreas",20,FALSE
+"malate",2,0.022484005,"pancreas",20,FALSE
+"malate",3,0.02399188,"pancreas",20,FALSE
+"aspartate",1,0.026360407,"pancreas",20,FALSE
+"aspartate",2,0.013826515,"pancreas",20,FALSE
+"aspartate",3,0.022168403,"pancreas",20,FALSE
+"glutamate",1,0.021420836,"skin",45,FALSE
+"glutamate",2,0.025123369,"skin",45,FALSE
+"glutamate",3,0.004293293,"skin",45,FALSE
+"succinate",1,0.031014499,"skin",45,FALSE
+"succinate",2,0.030484059,"skin",45,FALSE
+"succinate",3,0.003392046,"skin",45,FALSE
+"malate",1,0.035089195,"skin",45,FALSE
+"malate",2,0.025180609,"skin",45,FALSE
+"malate",3,0.008956733,"skin",45,FALSE
+"aspartate",1,0.019711128,"skin",45,FALSE
+"aspartate",2,0.00520725,"skin",45,FALSE
+"aspartate",3,0.006564171,"skin",45,FALSE
+"glutamate",1,0.005119604,"skin",20,FALSE
+"glutamate",2,0.010554905,"skin",20,FALSE
+"glutamate",3,0.004387442,"skin",20,FALSE
+"succinate",1,0.012512307,"skin",20,FALSE
+"succinate",2,0.025437518,"skin",20,FALSE
+"succinate",3,0.003068851,"skin",20,FALSE
+"malate",1,0.012071372,"skin",20,FALSE
+"malate",2,0.013405075,"skin",20,FALSE
+"malate",3,0.018173941,"skin",20,FALSE
+"aspartate",1,0.004004165,"skin",20,FALSE
+"aspartate",3,0.011626999,"skin",20,FALSE
+"glutamate",1,0.073684039,"soleus",45,FALSE
+"glutamate",2,0.04702565,"soleus",45,FALSE
+"glutamate",3,0.003807221,"soleus",45,FALSE
+"succinate",1,0.075929145,"soleus",45,FALSE
+"succinate",2,0.036511322,"soleus",45,FALSE
+"succinate",3,0.003271771,"soleus",45,FALSE
+"malate",1,0.074205922,"soleus",45,FALSE
+"malate",2,0.034683428,"soleus",45,FALSE
+"malate",3,0.003963505,"soleus",45,FALSE
+"aspartate",1,0.072204858,"soleus",45,FALSE
+"aspartate",2,0.035237473,"soleus",45,FALSE
+"aspartate",3,0.003989701,"soleus",45,FALSE
+"glutamate",1,0.021329331,"soleus",20,FALSE
+"glutamate",2,0.02238103,"soleus",20,FALSE
+"glutamate",3,0.009772536,"soleus",20,FALSE
+"succinate",1,0.029219801,"soleus",20,FALSE
+"succinate",2,0.02386655,"soleus",20,FALSE
+"succinate",3,0.011398539,"soleus",20,FALSE
+"malate",1,0.027359563,"soleus",20,FALSE
+"malate",2,0.022086299,"soleus",20,FALSE
+"malate",3,0.01084266,"soleus",20,FALSE
+"aspartate",1,0.036334269,"soleus",20,FALSE
+"aspartate",2,0.021232075,"soleus",20,FALSE
+"aspartate",3,0.007449506,"soleus",20,FALSE
+"glutamate",1,0.030053975,"white adipose",45,FALSE
+"glutamate",2,0.015366116,"white adipose",45,FALSE
+"glutamate",3,0.007334038,"white adipose",45,FALSE
+"succinate",1,0.038320208,"white adipose",45,FALSE
+"succinate",2,0.029214753,"white adipose",45,FALSE
+"succinate",3,0.000536778,"white adipose",45,FALSE
+"malate",1,0.028274002,"white adipose",45,FALSE
+"malate",2,0.018069173,"white adipose",45,FALSE
+"malate",3,0.013603127,"white adipose",45,FALSE
+"aspartate",2,0.000577217,"white adipose",45,FALSE
+"aspartate",3,0.005386664,"white adipose",45,FALSE
+"glutamate",1,0.029301697,"white adipose",20,FALSE
+"glutamate",2,0.025338825,"white adipose",20,FALSE
+"glutamate",3,0.011642218,"white adipose",20,FALSE
+"succinate",1,0.050002397,"white adipose",20,FALSE
+"succinate",2,0.04271736,"white adipose",20,FALSE
+"malate",1,0.039546693,"white adipose",20,FALSE
+"malate",2,0.028218103,"white adipose",20,FALSE
+"malate",3,0.014759035,"white adipose",20,FALSE
+"aspartate",2,0.002416201,"white adipose",20,FALSE
+"aspartate",3,0.006655996,"white adipose",20,FALSE
+"aspartate",1,0.008437418,"brown adipose",1.5,FALSE
+"aspartate",2,0.002038691,"brown adipose",1.5,FALSE
+"aspartate",3,0.003427169,"brown adipose",1.5,FALSE
+"glutamate",1,0.007417158,"brown adipose",1.5,FALSE
+"glutamate",2,0.005102637,"brown adipose",1.5,FALSE
+"glutamate",3,0.001554659,"brown adipose",1.5,FALSE
+"malate",1,0.01153364,"brown adipose",1.5,FALSE
+"malate",2,0.005903097,"brown adipose",1.5,FALSE
+"malate",3,0.009202695,"brown adipose",1.5,FALSE
+"succinate",1,0.021703605,"brown adipose",1.5,FALSE
+"succinate",2,0.010739203,"brown adipose",1.5,FALSE
+"succinate",3,0.006926507,"brown adipose",1.5,FALSE
+"aspartate",1,0.00642625,"brown adipose",3,FALSE
+"aspartate",2,0.001518736,"brown adipose",3,FALSE
+"aspartate",3,0.006472944,"brown adipose",3,FALSE
+"glutamate",1,0.010946245,"brown adipose",3,FALSE
+"glutamate",2,0.008118429,"brown adipose",3,FALSE
+"glutamate",3,0.001825824,"brown adipose",3,FALSE
+"malate",1,0.009527507,"brown adipose",3,FALSE
+"malate",2,0.005024951,"brown adipose",3,FALSE
+"malate",3,0.006105858,"brown adipose",3,FALSE
+"succinate",1,0.017542442,"brown adipose",3,FALSE
+"succinate",2,0.009950646,"brown adipose",3,FALSE
+"succinate",3,0.009037378,"brown adipose",3,FALSE
+"aspartate",1,0.007644532,"brown adipose",3,FALSE
+"aspartate",2,0.002942229,"brown adipose",3,FALSE
+"aspartate",3,0.004047513,"brown adipose",3,FALSE
+"glutamate",1,0.010964219,"brown adipose",3,FALSE
+"glutamate",2,0.008756664,"brown adipose",3,FALSE
+"glutamate",3,0.001966121,"brown adipose",3,FALSE
+"malate",1,0.009849561,"brown adipose",3,FALSE
+"malate",2,0.007189162,"brown adipose",3,FALSE
+"malate",3,0.006398975,"brown adipose",3,FALSE
+"succinate",1,0.017429152,"brown adipose",3,FALSE
+"succinate",2,0.010994562,"brown adipose",3,FALSE
+"succinate",3,0.007513568,"brown adipose",3,FALSE
+"aspartate",2,0.000845929,"intestine",1.5,FALSE
+"aspartate",3,0.002044162,"intestine",1.5,FALSE
+"glutamate",1,0.000813005,"intestine",1.5,FALSE
+"glutamate",2,0.003166729,"intestine",1.5,FALSE
+"glutamate",3,0.000326257,"intestine",1.5,FALSE
+"malate",1,0.002482264,"intestine",1.5,FALSE
+"malate",2,0.00249839,"intestine",1.5,FALSE
+"malate",3,0.002726315,"intestine",1.5,FALSE
+"succinate",1,0.003029674,"intestine",1.5,FALSE
+"succinate",2,0.004526298,"intestine",1.5,FALSE
+"succinate",3,0.002203663,"intestine",1.5,FALSE
+"aspartate",1,0.001480938,"intestine",3,FALSE
+"aspartate",2,0.005641348,"intestine",3,FALSE
+"aspartate",3,0.002302569,"intestine",3,FALSE
+"glutamate",1,0.000824361,"intestine",3,FALSE
+"glutamate",2,0.010922023,"intestine",3,FALSE
+"glutamate",3,0.000719462,"intestine",3,FALSE
+"malate",1,0.004709853,"intestine",3,FALSE
+"malate",2,0.006850218,"intestine",3,FALSE
+"malate",3,0.001780299,"intestine",3,FALSE
+"succinate",1,0.00716187,"intestine",3,FALSE
+"succinate",2,0.009493479,"intestine",3,FALSE
+"succinate",3,0.001586485,"intestine",3,FALSE
+"aspartate",2,0.004067647,"intestine",3,FALSE
+"aspartate",3,0.001496325,"intestine",3,FALSE
+"glutamate",1,0.00139837,"intestine",3,FALSE
+"glutamate",2,0.009908321,"intestine",3,FALSE
+"glutamate",3,0.000508433,"intestine",3,FALSE
+"malate",1,0.002522539,"intestine",3,FALSE
+"malate",2,0.008731132,"intestine",3,FALSE
+"malate",3,0.001410917,"intestine",3,FALSE
+"succinate",1,0.009431381,"intestine",3,FALSE
+"succinate",2,0.010534446,"intestine",3,FALSE
+"succinate",3,0.001989465,"intestine",3,FALSE
+"aspartate",2,0.004039353,"soleus",1.5,FALSE
+"aspartate",3,0.001857303,"soleus",1.5,FALSE
+"glutamate",1,0.002080721,"soleus",1.5,FALSE
+"glutamate",2,0.004635621,"soleus",1.5,FALSE
+"glutamate",3,0.000502776,"soleus",1.5,FALSE
+"malate",1,0.000372832,"soleus",1.5,FALSE
+"malate",2,0.002982415,"soleus",1.5,FALSE
+"succinate",1,0.00162774,"soleus",1.5,FALSE
+"succinate",2,0.003512649,"soleus",1.5,FALSE
+"succinate",3,0.002385296,"soleus",1.5,FALSE
+"aspartate",2,0.00137064,"soleus",3,FALSE
+"aspartate",3,0.004571394,"soleus",3,FALSE
+"glutamate",1,0.001026363,"soleus",3,FALSE
+"glutamate",2,0.00207122,"soleus",3,FALSE
+"glutamate",3,0.000917897,"soleus",3,FALSE
+"malate",2,0.002145909,"soleus",3,FALSE
+"malate",3,0.004114167,"soleus",3,FALSE
+"succinate",1,0.000294569,"soleus",3,FALSE
+"succinate",2,0.002778801,"soleus",3,FALSE
+"succinate",3,0.00191138,"soleus",3,FALSE
+"aspartate",1,0.003712892,"soleus",3,FALSE
+"aspartate",2,0.008126287,"soleus",3,FALSE
+"aspartate",3,0.002504153,"soleus",3,FALSE
+"glutamate",1,0.002754416,"soleus",3,FALSE
+"glutamate",2,0.009211477,"soleus",3,FALSE
+"glutamate",3,0.000689302,"soleus",3,FALSE
+"malate",1,0.001104824,"soleus",3,FALSE
+"malate",2,0.006317325,"soleus",3,FALSE
+"malate",3,0.003410037,"soleus",3,FALSE
+"succinate",1,0.005151751,"soleus",3,FALSE
+"succinate",2,0.007965196,"soleus",3,FALSE
+"succinate",3,0.002453595,"soleus",3,FALSE
+"glutamate",1,0.033415781,"brown adipose",45,TRUE
+"glutamate",2,0.026219559,"brown adipose",45,TRUE
+"glutamate",3,0.004559082,"brown adipose",45,TRUE
+"succinate",1,0.052365131,"brown adipose",45,TRUE
+"succinate",2,0.026609038,"brown adipose",45,TRUE
+"succinate",3,0.012837834,"brown adipose",45,TRUE
+"malate",1,0.048620566,"brown adipose",45,TRUE
+"malate",2,0.024066811,"brown adipose",45,TRUE
+"malate",3,0.014019528,"brown adipose",45,TRUE
+"aspartate",1,0.032270741,"brown adipose",45,TRUE
+"aspartate",2,0.013011986,"brown adipose",45,TRUE
+"aspartate",3,0.010178394,"brown adipose",45,TRUE
+"glutamate",1,0.025465351,"brown adipose",45,TRUE
+"glutamate",2,0.022690281,"brown adipose",45,TRUE
+"glutamate",3,0.005424738,"brown adipose",45,TRUE
+"succinate",1,0.038754263,"brown adipose",45,TRUE
+"succinate",2,0.019501925,"brown adipose",45,TRUE
+"succinate",3,0.012325466,"brown adipose",45,TRUE
+"malate",1,0.035441106,"brown adipose",45,TRUE
+"malate",2,0.020409896,"brown adipose",45,TRUE
+"malate",3,0.012111169,"brown adipose",45,TRUE
+"aspartate",1,0.019456599,"brown adipose",45,TRUE
+"aspartate",2,0.012430897,"brown adipose",45,TRUE
+"aspartate",3,0.007181251,"brown adipose",45,TRUE
+"glutamate",1,0.05424223,"brown adipose",90,TRUE
+"glutamate",2,0.035691089,"brown adipose",90,TRUE
+"glutamate",3,0.006010078,"brown adipose",90,TRUE
+"succinate",1,0.074817033,"brown adipose",90,TRUE
+"succinate",2,0.033921166,"brown adipose",90,TRUE
+"succinate",3,0.012855497,"brown adipose",90,TRUE
+"malate",1,0.065141287,"brown adipose",90,TRUE
+"malate",2,0.027887677,"brown adipose",90,TRUE
+"malate",3,0.012616117,"brown adipose",90,TRUE
+"aspartate",1,0.047956693,"brown adipose",90,TRUE
+"aspartate",2,0.021701015,"brown adipose",90,TRUE
+"aspartate",3,0.008656892,"brown adipose",90,TRUE
+"glutamate",1,0.04467294,"brown adipose",90,TRUE
+"glutamate",2,0.035923022,"brown adipose",90,TRUE
+"glutamate",3,0.006083484,"brown adipose",90,TRUE
+"succinate",1,0.061502627,"brown adipose",90,TRUE
+"succinate",2,0.035067483,"brown adipose",90,TRUE
+"succinate",3,0.015723443,"brown adipose",90,TRUE
+"malate",1,0.058417166,"brown adipose",90,TRUE
+"malate",2,0.031453379,"brown adipose",90,TRUE
+"malate",3,0.015672865,"brown adipose",90,TRUE
+"aspartate",1,0.044328332,"brown adipose",90,TRUE
+"aspartate",2,0.023222486,"brown adipose",90,TRUE
+"aspartate",3,0.011569502,"brown adipose",90,TRUE
+"glutamate",1,0.04520747,"intestine",45,FALSE
+"glutamate",2,0.034226924,"intestine",45,FALSE
+"glutamate",3,0.005647262,"intestine",45,FALSE
+"succinate",1,0.042909928,"intestine",45,FALSE
+"succinate",2,0.02385845,"intestine",45,FALSE
+"succinate",3,0.005377724,"intestine",45,FALSE
+"malate",1,0.039022063,"intestine",45,FALSE
+"malate",2,0.023046402,"intestine",45,FALSE
+"malate",3,0.006805696,"intestine",45,FALSE
+"aspartate",1,0.038008227,"intestine",45,FALSE
+"aspartate",2,0.024033612,"intestine",45,FALSE
+"aspartate",3,0.007938787,"intestine",45,FALSE
+"glutamate",1,0.033341605,"intestine",45,FALSE
+"glutamate",2,0.034788509,"intestine",45,FALSE
+"glutamate",3,0.006199799,"intestine",45,FALSE
+"succinate",1,0.041128664,"intestine",45,FALSE
+"succinate",2,0.026217467,"intestine",45,FALSE
+"succinate",3,0.004051493,"intestine",45,FALSE
+"malate",1,0.036186808,"intestine",45,FALSE
+"malate",2,0.023258498,"intestine",45,FALSE
+"malate",3,0.003676089,"intestine",45,FALSE
+"aspartate",1,0.032264838,"intestine",45,FALSE
+"aspartate",2,0.028487303,"intestine",45,FALSE
+"aspartate",3,0.005013712,"intestine",45,FALSE
+"glutamate",1,0.061353934,"intestine",90,TRUE
+"glutamate",2,0.046027954,"intestine",90,TRUE
+"glutamate",3,0.006551926,"intestine",90,TRUE
+"succinate",1,0.064953705,"intestine",90,TRUE
+"succinate",2,0.038653867,"intestine",90,TRUE
+"succinate",3,0.004434587,"intestine",90,TRUE
+"malate",1,0.06441616,"intestine",90,TRUE
+"malate",2,0.033893228,"intestine",90,TRUE
+"malate",3,0.005266573,"intestine",90,TRUE
+"aspartate",1,0.053270868,"intestine",90,TRUE
+"aspartate",2,0.033447107,"intestine",90,TRUE
+"aspartate",3,0.00667365,"intestine",90,TRUE
+"glutamate",1,0.047423542,"intestine",90,TRUE
+"glutamate",2,0.032027467,"intestine",90,TRUE
+"glutamate",3,0.005942711,"intestine",90,TRUE
+"succinate",1,0.045050997,"intestine",90,TRUE
+"succinate",2,0.025120932,"intestine",90,TRUE
+"succinate",3,0.004113361,"intestine",90,TRUE
+"malate",1,0.046559768,"intestine",90,TRUE
+"malate",2,0.023528495,"intestine",90,TRUE
+"malate",3,0.005496075,"intestine",90,TRUE
+"aspartate",1,0.039722343,"intestine",90,TRUE
+"aspartate",2,0.022980194,"intestine",90,TRUE
+"aspartate",3,0.005177003,"intestine",90,TRUE
+"glutamate",1,0.034164246,"soleus",45,FALSE
+"glutamate",2,0.02171688,"soleus",45,FALSE
+"glutamate",3,0.003168787,"soleus",45,FALSE
+"succinate",1,0.033706492,"soleus",45,FALSE
+"succinate",2,0.017099973,"soleus",45,FALSE
+"succinate",3,0.003847409,"soleus",45,FALSE
+"malate",1,0.032293541,"soleus",45,FALSE
+"malate",2,0.017580015,"soleus",45,FALSE
+"malate",3,0.005896815,"soleus",45,FALSE
+"aspartate",1,0.031595504,"soleus",45,FALSE
+"aspartate",2,0.014731397,"soleus",45,FALSE
+"aspartate",3,0.005914687,"soleus",45,FALSE
+"glutamate",1,0.055984401,"soleus",45,FALSE
+"glutamate",2,0.033034739,"soleus",45,FALSE
+"glutamate",3,0.00470165,"soleus",45,FALSE
+"succinate",1,0.055436193,"soleus",45,FALSE
+"succinate",2,0.024647277,"soleus",45,FALSE
+"succinate",3,0.004355498,"soleus",45,FALSE
+"malate",1,0.060590054,"soleus",45,FALSE
+"malate",2,0.027667511,"soleus",45,FALSE
+"malate",3,0.006305954,"soleus",45,FALSE
+"aspartate",1,0.064420558,"soleus",45,FALSE
+"aspartate",2,0.032060726,"soleus",45,FALSE
+"aspartate",3,0.007094342,"soleus",45,FALSE
+"glutamate",1,0.056526221,"soleus",90,FALSE
+"glutamate",2,0.04013683,"soleus",90,FALSE
+"glutamate",3,0.004318761,"soleus",90,FALSE
+"succinate",1,0.056046968,"soleus",90,FALSE
+"succinate",2,0.027703026,"soleus",90,FALSE
+"succinate",3,0.004334073,"soleus",90,FALSE
+"malate",1,0.05631133,"soleus",90,FALSE
+"malate",2,0.028981348,"soleus",90,FALSE
+"malate",3,0.005376284,"soleus",90,FALSE
+"aspartate",1,0.057732424,"soleus",90,FALSE
+"aspartate",2,0.029342683,"soleus",90,FALSE
+"aspartate",3,0.00557503,"soleus",90,FALSE
+"glutamate",1,0.039080426,"soleus",90,FALSE
+"glutamate",2,0.024729783,"soleus",90,FALSE
+"glutamate",3,0.003780158,"soleus",90,FALSE
+"succinate",1,0.040251152,"soleus",90,FALSE
+"succinate",2,0.01885491,"soleus",90,FALSE
+"succinate",3,0.002406492,"soleus",90,FALSE
+"malate",1,0.042845486,"soleus",90,FALSE
+"malate",2,0.02006592,"soleus",90,FALSE
+"malate",3,0.004141255,"soleus",90,FALSE
+"aspartate",1,0.037753829,"soleus",90,FALSE
+"aspartate",2,0.021727178,"soleus",90,FALSE
+"aspartate",3,0.00356157,"soleus",90,FALSE
+"succinate",1,0.01191323,"metastaticLungLM2",10,FALSE
+"succinate",2,0.01976602,"metastaticLungLM2",10,FALSE
+"succinate",3,0.000927983,"metastaticLungLM2",10,FALSE
+"malate",1,0.012187154,"metastaticLungLM2",10,FALSE
+"malate",2,0.015087518,"metastaticLungLM2",10,FALSE
+"malate",3,0.007912232,"metastaticLungLM2",10,FALSE
+"glutamate",1,0.00561326,"metastaticLungLM2",10,FALSE
+"glutamate",2,0.015310277,"metastaticLungLM2",10,FALSE
+"glutamate",3,0.001194983,"metastaticLungLM2",10,FALSE
+"aspartate",1,0.003522178,"metastaticLungLM2",10,FALSE
+"aspartate",2,0.008042563,"metastaticLungLM2",10,FALSE
+"aspartate",3,0.005593427,"metastaticLungLM2",10,FALSE
+"succinate",1,0.01918031,"metastaticLungLM2",10,FALSE
+"succinate",2,0.020725374,"metastaticLungLM2",10,FALSE
+"succinate",3,0.001905992,"metastaticLungLM2",10,FALSE
+"malate",1,0.010786695,"metastaticLungLM2",10,FALSE
+"malate",2,0.012833845,"metastaticLungLM2",10,FALSE
+"malate",3,0.007036843,"metastaticLungLM2",10,FALSE
+"glutamate",1,0.00505771,"metastaticLungLM2",10,FALSE
+"glutamate",2,0.013341544,"metastaticLungLM2",10,FALSE
+"glutamate",3,0.000889956,"metastaticLungLM2",10,FALSE
+"aspartate",1,0.000621609,"metastaticLungLM2",10,FALSE
+"aspartate",2,0.005458506,"metastaticLungLM2",10,FALSE
+"aspartate",3,0.002869298,"metastaticLungLM2",10,FALSE
+"succinate",1,0.011550594,"metastaticLungLM2",10,FALSE
+"succinate",2,0.017530792,"metastaticLungLM2",10,FALSE
+"succinate",3,0.00163259,"metastaticLungLM2",10,FALSE
+"malate",1,0.008517375,"metastaticLungLM2",10,FALSE
+"malate",2,0.011086643,"metastaticLungLM2",10,FALSE
+"malate",3,0.005597375,"metastaticLungLM2",10,FALSE
+"glutamate",1,0.004296231,"metastaticLungLM2",10,FALSE
+"glutamate",2,0.011122628,"metastaticLungLM2",10,FALSE
+"glutamate",3,0.000587123,"metastaticLungLM2",10,FALSE
+"aspartate",1,0.000426571,"metastaticLungLM2",10,FALSE
+"aspartate",2,0.006053232,"metastaticLungLM2",10,FALSE
+"aspartate",3,0.003635946,"metastaticLungLM2",10,FALSE
+"succinate",1,0.070438707,"metastaticLungLM2",120,FALSE
+"succinate",2,0.046509551,"metastaticLungLM2",120,FALSE
+"succinate",3,0.003400111,"metastaticLungLM2",120,FALSE
+"malate",1,0.073279636,"metastaticLungLM2",120,FALSE
+"malate",2,0.048770248,"metastaticLungLM2",120,FALSE
+"malate",3,0.01916217,"metastaticLungLM2",120,FALSE
+"glutamate",1,0.059886208,"metastaticLungLM2",120,FALSE
+"glutamate",2,0.058160658,"metastaticLungLM2",120,FALSE
+"glutamate",3,0.011420555,"metastaticLungLM2",120,FALSE
+"aspartate",1,0.062443107,"metastaticLungLM2",120,FALSE
+"aspartate",2,0.045527043,"metastaticLungLM2",120,FALSE
+"aspartate",3,0.014939249,"metastaticLungLM2",120,FALSE
+"succinate",1,0,"primaryTumorLM2",10,FALSE
+"succinate",2,0.004848752,"primaryTumorLM2",10,FALSE
+"succinate",3,0.000743057,"primaryTumorLM2",10,FALSE
+"malate",1,0.000940048,"primaryTumorLM2",10,FALSE
+"malate",2,0.002919867,"primaryTumorLM2",10,FALSE
+"malate",3,0.002968712,"primaryTumorLM2",10,FALSE
+"glutamate",1,0.001889461,"primaryTumorLM2",10,FALSE
+"glutamate",2,0.004411575,"primaryTumorLM2",10,FALSE
+"glutamate",3,0.000182566,"primaryTumorLM2",10,FALSE
+"aspartate",1,0,"primaryTumorLM2",10,FALSE
+"aspartate",2,0.001715912,"primaryTumorLM2",10,FALSE
+"aspartate",3,0.002594889,"primaryTumorLM2",10,FALSE
+"succinate",1,0.001013327,"primaryTumorLM2",10,FALSE
+"succinate",2,0.005160935,"primaryTumorLM2",10,FALSE
+"succinate",3,0.000688461,"primaryTumorLM2",10,FALSE
+"malate",1,0.002201228,"primaryTumorLM2",10,FALSE
+"malate",2,0.002886168,"primaryTumorLM2",10,FALSE
+"malate",3,0.003937964,"primaryTumorLM2",10,FALSE
+"glutamate",1,0.001193523,"primaryTumorLM2",10,FALSE
+"glutamate",2,0.005188886,"primaryTumorLM2",10,FALSE
+"glutamate",3,0.000224369,"primaryTumorLM2",10,FALSE
+"aspartate",1,0.001085666,"primaryTumorLM2",10,FALSE
+"aspartate",2,0.003338183,"primaryTumorLM2",10,FALSE
+"aspartate",3,0.002397441,"primaryTumorLM2",10,FALSE
+"succinate",1,0.005509897,"primaryTumorLM2",10,FALSE
+"succinate",2,0.005872557,"primaryTumorLM2",10,FALSE
+"succinate",3,0.000652222,"primaryTumorLM2",10,FALSE
+"malate",1,0.002970321,"primaryTumorLM2",10,FALSE
+"malate",2,0.004093735,"primaryTumorLM2",10,FALSE
+"malate",3,0.001591417,"primaryTumorLM2",10,FALSE
+"glutamate",1,0.000872723,"primaryTumorLM2",10,FALSE
+"glutamate",2,0.003840455,"primaryTumorLM2",10,FALSE
+"glutamate",3,0.000135092,"primaryTumorLM2",10,FALSE
+"aspartate",1,0.001989317,"primaryTumorLM2",10,FALSE
+"aspartate",2,0.001782282,"primaryTumorLM2",10,FALSE
+"aspartate",3,0.001362482,"primaryTumorLM2",10,FALSE
+"succinate",1,0.046901982,"primaryTumorLM2",120,FALSE
+"succinate",2,0.045785147,"primaryTumorLM2",120,FALSE
+"succinate",3,0.003470026,"primaryTumorLM2",120,FALSE
+"malate",1,0.055586614,"primaryTumorLM2",120,FALSE
+"malate",2,0.047929889,"primaryTumorLM2",120,FALSE
+"malate",3,0.011145997,"primaryTumorLM2",120,FALSE
+"glutamate",1,0.042687399,"primaryTumorLM2",120,FALSE
+"glutamate",2,0.057615024,"primaryTumorLM2",120,FALSE
+"glutamate",3,0.007056209,"primaryTumorLM2",120,FALSE
+"aspartate",1,0.050258249,"primaryTumorLM2",120,FALSE
+"aspartate",2,0.045733456,"primaryTumorLM2",120,FALSE
+"aspartate",3,0.007829286,"primaryTumorLM2",120,FALSE
+"malate",1,0.017686507,"metastaticLungLM2",25,FALSE
+"malate",2,0.026060525,"metastaticLungLM2",25,FALSE
+"malate",3,0.014390447,"metastaticLungLM2",25,FALSE
+"succinate",1,0.021609699,"metastaticLungLM2",25,FALSE
+"succinate",2,0.046456837,"metastaticLungLM2",25,FALSE
+"succinate",3,1.49382e-05,"metastaticLungLM2",25,FALSE
+"aspartate",1,0.007479866,"metastaticLungLM2",25,FALSE
+"aspartate",2,0.015958638,"metastaticLungLM2",25,FALSE
+"aspartate",3,0.006823068,"metastaticLungLM2",25,FALSE
+"glutamate",1,0.007233744,"metastaticLungLM2",25,FALSE
+"glutamate",2,0.034459016,"metastaticLungLM2",25,FALSE
+"glutamate",3,0.001498361,"metastaticLungLM2",25,FALSE
+"malate",1,0.019745542,"metastaticLungLM2",25,FALSE
+"malate",2,0.020062142,"metastaticLungLM2",25,FALSE
+"malate",3,0.011076554,"metastaticLungLM2",25,FALSE
+"succinate",1,0.023875008,"metastaticLungLM2",25,FALSE
+"succinate",2,0.026408,"metastaticLungLM2",25,FALSE
+"succinate",3,0.001045611,"metastaticLungLM2",25,FALSE
+"aspartate",1,0.007331591,"metastaticLungLM2",25,FALSE
+"aspartate",2,0.011193477,"metastaticLungLM2",25,FALSE
+"aspartate",3,0.00472626,"metastaticLungLM2",25,FALSE
+"glutamate",1,0.009985048,"metastaticLungLM2",25,FALSE
+"glutamate",2,0.021820573,"metastaticLungLM2",25,FALSE
+"glutamate",3,0.001601141,"metastaticLungLM2",25,FALSE
+"malate",1,0.00291617,"primaryTumorLM2",25,FALSE
+"malate",2,0.003760874,"primaryTumorLM2",25,FALSE
+"malate",3,0.003316508,"primaryTumorLM2",25,FALSE
+"succinate",1,0,"primaryTumorLM2",25,FALSE
+"succinate",2,0.000957582,"primaryTumorLM2",25,FALSE
+"succinate",3,8.85957e-05,"primaryTumorLM2",25,FALSE
+"aspartate",1,0,"primaryTumorLM2",25,FALSE
+"aspartate",2,0.000928363,"primaryTumorLM2",25,FALSE
+"aspartate",3,0.001810318,"primaryTumorLM2",25,FALSE
+"glutamate",1,0.000459095,"primaryTumorLM2",25,FALSE
+"glutamate",2,0.001447269,"primaryTumorLM2",25,FALSE
+"glutamate",3,0,"primaryTumorLM2",25,FALSE
+"malate",1,0.00877846,"primaryTumorLM2",25,FALSE
+"malate",2,0.009380433,"primaryTumorLM2",25,FALSE
+"malate",3,0.006482538,"primaryTumorLM2",25,FALSE
+"succinate",1,0.004270293,"primaryTumorLM2",25,FALSE
+"succinate",2,0.008384774,"primaryTumorLM2",25,FALSE
+"succinate",3,0.000553506,"primaryTumorLM2",25,FALSE
+"aspartate",1,0,"primaryTumorLM2",25,FALSE
+"aspartate",2,0.004702041,"primaryTumorLM2",25,FALSE
+"aspartate",3,0.002661572,"primaryTumorLM2",25,FALSE
+"glutamate",1,0.000893504,"primaryTumorLM2",25,FALSE
+"glutamate",2,0.01160826,"primaryTumorLM2",25,FALSE
+"glutamate",3,0.000377684,"primaryTumorLM2",25,FALSE
+"glutamate",1,0.061103917,"metastaticLungM1a",120,FALSE
+"glutamate",2,0.044278695,"metastaticLungM1a",120,FALSE
+"glutamate",3,0.007265728,"metastaticLungM1a",120,FALSE
+"malate",1,0.073093372,"metastaticLungM1a",120,FALSE
+"malate",2,0.043972176,"metastaticLungM1a",120,FALSE
+"malate",3,0.020917507,"metastaticLungM1a",120,FALSE
+"succinate",1,0.066052912,"metastaticLungM1a",120,FALSE
+"succinate",2,0.038599901,"metastaticLungM1a",120,FALSE
+"succinate",3,0,"metastaticLungM1a",120,FALSE
+"aspartate",1,0.054011141,"metastaticLungM1a",120,FALSE
+"aspartate",2,0.027041678,"metastaticLungM1a",120,FALSE
+"aspartate",3,0.005492511,"metastaticLungM1a",120,FALSE
+"glutamate",1,0.050343457,"metastaticLungM1a",120,FALSE
+"glutamate",2,0.037008001,"metastaticLungM1a",120,FALSE
+"glutamate",3,0.005852934,"metastaticLungM1a",120,FALSE
+"malate",1,0.064398639,"metastaticLungM1a",120,FALSE
+"malate",2,0.037333779,"metastaticLungM1a",120,FALSE
+"malate",3,0.016795749,"metastaticLungM1a",120,FALSE
+"succinate",1,0.059215747,"metastaticLungM1a",120,FALSE
+"succinate",2,0.031030487,"metastaticLungM1a",120,FALSE
+"succinate",3,0.000637756,"metastaticLungM1a",120,FALSE
+"aspartate",1,0.026756965,"metastaticLungM1a",120,FALSE
+"aspartate",2,0.017189686,"metastaticLungM1a",120,FALSE
+"aspartate",3,0.003390815,"metastaticLungM1a",120,FALSE
+"glutamate",1,0.062658479,"metastaticLungM1a",120,FALSE
+"glutamate",2,0.053212328,"metastaticLungM1a",120,FALSE
+"glutamate",3,0.007575793,"metastaticLungM1a",120,FALSE
+"malate",1,0.08755578,"metastaticLungM1a",120,FALSE
+"malate",2,0.055920338,"metastaticLungM1a",120,FALSE
+"malate",3,0.027180772,"metastaticLungM1a",120,FALSE
+"succinate",1,0.069093338,"metastaticLungM1a",120,FALSE
+"succinate",2,0.041048221,"metastaticLungM1a",120,FALSE
+"succinate",3,0.000633204,"metastaticLungM1a",120,FALSE
+"aspartate",1,0.03314317,"metastaticLungM1a",120,FALSE
+"aspartate",2,0.025060092,"metastaticLungM1a",120,FALSE
+"aspartate",3,0.005536129,"metastaticLungM1a",120,FALSE
+"glutamate",1,0.002810629,"metastaticLungM1a",10,FALSE
+"glutamate",2,0.006201136,"metastaticLungM1a",10,FALSE
+"glutamate",3,0.000725411,"metastaticLungM1a",10,FALSE
+"malate",1,0.007172935,"metastaticLungM1a",10,FALSE
+"malate",2,0.009240517,"metastaticLungM1a",10,FALSE
+"malate",3,0.006140127,"metastaticLungM1a",10,FALSE
+"succinate",1,0,"metastaticLungM1a",10,FALSE
+"succinate",2,0.003441724,"metastaticLungM1a",10,FALSE
+"succinate",3,9.52416e-05,"metastaticLungM1a",10,FALSE
+"aspartate",1,0,"metastaticLungM1a",10,FALSE
+"aspartate",2,0.000827925,"metastaticLungM1a",10,FALSE
+"aspartate",3,0.001678537,"metastaticLungM1a",10,FALSE
+"glutamate",1,0.002027539,"metastaticLungM1a",10,FALSE
+"glutamate",2,0.004617121,"metastaticLungM1a",10,FALSE
+"glutamate",3,0.001091395,"metastaticLungM1a",10,FALSE
+"malate",1,0.005943888,"metastaticLungM1a",10,FALSE
+"malate",2,0.011424777,"metastaticLungM1a",10,FALSE
+"malate",3,0.020623839,"metastaticLungM1a",10,FALSE
+"succinate",1,0.00080004,"metastaticLungM1a",10,FALSE
+"succinate",2,0.00665119,"metastaticLungM1a",10,FALSE
+"succinate",3,0.000257738,"metastaticLungM1a",10,FALSE
+"aspartate",1,0,"metastaticLungM1a",10,FALSE
+"aspartate",2,0.002111427,"metastaticLungM1a",10,FALSE
+"aspartate",3,0.001914434,"metastaticLungM1a",10,FALSE
+"glutamate",1,0.001717498,"metastaticLungM1a",10,FALSE
+"glutamate",2,0.002809524,"metastaticLungM1a",10,FALSE
+"glutamate",3,0.000800392,"metastaticLungM1a",10,FALSE
+"malate",1,0.006661503,"metastaticLungM1a",10,FALSE
+"malate",2,0.008582932,"metastaticLungM1a",10,FALSE
+"malate",3,0.014735277,"metastaticLungM1a",10,FALSE
+"succinate",1,0,"metastaticLungM1a",10,FALSE
+"succinate",2,0.006844513,"metastaticLungM1a",10,FALSE
+"succinate",3,0,"metastaticLungM1a",10,FALSE
+"aspartate",1,0,"metastaticLungM1a",10,FALSE
+"aspartate",2,0.000591193,"metastaticLungM1a",10,FALSE
+"aspartate",3,0.002835536,"metastaticLungM1a",10,FALSE
+"glutamate",1,0.09004167,"metastaticLungM1a",120,FALSE
+"glutamate",2,0.073615645,"metastaticLungM1a",120,FALSE
+"glutamate",3,0.017423958,"metastaticLungM1a",120,FALSE
+"malate",1,0.109772357,"metastaticLungM1a",120,FALSE
+"malate",2,0.075151956,"metastaticLungM1a",120,FALSE
+"malate",3,0.034176202,"metastaticLungM1a",120,FALSE
+"succinate",1,0.096389934,"metastaticLungM1a",120,FALSE
+"succinate",2,0.063113979,"metastaticLungM1a",120,FALSE
+"succinate",3,0.001986989,"metastaticLungM1a",120,FALSE
+"aspartate",1,0.079920015,"metastaticLungM1a",120,FALSE
+"aspartate",2,0.049148134,"metastaticLungM1a",120,FALSE
+"aspartate",3,0.01081685,"metastaticLungM1a",120,FALSE
+"glutamate",1,0.004624266,"metastaticLungM1a",10,FALSE
+"glutamate",2,0.007328532,"metastaticLungM1a",10,FALSE
+"glutamate",3,0.001653765,"metastaticLungM1a",10,FALSE
+"malate",1,0.008968268,"metastaticLungM1a",10,FALSE
+"malate",2,0.01505288,"metastaticLungM1a",10,FALSE
+"malate",3,0.02309422,"metastaticLungM1a",10,FALSE
+"succinate",1,0.00286454,"metastaticLungM1a",10,FALSE
+"succinate",2,0.013042706,"metastaticLungM1a",10,FALSE
+"succinate",3,0.000138189,"metastaticLungM1a",10,FALSE
+"aspartate",1,0,"metastaticLungM1a",10,FALSE
+"aspartate",2,0.004605403,"metastaticLungM1a",10,FALSE
+"aspartate",3,0.007000779,"metastaticLungM1a",10,FALSE
+"glutamate",1,0.043831222,"primaryTumorM1a",120,FALSE
+"glutamate",2,0.065719054,"primaryTumorM1a",120,FALSE
+"glutamate",3,0.008453438,"primaryTumorM1a",120,FALSE
+"malate",1,0.055714319,"primaryTumorM1a",120,FALSE
+"malate",2,0.052930231,"primaryTumorM1a",120,FALSE
+"malate",3,0.01257035,"primaryTumorM1a",120,FALSE
+"succinate",1,0.041956112,"primaryTumorM1a",120,FALSE
+"succinate",2,0.047579627,"primaryTumorM1a",120,FALSE
+"succinate",3,0.002023959,"primaryTumorM1a",120,FALSE
+"aspartate",1,0.025968304,"primaryTumorM1a",120,FALSE
+"aspartate",2,0.024465271,"primaryTumorM1a",120,FALSE
+"aspartate",3,0.008095255,"primaryTumorM1a",120,FALSE
+"glutamate",1,0.032526468,"primaryTumorM1a",120,FALSE
+"glutamate",2,0.073516286,"primaryTumorM1a",120,FALSE
+"glutamate",3,0.00654972,"primaryTumorM1a",120,FALSE
+"malate",1,0.051424782,"primaryTumorM1a",120,FALSE
+"malate",2,0.052926949,"primaryTumorM1a",120,FALSE
+"malate",3,0.013640487,"primaryTumorM1a",120,FALSE
+"succinate",1,0.026920654,"primaryTumorM1a",120,FALSE
+"succinate",2,0.037876573,"primaryTumorM1a",120,FALSE
+"succinate",3,0.001312633,"primaryTumorM1a",120,FALSE
+"aspartate",1,0.019118199,"primaryTumorM1a",120,FALSE
+"aspartate",2,0.035942725,"primaryTumorM1a",120,FALSE
+"aspartate",3,0.007349912,"primaryTumorM1a",120,FALSE
+"glutamate",1,0,"primaryTumorM1a",10,FALSE
+"glutamate",2,0.000877236,"primaryTumorM1a",10,FALSE
+"glutamate",3,8.63197e-05,"primaryTumorM1a",10,FALSE
+"malate",1,0,"primaryTumorM1a",10,FALSE
+"malate",2,0.001140533,"primaryTumorM1a",10,FALSE
+"malate",3,0.002656298,"primaryTumorM1a",10,FALSE
+"succinate",1,0,"primaryTumorM1a",10,FALSE
+"succinate",2,0,"primaryTumorM1a",10,FALSE
+"succinate",3,0.000262339,"primaryTumorM1a",10,FALSE
+"aspartate",1,0,"primaryTumorM1a",10,FALSE
+"aspartate",2,0,"primaryTumorM1a",10,FALSE
+"aspartate",3,0,"primaryTumorM1a",10,FALSE
+"glutamate",1,0.000150984,"primaryTumorM1a",10,FALSE
+"glutamate",2,0,"primaryTumorM1a",10,FALSE
+"glutamate",3,0,"primaryTumorM1a",10,FALSE
+"malate",1,0,"primaryTumorM1a",10,FALSE
+"malate",2,0.000937329,"primaryTumorM1a",10,FALSE
+"malate",3,0.002317016,"primaryTumorM1a",10,FALSE
+"succinate",1,0,"primaryTumorM1a",10,FALSE
+"succinate",2,0,"primaryTumorM1a",10,FALSE
+"succinate",3,0,"primaryTumorM1a",10,FALSE
+"aspartate",1,0,"primaryTumorM1a",10,FALSE
+"aspartate",2,0,"primaryTumorM1a",10,FALSE
+"aspartate",3,0,"primaryTumorM1a",10,FALSE
+"glutamate",1,0.000732558,"primaryTumorM1a",10,FALSE
+"glutamate",2,0.000232886,"primaryTumorM1a",10,FALSE
+"glutamate",3,0.000120047,"primaryTumorM1a",10,FALSE
+"malate",1,0,"primaryTumorM1a",10,FALSE
+"malate",2,0.00112504,"primaryTumorM1a",10,FALSE
+"malate",3,0.002712399,"primaryTumorM1a",10,FALSE
+"succinate",1,0,"primaryTumorM1a",10,FALSE
+"succinate",2,0.000281357,"primaryTumorM1a",10,FALSE
+"succinate",3,0.000126296,"primaryTumorM1a",10,FALSE
+"aspartate",1,0,"primaryTumorM1a",10,FALSE
+"aspartate",2,0,"primaryTumorM1a",10,FALSE
+"aspartate",3,0.000820241,"primaryTumorM1a",10,FALSE
+"glutamate",1,0.021716858,"primaryTumorM1a",120,FALSE
+"glutamate",2,0.040719142,"primaryTumorM1a",120,FALSE
+"glutamate",3,0.003580663,"primaryTumorM1a",120,FALSE
+"malate",1,0.043350019,"primaryTumorM1a",120,FALSE
+"malate",2,0.03400579,"primaryTumorM1a",120,FALSE
+"malate",3,0.009974247,"primaryTumorM1a",120,FALSE
+"succinate",1,0.016873797,"primaryTumorM1a",120,FALSE
+"succinate",2,0.022490161,"primaryTumorM1a",120,FALSE
+"succinate",3,0.000836042,"primaryTumorM1a",120,FALSE
+"aspartate",1,0.009289581,"primaryTumorM1a",120,FALSE
+"aspartate",2,0.0185515,"primaryTumorM1a",120,FALSE
+"aspartate",3,0.005698333,"primaryTumorM1a",120,FALSE
+"glutamate",1,0.001822321,"primaryTumorM1a",10,FALSE
+"glutamate",2,0.000434807,"primaryTumorM1a",10,FALSE
+"glutamate",3,0,"primaryTumorM1a",10,FALSE
+"malate",1,0,"primaryTumorM1a",10,FALSE
+"malate",2,0.00265509,"primaryTumorM1a",10,FALSE
+"malate",3,0.003938129,"primaryTumorM1a",10,FALSE
+"succinate",1,0,"primaryTumorM1a",10,FALSE
+"succinate",2,0.000106725,"primaryTumorM1a",10,FALSE
+"succinate",3,8.92181e-05,"primaryTumorM1a",10,FALSE
+"aspartate",1,0,"primaryTumorM1a",10,FALSE
+"aspartate",2,0,"primaryTumorM1a",10,FALSE
+"aspartate",3,0.001173267,"primaryTumorM1a",10,FALSE
+"glutamate",1,0.031198489,"primaryTumorM1a",120,FALSE
+"glutamate",2,0.04782799,"primaryTumorM1a",120,FALSE
+"glutamate",3,0.005819733,"primaryTumorM1a",120,FALSE
+"malate",1,0.036626976,"primaryTumorM1a",120,FALSE
+"malate",2,0.033713209,"primaryTumorM1a",120,FALSE
+"malate",3,0.0050999,"primaryTumorM1a",120,FALSE
+"succinate",1,0.030900707,"primaryTumorM1a",120,FALSE
+"succinate",2,0.036509352,"primaryTumorM1a",120,FALSE
+"succinate",3,0.00086258,"primaryTumorM1a",120,FALSE
+"aspartate",1,0.023749861,"primaryTumorM1a",120,FALSE
+"aspartate",2,0.030586237,"primaryTumorM1a",120,FALSE
+"aspartate",3,0.005034989,"primaryTumorM1a",120,FALSE
+"succinate",1,0.074453616,"leukemicSpleen",120,FALSE
+"succinate",2,0.048615923,"leukemicSpleen",120,FALSE
+"succinate",3,0.003156657,"leukemicSpleen",120,FALSE
+"glutamate",1,0.064702216,"leukemicSpleen",120,FALSE
+"glutamate",2,0.061653888,"leukemicSpleen",120,FALSE
+"glutamate",3,0.005628048,"leukemicSpleen",120,FALSE
+"aspartate",1,0.061721485,"leukemicSpleen",120,FALSE
+"aspartate",2,0.039249723,"leukemicSpleen",120,FALSE
+"aspartate",3,0.003473831,"leukemicSpleen",120,FALSE
+"malate",1,0.067880665,"leukemicSpleen",120,FALSE
+"malate",2,0.046733865,"leukemicSpleen",120,FALSE
+"malate",3,0.004037149,"leukemicSpleen",120,FALSE
+"succinate",1,0,"leukemicSpleen",5,FALSE
+"succinate",2,0.008561225,"leukemicSpleen",5,FALSE
+"succinate",3,0,"leukemicSpleen",5,FALSE
+"glutamate",1,0,"leukemicSpleen",5,FALSE
+"glutamate",2,0.006949136,"leukemicSpleen",5,FALSE
+"glutamate",3,0,"leukemicSpleen",5,FALSE
+"aspartate",1,0,"leukemicSpleen",5,FALSE
+"aspartate",2,0.001797773,"leukemicSpleen",5,FALSE
+"aspartate",3,0,"leukemicSpleen",5,FALSE
+"malate",1,0,"leukemicSpleen",5,FALSE
+"malate",2,0.004321347,"leukemicSpleen",5,FALSE
+"malate",3,0.000713082,"leukemicSpleen",5,FALSE
+"succinate",1,0.069059017,"leukemicSpleen",120,FALSE
+"succinate",2,0.046490141,"leukemicSpleen",120,FALSE
+"succinate",3,0.003020754,"leukemicSpleen",120,FALSE
+"glutamate",1,0.06395289,"leukemicSpleen",120,FALSE
+"glutamate",2,0.053178909,"leukemicSpleen",120,FALSE
+"glutamate",3,0.004057561,"leukemicSpleen",120,FALSE
+"aspartate",1,0.06117567,"leukemicSpleen",120,FALSE
+"aspartate",2,0.040261378,"leukemicSpleen",120,FALSE
+"aspartate",3,0.003343129,"leukemicSpleen",120,FALSE
+"malate",1,0.068060116,"leukemicSpleen",120,FALSE
+"malate",2,0.041999992,"leukemicSpleen",120,FALSE
+"malate",3,0.003637157,"leukemicSpleen",120,FALSE
+"succinate",1,0,"leukemicSpleen",5,FALSE
+"succinate",2,0.011957585,"leukemicSpleen",5,FALSE
+"succinate",3,0.000131289,"leukemicSpleen",5,FALSE
+"glutamate",1,0,"leukemicSpleen",5,FALSE
+"glutamate",2,0.009991089,"leukemicSpleen",5,FALSE
+"glutamate",3,0,"leukemicSpleen",5,FALSE
+"aspartate",1,0,"leukemicSpleen",5,FALSE
+"aspartate",2,0.002000055,"leukemicSpleen",5,FALSE
+"aspartate",3,0.000224352,"leukemicSpleen",5,FALSE
+"malate",1,0,"leukemicSpleen",5,FALSE
+"malate",2,0.003381614,"leukemicSpleen",5,FALSE
+"malate",3,0.000420147,"leukemicSpleen",5,FALSE
+"succinate",1,0.004413635,"leukemicSpleen",15,FALSE
+"succinate",2,0.018948634,"leukemicSpleen",15,FALSE
+"succinate",3,0.000241208,"leukemicSpleen",15,FALSE
+"glutamate",1,0,"leukemicSpleen",15,FALSE
+"glutamate",2,0.018889989,"leukemicSpleen",15,FALSE
+"glutamate",3,2.40245e-06,"leukemicSpleen",15,FALSE
+"aspartate",1,0,"leukemicSpleen",15,FALSE
+"aspartate",2,0.008924309,"leukemicSpleen",15,FALSE
+"aspartate",3,0.000651479,"leukemicSpleen",15,FALSE
+"malate",1,0,"leukemicSpleen",15,FALSE
+"malate",2,0.012219476,"leukemicSpleen",15,FALSE
+"malate",3,0.000455356,"leukemicSpleen",15,FALSE
+"succinate",1,0.088164023,"leukemicSpleen",120,FALSE
+"succinate",2,0.065581122,"leukemicSpleen",120,FALSE
+"succinate",3,0.008133174,"leukemicSpleen",120,FALSE
+"glutamate",1,0.072343414,"leukemicSpleen",120,FALSE
+"glutamate",2,0.078172636,"leukemicSpleen",120,FALSE
+"glutamate",3,0.009675595,"leukemicSpleen",120,FALSE
+"aspartate",1,0.070699037,"leukemicSpleen",120,FALSE
+"aspartate",2,0.050748827,"leukemicSpleen",120,FALSE
+"aspartate",3,0.00798408,"leukemicSpleen",120,FALSE
+"malate",1,0.085181111,"leukemicSpleen",120,FALSE
+"malate",2,0.061957761,"leukemicSpleen",120,FALSE
+"malate",3,0.011262942,"leukemicSpleen",120,FALSE
+"succinate",1,0.067278149,"leukemicSpleen",120,FALSE
+"succinate",2,0.054034106,"leukemicSpleen",120,FALSE
+"succinate",3,0.028054883,"leukemicSpleen",120,FALSE
+"glutamate",1,0.093940139,"leukemicSpleen",120,FALSE
+"glutamate",2,0.10618542,"leukemicSpleen",120,FALSE
+"glutamate",3,0.015752669,"leukemicSpleen",120,FALSE
+"aspartate",1,0.094313886,"leukemicSpleen",120,FALSE
+"aspartate",2,0.072163691,"leukemicSpleen",120,FALSE
+"aspartate",3,0.011273157,"leukemicSpleen",120,FALSE
+"malate",1,0.091615714,"leukemicSpleen",120,FALSE
+"malate",2,0.069187873,"leukemicSpleen",120,FALSE
+"malate",3,0.010991872,"leukemicSpleen",120,FALSE
+"succinate",1,0.012269732,"leukemicSpleen",15,FALSE
+"succinate",2,0.044885767,"leukemicSpleen",15,FALSE
+"succinate",3,0.001558321,"leukemicSpleen",15,FALSE
+"glutamate",1,0.003023264,"leukemicSpleen",15,FALSE
+"glutamate",2,0.041775518,"leukemicSpleen",15,FALSE
+"glutamate",3,0.000570699,"leukemicSpleen",15,FALSE
+"aspartate",1,0.001695617,"leukemicSpleen",15,FALSE
+"aspartate",2,0.02064646,"leukemicSpleen",15,FALSE
+"aspartate",3,0.002114317,"leukemicSpleen",15,FALSE
+"malate",1,0.006375719,"leukemicSpleen",15,FALSE
+"malate",2,0.02981298,"leukemicSpleen",15,FALSE
+"malate",3,0.002830977,"leukemicSpleen",15,FALSE
+"succinate",1,0.004666688,"leukemicSpleen",15,FALSE
+"succinate",2,0.033461997,"leukemicSpleen",15,FALSE
+"succinate",3,0.000620255,"leukemicSpleen",15,FALSE
+"glutamate",1,0,"leukemicSpleen",15,FALSE
+"glutamate",2,0.026212212,"leukemicSpleen",15,FALSE
+"glutamate",3,0.000218939,"leukemicSpleen",15,FALSE
+"aspartate",1,0,"leukemicSpleen",15,FALSE
+"aspartate",2,0.008787226,"leukemicSpleen",15,FALSE
+"aspartate",3,0.002942952,"leukemicSpleen",15,FALSE
+"malate",1,0,"leukemicSpleen",15,FALSE
+"malate",2,0.017253607,"leukemicSpleen",15,FALSE
+"malate",3,0.003603797,"leukemicSpleen",15,FALSE
+"aspartate",1,0.041588457,"leukemicSpleen",40,FALSE
+"aspartate",2,0.053241316,"leukemicSpleen",40,FALSE
+"aspartate",3,0.007164777,"leukemicSpleen",40,FALSE
+"glutamate",1,0.041058125,"leukemicSpleen",40,FALSE
+"glutamate",2,0.074882758,"leukemicSpleen",40,FALSE
+"glutamate",3,0.006996171,"leukemicSpleen",40,FALSE
+"malate",1,0.047825324,"leukemicSpleen",40,FALSE
+"malate",2,0.058760515,"leukemicSpleen",40,FALSE
+"malate",3,0.00818002,"leukemicSpleen",40,FALSE
+"succinate",1,0.057030581,"leukemicSpleen",40,FALSE
+"succinate",2,0.061104753,"leukemicSpleen",40,FALSE
+"succinate",3,0.005971153,"leukemicSpleen",40,FALSE
+"aspartate",1,0.002021917,"leukemicSpleen",10,FALSE
+"aspartate",2,0.004918991,"leukemicSpleen",10,FALSE
+"aspartate",3,0.001407512,"leukemicSpleen",10,FALSE
+"glutamate",1,0.0032834,"leukemicSpleen",10,FALSE
+"glutamate",2,0.010546747,"leukemicSpleen",10,FALSE
+"glutamate",3,0.000358383,"leukemicSpleen",10,FALSE
+"malate",1,0.002443161,"leukemicSpleen",10,FALSE
+"malate",2,0.007351318,"leukemicSpleen",10,FALSE
+"malate",3,0.001586672,"leukemicSpleen",10,FALSE
+"succinate",1,0.001653535,"leukemicSpleen",10,FALSE
+"succinate",2,0.00962977,"leukemicSpleen",10,FALSE
+"succinate",3,0.00044978,"leukemicSpleen",10,FALSE
+"aspartate",1,0.001232974,"leukemicSpleen",10,FALSE
+"aspartate",2,0.005566076,"leukemicSpleen",10,FALSE
+"aspartate",3,0.000845071,"leukemicSpleen",10,FALSE
+"glutamate",1,0.002172716,"leukemicSpleen",10,FALSE
+"glutamate",2,0.009005602,"leukemicSpleen",10,FALSE
+"glutamate",3,0.000401556,"leukemicSpleen",10,FALSE
+"malate",1,0.000533562,"leukemicSpleen",10,FALSE
+"malate",2,0.005889515,"leukemicSpleen",10,FALSE
+"malate",3,0.001794665,"leukemicSpleen",10,FALSE
+"succinate",1,0.002468194,"leukemicSpleen",10,FALSE
+"succinate",2,0.008620451,"leukemicSpleen",10,FALSE
+"succinate",3,0.000625266,"leukemicSpleen",10,FALSE
+"aspartate",1,0.045395123,"leukemicSpleen",40,FALSE
+"aspartate",2,0.054086859,"leukemicSpleen",40,FALSE
+"aspartate",3,0.007481224,"leukemicSpleen",40,FALSE
+"glutamate",1,0.044463272,"leukemicSpleen",40,FALSE
+"glutamate",2,0.086052669,"leukemicSpleen",40,FALSE
+"glutamate",3,0.007569347,"leukemicSpleen",40,FALSE
+"malate",1,0.053841031,"leukemicSpleen",40,FALSE
+"malate",2,0.063963292,"leukemicSpleen",40,FALSE
+"malate",3,0.008509303,"leukemicSpleen",40,FALSE
+"succinate",1,0.059398623,"leukemicSpleen",40,FALSE
+"succinate",2,0.072690209,"leukemicSpleen",40,FALSE
+"succinate",3,0.008185295,"leukemicSpleen",40,FALSE
+"aspartate",1,0.060882026,"leukemicSpleen",120,FALSE
+"aspartate",2,0.052053225,"leukemicSpleen",120,FALSE
+"aspartate",3,0.009034516,"leukemicSpleen",120,FALSE
+"glutamate",1,0.06401509,"leukemicSpleen",120,FALSE
+"glutamate",2,0.065963437,"leukemicSpleen",120,FALSE
+"glutamate",3,0.009856653,"leukemicSpleen",120,FALSE
+"malate",1,0.071625061,"leukemicSpleen",120,FALSE
+"malate",2,0.055219091,"leukemicSpleen",120,FALSE
+"malate",3,0.00947807,"leukemicSpleen",120,FALSE
+"succinate",1,0.072452728,"leukemicSpleen",120,FALSE
+"succinate",2,0.053713173,"leukemicSpleen",120,FALSE
+"succinate",3,0.006542664,"leukemicSpleen",120,FALSE
+"aspartate",1,0.072181652,"leukemicSpleen",120,FALSE
+"aspartate",2,0.069402974,"leukemicSpleen",120,FALSE
+"aspartate",3,0.018001788,"leukemicSpleen",120,FALSE
+"glutamate",1,0.072046417,"leukemicSpleen",120,FALSE
+"glutamate",2,0.107038622,"leukemicSpleen",120,FALSE
+"glutamate",3,0.020549326,"leukemicSpleen",120,FALSE
+"malate",1,0.087091817,"leukemicSpleen",120,FALSE
+"malate",2,0.07972681,"leukemicSpleen",120,FALSE
+"malate",3,0.022034564,"leukemicSpleen",120,FALSE
+"succinate",1,0.092594321,"leukemicSpleen",120,FALSE
+"succinate",2,0.091955294,"leukemicSpleen",120,FALSE
+"succinate",3,0.01629526,"leukemicSpleen",120,FALSE
+"glutamate",1,0.00260359,"GEMMPDAC",3,FALSE
+"glutamate",2,0.000900946,"GEMMPDAC",3,FALSE
+"glutamate",3,0.000219693,"GEMMPDAC",3,FALSE
+"succinate",1,0.001488043,"GEMMPDAC",3,FALSE
+"succinate",2,0.001672321,"GEMMPDAC",3,FALSE
+"succinate",3,0.000817594,"GEMMPDAC",3,FALSE
+"malate",1,0.002496178,"GEMMPDAC",3,FALSE
+"malate",2,0.001221836,"GEMMPDAC",3,FALSE
+"malate",3,0.002517852,"GEMMPDAC",3,FALSE
+"aspartate",1,0,"GEMMPDAC",3,FALSE
+"aspartate",2,0,"GEMMPDAC",3,FALSE
+"aspartate",3,0.001842423,"GEMMPDAC",3,FALSE
+"glutamate",1,0.002459263,"GEMMPDAC",3,FALSE
+"glutamate",2,0.001960437,"GEMMPDAC",3,FALSE
+"glutamate",3,0.000342091,"GEMMPDAC",3,FALSE
+"succinate",1,0.001232435,"GEMMPDAC",3,FALSE
+"succinate",2,0.002026785,"GEMMPDAC",3,FALSE
+"succinate",3,0.000701559,"GEMMPDAC",3,FALSE
+"malate",1,0.003250004,"GEMMPDAC",3,FALSE
+"malate",2,0.001105482,"GEMMPDAC",3,FALSE
+"malate",3,0.002832957,"GEMMPDAC",3,FALSE
+"aspartate",1,0,"GEMMPDAC",3,FALSE
+"aspartate",2,0,"GEMMPDAC",3,FALSE
+"aspartate",3,0.001348915,"GEMMPDAC",3,FALSE
+"glutamate",1,0.007268325,"GEMMPDAC",20,FALSE
+"glutamate",2,0.011810045,"GEMMPDAC",20,FALSE
+"glutamate",3,0.001863904,"GEMMPDAC",20,FALSE
+"succinate",1,0.008361762,"GEMMPDAC",20,FALSE
+"succinate",2,0.010601154,"GEMMPDAC",20,FALSE
+"succinate",3,0.001456599,"GEMMPDAC",20,FALSE
+"malate",1,0.00714139,"GEMMPDAC",20,FALSE
+"malate",2,0.007513276,"GEMMPDAC",20,FALSE
+"malate",3,0.005218469,"GEMMPDAC",20,FALSE
+"aspartate",1,0.008929697,"GEMMPDAC",20,FALSE
+"aspartate",2,0.006261179,"GEMMPDAC",20,FALSE
+"aspartate",3,0.00384784,"GEMMPDAC",20,FALSE
+"glutamate",1,0.031016717,"GEMMPDAC",90,FALSE
+"glutamate",2,0.024583416,"GEMMPDAC",90,FALSE
+"glutamate",3,0.005512359,"GEMMPDAC",90,FALSE
+"succinate",1,0.033877606,"GEMMPDAC",90,FALSE
+"succinate",2,0.020135103,"GEMMPDAC",90,FALSE
+"succinate",3,0.001057399,"GEMMPDAC",90,FALSE
+"malate",1,0.038112124,"GEMMPDAC",90,FALSE
+"malate",2,0.017530051,"GEMMPDAC",90,FALSE
+"malate",3,0.004471246,"GEMMPDAC",90,FALSE
+"aspartate",1,0.036999448,"GEMMPDAC",90,FALSE
+"aspartate",2,0.017074587,"GEMMPDAC",90,FALSE
+"aspartate",3,0.004264934,"GEMMPDAC",90,FALSE
+"glutamate",1,0.006675003,"GEMMPDAC",20,FALSE
+"glutamate",2,0.011485932,"GEMMPDAC",20,FALSE
+"glutamate",3,0.001919976,"GEMMPDAC",20,FALSE
+"succinate",1,0.010273348,"GEMMPDAC",20,FALSE
+"succinate",2,0.013642792,"GEMMPDAC",20,FALSE
+"succinate",3,0.00198487,"GEMMPDAC",20,FALSE
+"malate",1,0.007392564,"GEMMPDAC",20,FALSE
+"malate",2,0.008812044,"GEMMPDAC",20,FALSE
+"malate",3,0.005579106,"GEMMPDAC",20,FALSE
+"aspartate",1,0.00408053,"GEMMPDAC",20,FALSE
+"aspartate",2,0.006504299,"GEMMPDAC",20,FALSE
+"aspartate",3,0.004679647,"GEMMPDAC",20,FALSE
+"glutamate",1,0.043518375,"GEMMPDAC",90,FALSE
+"glutamate",2,0.028972503,"GEMMPDAC",90,FALSE
+"glutamate",3,0.005020907,"GEMMPDAC",90,FALSE
+"succinate",1,0.042355664,"GEMMPDAC",90,FALSE
+"succinate",2,0.024505493,"GEMMPDAC",90,FALSE
+"succinate",3,0.001167517,"GEMMPDAC",90,FALSE
+"malate",1,0.047828838,"GEMMPDAC",90,FALSE
+"malate",2,0.019942934,"GEMMPDAC",90,FALSE
+"malate",3,0.004612941,"GEMMPDAC",90,FALSE
+"aspartate",1,0.041057106,"GEMMPDAC",90,FALSE
+"aspartate",2,0.019030588,"GEMMPDAC",90,FALSE
+"aspartate",3,0.004058538,"GEMMPDAC",90,FALSE
+"glutamate",1,0.036309603,"GEMMNSCLC",30,FALSE
+"glutamate",2,0.04487351,"GEMMNSCLC",30,FALSE
+"glutamate",3,0.005916221,"GEMMNSCLC",30,FALSE
+"succinate",1,0.044562964,"GEMMNSCLC",30,FALSE
+"succinate",2,0.041226418,"GEMMNSCLC",30,FALSE
+"succinate",3,0.008770852,"GEMMNSCLC",30,FALSE
+"malate",1,0.043239463,"GEMMNSCLC",30,FALSE
+"malate",2,0.028349071,"GEMMNSCLC",30,FALSE
+"malate",3,0.015965411,"GEMMNSCLC",30,FALSE
+"aspartate",1,0.039854596,"GEMMNSCLC",30,FALSE
+"aspartate",2,0.029117603,"GEMMNSCLC",30,FALSE
+"aspartate",3,0.018551963,"GEMMNSCLC",30,FALSE
+"glutamate",1,0.07421738,"GEMMNSCLC",90,FALSE
+"glutamate",2,0.081699448,"GEMMNSCLC",90,FALSE
+"glutamate",3,0.020630445,"GEMMNSCLC",90,FALSE
+"succinate",1,0.100465036,"GEMMNSCLC",90,FALSE
+"succinate",2,0.094594149,"GEMMNSCLC",90,FALSE
+"succinate",3,0.017227033,"GEMMNSCLC",90,FALSE
+"malate",1,0.098856113,"GEMMNSCLC",90,FALSE
+"malate",2,0.072946586,"GEMMNSCLC",90,FALSE
+"malate",3,0.04537465,"GEMMNSCLC",90,FALSE
+"aspartate",1,0.086095833,"GEMMNSCLC",90,FALSE
+"aspartate",2,0.066751895,"GEMMNSCLC",90,FALSE
+"aspartate",3,0.039442233,"GEMMNSCLC",90,FALSE
+"glutamate",1,0.068599143,"GEMMNSCLC",90,FALSE
+"glutamate",2,0.070780059,"GEMMNSCLC",90,FALSE
+"glutamate",3,0.011247579,"GEMMNSCLC",90,FALSE
+"succinate",1,0.076224437,"GEMMNSCLC",90,FALSE
+"succinate",2,0.065295688,"GEMMNSCLC",90,FALSE
+"succinate",3,0.008906096,"GEMMNSCLC",90,FALSE
+"malate",1,0.07931656,"GEMMNSCLC",90,FALSE
+"malate",2,0.048906964,"GEMMNSCLC",90,FALSE
+"malate",3,0.02122623,"GEMMNSCLC",90,FALSE
+"aspartate",1,0.071882677,"GEMMNSCLC",90,FALSE
+"aspartate",2,0.050522435,"GEMMNSCLC",90,FALSE
+"aspartate",3,0.022273461,"GEMMNSCLC",90,FALSE
+"glutamate",1,0.005598184,"GEMMNSCLC",3,FALSE
+"glutamate",2,0.008403416,"GEMMNSCLC",3,FALSE
+"glutamate",3,0.000964989,"GEMMNSCLC",3,FALSE
+"succinate",1,0.005394143,"GEMMNSCLC",3,FALSE
+"succinate",2,0.010986463,"GEMMNSCLC",3,FALSE
+"succinate",3,0.003448513,"GEMMNSCLC",3,FALSE
+"malate",1,0.007458303,"GEMMNSCLC",3,FALSE
+"malate",2,0.005794492,"GEMMNSCLC",3,FALSE
+"malate",3,0.007509375,"GEMMNSCLC",3,FALSE
+"aspartate",1,0.002931361,"GEMMNSCLC",3,FALSE
+"aspartate",2,0.003642947,"GEMMNSCLC",3,FALSE
+"aspartate",3,0.006984364,"GEMMNSCLC",3,FALSE
+"glutamate",1,0.006426385,"GEMMNSCLC",3,FALSE
+"glutamate",2,0.001436844,"GEMMNSCLC",3,FALSE
+"glutamate",3,0.000245094,"GEMMNSCLC",3,FALSE
+"succinate",1,0.000601883,"GEMMNSCLC",3,FALSE
+"succinate",2,0.001613496,"GEMMNSCLC",3,FALSE
+"succinate",3,0.000188119,"GEMMNSCLC",3,FALSE
+"malate",1,0.004971716,"GEMMNSCLC",3,FALSE
+"malate",2,0.001779281,"GEMMNSCLC",3,FALSE
+"malate",3,0.000804572,"GEMMNSCLC",3,FALSE
+"aspartate",1,0.000684008,"GEMMNSCLC",3,FALSE
+"aspartate",2,0.000641343,"GEMMNSCLC",3,FALSE
+"aspartate",3,0.000984325,"GEMMNSCLC",3,FALSE
+"glutamate",1,0.056943827,"GEMMNSCLC",60,FALSE
+"glutamate",2,0.065043659,"GEMMNSCLC",60,FALSE
+"glutamate",3,0.013481808,"GEMMNSCLC",60,FALSE
+"succinate",1,0.069004487,"GEMMNSCLC",60,FALSE
+"succinate",2,0.067132594,"GEMMNSCLC",60,FALSE
+"succinate",3,0.00781689,"GEMMNSCLC",60,FALSE
+"aspartate",1,0.064392031,"GEMMNSCLC",60,FALSE
+"aspartate",2,0.048995308,"GEMMNSCLC",60,FALSE
+"aspartate",3,0.03269181,"GEMMNSCLC",60,FALSE
+"malate",1,0.069462163,"GEMMNSCLC",60,FALSE
+"malate",2,0.050743052,"GEMMNSCLC",60,FALSE
+"malate",3,0.030788205,"GEMMNSCLC",60,FALSE
+"glutamate",1,0.053938159,"GEMMNSCLC",60,FALSE
+"glutamate",2,0.062749168,"GEMMNSCLC",60,FALSE
+"glutamate",3,0.010794649,"GEMMNSCLC",60,FALSE
+"succinate",1,0.065658467,"GEMMNSCLC",60,FALSE
+"succinate",2,0.064272689,"GEMMNSCLC",60,FALSE
+"succinate",3,0.007871288,"GEMMNSCLC",60,FALSE
+"aspartate",1,0.060215493,"GEMMNSCLC",60,FALSE
+"aspartate",2,0.041683269,"GEMMNSCLC",60,FALSE
+"aspartate",3,0.028108731,"GEMMNSCLC",60,FALSE
+"malate",1,0.066144735,"GEMMNSCLC",60,FALSE
+"malate",2,0.041219678,"GEMMNSCLC",60,FALSE
+"malate",3,0.027403311,"GEMMNSCLC",60,FALSE
+"glutamate",1,0.025580201,"GEMMNSCLC",30,FALSE
+"glutamate",2,0.032045035,"GEMMNSCLC",30,FALSE
+"glutamate",3,0.009388442,"GEMMNSCLC",30,FALSE
+"succinate",1,0.036365005,"GEMMNSCLC",30,FALSE
+"succinate",2,0.042077991,"GEMMNSCLC",30,FALSE
+"succinate",3,0.008221569,"GEMMNSCLC",30,FALSE
+"malate",1,0.03917264,"GEMMNSCLC",30,FALSE
+"malate",2,0.033594965,"GEMMNSCLC",30,FALSE
+"malate",3,0.026973642,"GEMMNSCLC",30,FALSE
+"aspartate",1,0.029059135,"GEMMNSCLC",30,FALSE
+"aspartate",2,0.027791311,"GEMMNSCLC",30,FALSE
+"aspartate",3,0.025733,"GEMMNSCLC",30,FALSE
+"glutamate",1,0.002339216,"GEMMNSCLC",3,FALSE
+"glutamate",2,0.004016772,"GEMMNSCLC",3,FALSE
+"glutamate",3,0.001405609,"GEMMNSCLC",3,FALSE
+"succinate",1,0.002615307,"GEMMNSCLC",3,FALSE
+"succinate",2,0.008324945,"GEMMNSCLC",3,FALSE
+"succinate",3,0.003792124,"GEMMNSCLC",3,FALSE
+"malate",1,0.002355348,"GEMMNSCLC",3,FALSE
+"malate",2,0.004721513,"GEMMNSCLC",3,FALSE
+"malate",3,0.014520764,"GEMMNSCLC",3,FALSE
+"aspartate",1,0,"GEMMNSCLC",3,FALSE
+"aspartate",2,0.001313623,"GEMMNSCLC",3,FALSE
+"aspartate",3,0.009865166,"GEMMNSCLC",3,FALSE
+"glutamate",1,0.04722891,"flankNSCLC",90,FALSE
+"glutamate",2,0.041501461,"flankNSCLC",90,FALSE
+"glutamate",3,0.006197928,"flankNSCLC",90,FALSE
+"succinate",1,0.050900857,"flankNSCLC",90,FALSE
+"succinate",2,0.03419044,"flankNSCLC",90,FALSE
+"succinate",3,0.00721432,"flankNSCLC",90,FALSE
+"malate",1,0.052486252,"flankNSCLC",90,FALSE
+"malate",2,0.02796753,"flankNSCLC",90,FALSE
+"malate",3,0.010269498,"flankNSCLC",90,FALSE
+"aspartate",1,0.033949837,"flankNSCLC",90,FALSE
+"aspartate",2,0.019037667,"flankNSCLC",90,FALSE
+"aspartate",3,0.006447378,"flankNSCLC",90,FALSE
+"glutamate",1,0.001288151,"flankNSCLC",3,FALSE
+"glutamate",2,0.001286108,"flankNSCLC",3,FALSE
+"glutamate",3,0.00020607,"flankNSCLC",3,FALSE
+"succinate",1,0.002188341,"flankNSCLC",3,FALSE
+"succinate",2,0.001389144,"flankNSCLC",3,FALSE
+"succinate",3,0.000800033,"flankNSCLC",3,FALSE
+"malate",1,0.001066037,"flankNSCLC",3,FALSE
+"malate",2,0.000941215,"flankNSCLC",3,FALSE
+"malate",3,0.002337979,"flankNSCLC",3,FALSE
+"aspartate",1,0,"flankNSCLC",3,FALSE
+"aspartate",2,0,"flankNSCLC",3,FALSE
+"aspartate",3,0.001662863,"flankNSCLC",3,FALSE
+"glutamate",1,0.006660797,"flankNSCLC",20,FALSE
+"glutamate",2,0.009665326,"flankNSCLC",20,FALSE
+"glutamate",3,0.001753814,"flankNSCLC",20,FALSE
+"succinate",1,0.006858701,"flankNSCLC",20,FALSE
+"succinate",2,0.010043858,"flankNSCLC",20,FALSE
+"succinate",3,0.001985892,"flankNSCLC",20,FALSE
+"malate",1,0.010313043,"flankNSCLC",20,FALSE
+"malate",2,0.008308902,"flankNSCLC",20,FALSE
+"malate",3,0.005646778,"flankNSCLC",20,FALSE
+"aspartate",1,0.003612819,"flankNSCLC",20,FALSE
+"aspartate",2,0.004403191,"flankNSCLC",20,FALSE
+"aspartate",3,0.002142688,"flankNSCLC",20,FALSE
+"glutamate",1,0,"flankNSCLC",3,FALSE
+"glutamate",2,0.000550734,"flankNSCLC",3,FALSE
+"glutamate",3,9.6254e-05,"flankNSCLC",3,FALSE
+"succinate",1,0,"flankNSCLC",3,FALSE
+"succinate",2,0.000827984,"flankNSCLC",3,FALSE
+"succinate",3,0.000313834,"flankNSCLC",3,FALSE
+"malate",1,0,"flankNSCLC",3,FALSE
+"malate",2,0.000660095,"flankNSCLC",3,FALSE
+"malate",3,0.001929958,"flankNSCLC",3,FALSE
+"aspartate",1,0,"flankNSCLC",3,FALSE
+"aspartate",2,0,"flankNSCLC",3,FALSE
+"aspartate",3,0.001339565,"flankNSCLC",3,FALSE
+"glutamate",1,0.038327479,"flankNSCLC",90,FALSE
+"glutamate",2,0.034491219,"flankNSCLC",90,FALSE
+"glutamate",3,0.005576785,"flankNSCLC",90,FALSE
+"succinate",1,0.04287428,"flankNSCLC",90,FALSE
+"succinate",2,0.027438013,"flankNSCLC",90,FALSE
+"succinate",3,0.005120256,"flankNSCLC",90,FALSE
+"malate",1,0.046426304,"flankNSCLC",90,FALSE
+"malate",2,0.026451691,"flankNSCLC",90,FALSE
+"malate",3,0.01007853,"flankNSCLC",90,FALSE
+"aspartate",1,0.029835729,"flankNSCLC",90,FALSE
+"aspartate",2,0.020217544,"flankNSCLC",90,FALSE
+"aspartate",3,0.006401997,"flankNSCLC",90,FALSE
+"glutamate",1,0.019889699,"flankNSCLC",60,FALSE
+"glutamate",2,0.022687463,"flankNSCLC",60,FALSE
+"glutamate",3,0.003484743,"flankNSCLC",60,FALSE
+"succinate",1,0.022918048,"flankNSCLC",60,FALSE
+"succinate",2,0.018803609,"flankNSCLC",60,FALSE
+"succinate",3,0.002499263,"flankNSCLC",60,FALSE
+"malate",1,0.029598602,"flankNSCLC",60,FALSE
+"malate",2,0.017424686,"flankNSCLC",60,FALSE
+"malate",3,0.007021267,"flankNSCLC",60,FALSE
+"aspartate",1,0.017598332,"flankNSCLC",60,FALSE
+"aspartate",2,0.013620759,"flankNSCLC",60,FALSE
+"aspartate",3,5.22364e-05,"flankNSCLC",60,FALSE
+"glutamate",1,0.032024764,"flankNSCLC",60,FALSE
+"glutamate",2,0.032946817,"flankNSCLC",60,FALSE
+"glutamate",3,0.005161403,"flankNSCLC",60,FALSE
+"succinate",1,0.034863102,"flankNSCLC",60,FALSE
+"succinate",2,0.026425255,"flankNSCLC",60,FALSE
+"succinate",3,0.00530907,"flankNSCLC",60,FALSE
+"malate",1,0.040272958,"flankNSCLC",60,FALSE
+"malate",2,0.025852266,"flankNSCLC",60,FALSE
+"malate",3,0.011257628,"flankNSCLC",60,FALSE
+"aspartate",1,0.023520431,"flankNSCLC",60,FALSE
+"aspartate",2,0.019047286,"flankNSCLC",60,FALSE
+"aspartate",3,0.005798322,"flankNSCLC",60,FALSE
+"glutamate",1,0.006915627,"flankNSCLC",20,FALSE
+"glutamate",2,0.011637346,"flankNSCLC",20,FALSE
+"glutamate",3,0.001545187,"flankNSCLC",20,FALSE
+"succinate",1,0.010738966,"flankNSCLC",20,FALSE
+"succinate",2,0.010095434,"flankNSCLC",20,FALSE
+"succinate",3,0.002437711,"flankNSCLC",20,FALSE
+"malate",1,0.015924164,"flankNSCLC",20,FALSE
+"malate",2,0.009851506,"flankNSCLC",20,FALSE
+"malate",3,0.006686966,"flankNSCLC",20,FALSE
+"aspartate",1,0,"flankNSCLC",20,FALSE
+"aspartate",2,0.006275815,"flankNSCLC",20,FALSE
+"aspartate",3,0.004206507,"flankNSCLC",20,FALSE
+"glutamate",1,0.064024441,"flankNSCLC",150,FALSE
+"glutamate",2,0.051651691,"flankNSCLC",150,FALSE
+"glutamate",3,0.008812413,"flankNSCLC",150,FALSE
+"succinate",1,0.065189638,"flankNSCLC",150,FALSE
+"succinate",2,0.043991659,"flankNSCLC",150,FALSE
+"succinate",3,0.006362021,"flankNSCLC",150,FALSE
+"malate",1,0.068142798,"flankNSCLC",150,FALSE
+"malate",2,0.039213758,"flankNSCLC",150,FALSE
+"malate",3,0.011864002,"flankNSCLC",150,FALSE
+"aspartate",1,0.054412968,"flankNSCLC",150,FALSE
+"aspartate",2,0.037070288,"flankNSCLC",150,FALSE
+"aspartate",3,0.00824038,"flankNSCLC",150,FALSE
+"glutamate",1,0.0575161,"flankNSCLC",150,FALSE
+"glutamate",2,0.040590095,"flankNSCLC",150,FALSE
+"glutamate",3,0.007193887,"flankNSCLC",150,FALSE
+"succinate",1,0.055938752,"flankNSCLC",150,FALSE
+"succinate",2,0.033124811,"flankNSCLC",150,FALSE
+"succinate",3,0.004749381,"flankNSCLC",150,FALSE
+"malate",1,0.062075131,"flankNSCLC",150,FALSE
+"malate",2,0.031042122,"flankNSCLC",150,FALSE
+"malate",3,0.009341725,"flankNSCLC",150,FALSE
+"aspartate",1,0.050880522,"flankNSCLC",150,FALSE
+"aspartate",2,0.026990211,"flankNSCLC",150,FALSE
+"aspartate",3,0.006221914,"flankNSCLC",150,FALSE
+"glutamate",1,0.002711114,"flankPDAC",3,FALSE
+"glutamate",2,0.001602758,"flankPDAC",3,FALSE
+"glutamate",3,5.28292e-05,"flankPDAC",3,FALSE
+"succinate",1,0.002712265,"flankPDAC",3,FALSE
+"succinate",2,0.001079509,"flankPDAC",3,FALSE
+"succinate",3,0.000119317,"flankPDAC",3,FALSE
+"malate",1,0,"flankPDAC",3,FALSE
+"malate",2,0.00198364,"flankPDAC",3,FALSE
+"malate",3,0.001240127,"flankPDAC",3,FALSE
+"aspartate",1,0,"flankPDAC",3,FALSE
+"aspartate",2,0.000571204,"flankPDAC",3,FALSE
+"aspartate",3,0.000289427,"flankPDAC",3,FALSE
+"glutamate",1,0.001745385,"flankPDAC",3,FALSE
+"glutamate",2,0.001707937,"flankPDAC",3,FALSE
+"glutamate",3,0.000219316,"flankPDAC",3,FALSE
+"succinate",1,0.000224816,"flankPDAC",3,FALSE
+"succinate",2,0.002219756,"flankPDAC",3,FALSE
+"succinate",3,0.000584532,"flankPDAC",3,FALSE
+"malate",1,0.000309599,"flankPDAC",3,FALSE
+"malate",2,0.001662292,"flankPDAC",3,FALSE
+"malate",3,0.002375079,"flankPDAC",3,FALSE
+"aspartate",1,0,"flankPDAC",3,FALSE
+"aspartate",2,0,"flankPDAC",3,FALSE
+"aspartate",3,0.001419115,"flankPDAC",3,FALSE
+"glutamate",1,0.009376615,"flankPDAC",20,FALSE
+"glutamate",2,0.022746431,"flankPDAC",20,FALSE
+"glutamate",3,0.002701292,"flankPDAC",20,FALSE
+"succinate",1,0.015273575,"flankPDAC",20,FALSE
+"succinate",2,0.023165136,"flankPDAC",20,FALSE
+"succinate",3,0.001442962,"flankPDAC",20,FALSE
+"malate",1,0.014539748,"flankPDAC",20,FALSE
+"malate",2,0.018745579,"flankPDAC",20,FALSE
+"malate",3,0.006608975,"flankPDAC",20,FALSE
+"aspartate",1,0.001695832,"flankPDAC",20,FALSE
+"aspartate",2,0.008516514,"flankPDAC",20,FALSE
+"aspartate",3,0.003863891,"flankPDAC",20,FALSE
+"glutamate",1,0.050998261,"flankPDAC",90,FALSE
+"glutamate",2,0.054090137,"flankPDAC",90,FALSE
+"glutamate",3,0.007486521,"flankPDAC",90,FALSE
+"succinate",1,0.058663931,"flankPDAC",90,FALSE
+"succinate",2,0.045253501,"flankPDAC",90,FALSE
+"succinate",3,0.004358639,"flankPDAC",90,FALSE
+"malate",1,0.055002339,"flankPDAC",90,FALSE
+"malate",2,0.037990239,"flankPDAC",90,FALSE
+"malate",3,0.007511215,"flankPDAC",90,FALSE
+"aspartate",1,0.031640636,"flankPDAC",90,FALSE
+"aspartate",2,0.024760189,"flankPDAC",90,FALSE
+"aspartate",3,0.005067322,"flankPDAC",90,FALSE
+"glutamate",1,0.005141724,"flankPDAC",20,FALSE
+"glutamate",2,0.013597911,"flankPDAC",20,FALSE
+"glutamate",3,0.001312317,"flankPDAC",20,FALSE
+"succinate",1,0.004933814,"flankPDAC",20,FALSE
+"succinate",2,0.012795537,"flankPDAC",20,FALSE
+"succinate",3,0.000866582,"flankPDAC",20,FALSE
+"malate",1,0.010477044,"flankPDAC",20,FALSE
+"malate",2,0.012276454,"flankPDAC",20,FALSE
+"malate",3,0.005252086,"flankPDAC",20,FALSE
+"aspartate",1,0.003905816,"flankPDAC",20,FALSE
+"aspartate",2,0.004673686,"flankPDAC",20,FALSE
+"aspartate",3,0.004221016,"flankPDAC",20,FALSE
+"aspartate",1,0.017882844,"flankPDAC",45,FALSE
+"aspartate",2,0.013602503,"flankPDAC",45,FALSE
+"aspartate",3,0.00500801,"flankPDAC",45,FALSE
+"glutamate",1,0.021029937,"flankPDAC",45,FALSE
+"glutamate",2,0.029331653,"flankPDAC",45,FALSE
+"glutamate",3,0.003461976,"flankPDAC",45,FALSE
+"malate",1,0.025571382,"flankPDAC",45,FALSE
+"malate",2,0.025344015,"flankPDAC",45,FALSE
+"malate",3,0.010245402,"flankPDAC",45,FALSE
+"succinate",1,0.021538128,"flankPDAC",45,FALSE
+"succinate",2,0.021286924,"flankPDAC",45,FALSE
+"succinate",3,0.001891718,"flankPDAC",45,FALSE
+"aspartate",1,0.038646329,"flankPDAC",90,FALSE
+"aspartate",2,0.023524857,"flankPDAC",90,FALSE
+"aspartate",3,0.007689502,"flankPDAC",90,FALSE
+"glutamate",1,0.049697273,"flankPDAC",90,FALSE
+"glutamate",2,0.057832053,"flankPDAC",90,FALSE
+"glutamate",3,0.007808137,"flankPDAC",90,FALSE
+"malate",1,0.057060372,"flankPDAC",90,FALSE
+"malate",2,0.043218696,"flankPDAC",90,FALSE
+"malate",3,0.011344357,"flankPDAC",90,FALSE
+"succinate",1,0.04578784,"flankPDAC",90,FALSE
+"succinate",2,0.037053084,"flankPDAC",90,FALSE
+"succinate",3,0.00453815,"flankPDAC",90,FALSE
+"aspartate",1,0.031412486,"flankPDAC",90,FALSE
+"aspartate",2,0.023970262,"flankPDAC",90,FALSE
+"aspartate",3,0.006153045,"flankPDAC",90,FALSE
+"glutamate",1,0.054435659,"flankPDAC",90,FALSE
+"glutamate",2,0.056832464,"flankPDAC",90,FALSE
+"glutamate",3,0.00817395,"flankPDAC",90,FALSE
+"malate",1,0.058246546,"flankPDAC",90,FALSE
+"malate",2,0.041728556,"flankPDAC",90,FALSE
+"malate",3,0.009113639,"flankPDAC",90,FALSE
+"succinate",1,0.056641222,"flankPDAC",90,FALSE
+"succinate",2,0.048954946,"flankPDAC",90,FALSE
+"succinate",3,0.003600437,"flankPDAC",90,FALSE
+"aspartate",1,0.028098101,"flankPDAC",45,FALSE
+"aspartate",2,0.010910438,"flankPDAC",45,FALSE
+"aspartate",3,0.010343336,"flankPDAC",45,FALSE
+"glutamate",1,0.027771699,"flankPDAC",45,FALSE
+"glutamate",2,0.048252459,"flankPDAC",45,FALSE
+"glutamate",3,0.004503815,"flankPDAC",45,FALSE
+"malate",1,0.036678115,"flankPDAC",45,FALSE
+"malate",2,0.037794329,"flankPDAC",45,FALSE
+"malate",3,0.010736304,"flankPDAC",45,FALSE
+"succinate",1,0.029220603,"flankPDAC",45,FALSE
+"succinate",2,0.037655545,"flankPDAC",45,FALSE
+"succinate",3,0.002841175,"flankPDAC",45,FALSE
+"glutamate",1,0.039207047,"flankPDAC",120,FALSE
+"glutamate",2,0.035499455,"flankPDAC",120,FALSE
+"glutamate",3,0.005306383,"flankPDAC",120,FALSE
+"aspartate",1,0.041425312,"flankPDAC",120,FALSE
+"aspartate",2,0.02414256,"flankPDAC",120,FALSE
+"aspartate",3,0.00526355,"flankPDAC",120,FALSE
+"malate",1,0.043607185,"flankPDAC",120,FALSE
+"malate",2,0.026565114,"flankPDAC",120,FALSE
+"malate",3,0.007361591,"flankPDAC",120,FALSE
+"succinate",1,0.039916942,"flankPDAC",120,FALSE
+"succinate",2,0.026402934,"flankPDAC",120,FALSE
+"succinate",3,0.003519741,"flankPDAC",120,FALSE
+"glutamate",1,0.06356934,"flankPDAC",120,FALSE
+"glutamate",2,0.05535625,"flankPDAC",120,FALSE
+"glutamate",3,0.007645034,"flankPDAC",120,FALSE
+"aspartate",1,0.048933273,"flankPDAC",120,FALSE
+"aspartate",2,0.032169306,"flankPDAC",120,FALSE
+"aspartate",3,0.005520935,"flankPDAC",120,FALSE
+"malate",1,0.067128409,"flankPDAC",120,FALSE
+"malate",2,0.041022434,"flankPDAC",120,FALSE
+"malate",3,0.010932772,"flankPDAC",120,FALSE
+"succinate",1,0.068259829,"flankPDAC",120,FALSE
+"succinate",2,0.049020416,"flankPDAC",120,FALSE
+"succinate",3,0.005159683,"flankPDAC",120,FALSE
+"glutamate",1,0.003541956,"flankPDAC",10,FALSE
+"glutamate",2,0.006465812,"flankPDAC",10,FALSE
+"glutamate",3,0.000511944,"flankPDAC",10,FALSE
+"aspartate",1,0,"flankPDAC",10,FALSE
+"aspartate",2,0.001893622,"flankPDAC",10,FALSE
+"aspartate",3,0.001433271,"flankPDAC",10,FALSE
+"malate",1,0.006703593,"flankPDAC",10,FALSE
+"malate",2,0.006922552,"flankPDAC",10,FALSE
+"malate",3,0.003231294,"flankPDAC",10,FALSE
+"succinate",1,0.001451957,"flankPDAC",10,FALSE
+"succinate",2,0.008537188,"flankPDAC",10,FALSE
+"succinate",3,0.000606619,"flankPDAC",10,FALSE
+"glutamate",1,0.003645475,"flankPDAC",10,FALSE
+"glutamate",2,0.00916045,"flankPDAC",10,FALSE
+"glutamate",3,0.00063154,"flankPDAC",10,FALSE
+"aspartate",1,0.001880289,"flankPDAC",10,FALSE
+"aspartate",2,0.00302518,"flankPDAC",10,FALSE
+"aspartate",3,0.001631631,"flankPDAC",10,FALSE
+"malate",1,0.003600555,"flankPDAC",10,FALSE
+"malate",2,0.007100247,"flankPDAC",10,FALSE
+"malate",3,0.004173883,"flankPDAC",10,FALSE
+"succinate",1,0.003905847,"flankPDAC",10,FALSE
+"succinate",2,0.009464658,"flankPDAC",10,FALSE
+"succinate",3,0.000799774,"flankPDAC",10,FALSE
+"glutamate",1,0.004754453,"xenograftCRC",20,FALSE
+"glutamate",2,0.005476085,"xenograftCRC",20,FALSE
+"glutamate",3,0.0005047,"xenograftCRC",20,FALSE
+"succinate",1,0.00072427,"xenograftCRC",20,FALSE
+"succinate",2,0.004204588,"xenograftCRC",20,FALSE
+"succinate",3,9.14008e-05,"xenograftCRC",20,FALSE
+"malate",1,0.00490957,"xenograftCRC",20,FALSE
+"malate",2,0.005660145,"xenograftCRC",20,FALSE
+"malate",3,0.002550298,"xenograftCRC",20,FALSE
+"aspartate",1,0.002298013,"xenograftCRC",20,FALSE
+"aspartate",2,0,"xenograftCRC",20,FALSE
+"aspartate",3,0.002090433,"xenograftCRC",20,FALSE
+"glutamate",1,0.009914241,"xenograftCRC",90,FALSE
+"glutamate",2,0.015829154,"xenograftCRC",90,FALSE
+"glutamate",3,0.00128754,"xenograftCRC",90,FALSE
+"succinate",1,0.007735082,"xenograftCRC",90,FALSE
+"succinate",2,0.009209245,"xenograftCRC",90,FALSE
+"succinate",3,0.000746829,"xenograftCRC",90,FALSE
+"malate",1,0.015121101,"xenograftCRC",90,FALSE
+"malate",2,0.015389218,"xenograftCRC",90,FALSE
+"malate",3,0.003869678,"xenograftCRC",90,FALSE
+"aspartate",1,0.012192575,"xenograftCRC",90,FALSE
+"aspartate",2,0.001137499,"xenograftCRC",90,FALSE
+"aspartate",3,0.003755578,"xenograftCRC",90,FALSE
+"glutamate",1,0.002469134,"xenograftCRC",3,FALSE
+"glutamate",2,0.000417047,"xenograftCRC",3,FALSE
+"glutamate",3,6.34173e-05,"xenograftCRC",3,FALSE
+"succinate",1,0.000739252,"xenograftCRC",3,FALSE
+"succinate",2,0.000301128,"xenograftCRC",3,FALSE
+"succinate",3,0,"xenograftCRC",3,FALSE
+"malate",1,0.00034006,"xenograftCRC",3,FALSE
+"malate",2,0.000921505,"xenograftCRC",3,FALSE
+"malate",3,0.000892462,"xenograftCRC",3,FALSE
+"aspartate",1,0,"xenograftCRC",3,FALSE
+"aspartate",2,0,"xenograftCRC",3,FALSE
+"aspartate",3,0,"xenograftCRC",3,FALSE
+"glutamate",1,0.001535409,"xenograftCRC",3,FALSE
+"glutamate",2,1.79365e-05,"xenograftCRC",3,FALSE
+"glutamate",3,2.24618e-05,"xenograftCRC",3,FALSE
+"succinate",1,0,"xenograftCRC",3,FALSE
+"succinate",2,0.000748819,"xenograftCRC",3,FALSE
+"succinate",3,5.37358e-05,"xenograftCRC",3,FALSE
+"malate",1,0.00028897,"xenograftCRC",3,FALSE
+"malate",2,0.000200297,"xenograftCRC",3,FALSE
+"malate",3,0.000858165,"xenograftCRC",3,FALSE
+"aspartate",1,0,"xenograftCRC",3,FALSE
+"aspartate",2,0,"xenograftCRC",3,FALSE
+"aspartate",3,0.000632644,"xenograftCRC",3,FALSE
+"glutamate",1,0.01129457,"xenograftCRC",90,FALSE
+"glutamate",2,0.012349923,"xenograftCRC",90,FALSE
+"glutamate",3,0.001546169,"xenograftCRC",90,FALSE
+"succinate",1,0.015090228,"xenograftCRC",90,FALSE
+"succinate",2,0.013831947,"xenograftCRC",90,FALSE
+"succinate",3,0.001171915,"xenograftCRC",90,FALSE
+"malate",1,0.017262229,"xenograftCRC",90,FALSE
+"malate",2,0.012935574,"xenograftCRC",90,FALSE
+"malate",3,0.001384327,"xenograftCRC",90,FALSE
+"aspartate",1,0.001284575,"xenograftCRC",90,FALSE
+"aspartate",2,0.002101054,"xenograftCRC",90,FALSE
+"aspartate",3,0.00070333,"xenograftCRC",90,FALSE
+"glutamate",1,0.022110737,"xenograftCRC",90,FALSE
+"glutamate",2,0.021561302,"xenograftCRC",90,FALSE
+"glutamate",3,0.002109486,"xenograftCRC",90,FALSE
+"succinate",1,0.013222153,"xenograftCRC",90,FALSE
+"succinate",2,0.011142162,"xenograftCRC",90,FALSE
+"succinate",3,0.001114654,"xenograftCRC",90,FALSE
+"malate",1,0.024328103,"xenograftCRC",90,FALSE
+"malate",2,0.017631764,"xenograftCRC",90,FALSE
+"malate",3,0.003904063,"xenograftCRC",90,FALSE
+"aspartate",1,0.018732981,"xenograftCRC",90,FALSE
+"aspartate",2,0.010483504,"xenograftCRC",90,FALSE
+"aspartate",3,0.003928754,"xenograftCRC",90,FALSE
+"glutamate",1,0.004191074,"xenograftCRC",20,FALSE
+"glutamate",2,0.003854603,"xenograftCRC",20,FALSE
+"glutamate",3,0.000298183,"xenograftCRC",20,FALSE
+"succinate",1,0.000379726,"xenograftCRC",20,FALSE
+"succinate",2,0.002660066,"xenograftCRC",20,FALSE
+"succinate",3,0.000176317,"xenograftCRC",20,FALSE
+"malate",1,0.001849308,"xenograftCRC",20,FALSE
+"malate",2,0.004252538,"xenograftCRC",20,FALSE
+"malate",3,0.001515124,"xenograftCRC",20,FALSE
+"aspartate",1,0.00292076,"xenograftCRC",20,FALSE
+"aspartate",2,0,"xenograftCRC",20,FALSE
+"aspartate",3,0.001120486,"xenograftCRC",20,FALSE
