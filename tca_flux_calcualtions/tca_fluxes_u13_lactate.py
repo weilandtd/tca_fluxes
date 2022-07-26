@@ -1,5 +1,7 @@
+# -*- coding: utf-8 -*-
 """
-This script ... TODO NICE DESCRIPTION
+This script contains all necessary instructions to fit the tissue TCA fluxes
+from the provided U13-lactate labeling data
 """
 
 import pyximport
@@ -20,16 +22,17 @@ from tca_inference import InstatFluxFitter
 """
 Computational parameters:
 
-N_init  Number of initializations
-N_CPU   Numper of CPUs used for the optimization
+N_init          Number of initializations
+N_CPU           Number of CPUs used for the optimization (this should be choosen carefully)
 
-
+EXAMPLE         Flag to run either the full simulation across all tissues and tumors or just a sample simulation
+                for liver, soleus, quad, and one tumor
 """
 
 N_init = 10
 N_CPU = 8
 
-FULL_SIMLATION = False
+EXAMPLE = True
 
 
 # Main Script
@@ -42,10 +45,11 @@ if __name__ == '__main__':
     # Load initial guesses for the timescale
     tissue_time_scale = json.load(open('./../data/time_scale_estimates.json'))
 
-    if FULL_SIMLATION:
-        tissues = labeling_data.tissues.unique()
+    if EXAMPLE:
+        tissues = ['liver', 'soleus', 'quad', 'GEMMPDAC']
     else:
-        tissues = [ 'liver', 'kidney', 'heart', 'quad',]
+        tissues = labeling_data.tissues.unique()
+
 
     # Initialize fitter class
     fitter = InstatFluxFitter(tca_model=tca_model,
