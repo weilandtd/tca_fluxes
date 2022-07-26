@@ -1,14 +1,15 @@
-# Tools to determine TCA flux from in-stationary 13C infusions
+# Tools to determine TCA flux from non-stationary 13C infusions
 
 This repository contains the tools and scripts to reproduce the TCA 
 flux calculations presented in:
 
-> Slow TCA flux implies low ATP production in tumors 
-> Caroline R. Bartman, Yihui Shen, Won Dong Lee, Tara TeSlaa, 
-> Connor S.R. Jankowski, Lin Wang, Lifeng Yang, Asael Roichman,
-> Vrushank Bhatt, Taijin Lan, Zhixian Hu, Xi Xing, Wenyun Lu, 
-> Jessie Yanxiang Guo, Joshua D. Rabinowitz
-> doi: https://doi.org/10.1101/2021.10.04.463108
+> Slow TCA flux and ATP production in primary solid tumors
+> Caroline R. Bartman, Daniel R. Weilandt, Yihui Shen, Won Dong Lee, Yujiao Han,
+> Tara TeSlaa, Connor S.R. Jankowski, Laith Samarah, Noel Park, Maria Victoria da Silva,
+> Maya Aleksandrova, Yetis Gultekin, Lin Wang, Lifeng Yang, Asael Roichman, Vrushank Bhatt,
+> Taijin Lan,Zhixian Hu, Xi Xing, Wenyun Lu, Shawn Davidson, Matthew Vander Heiden, Daniel Herranz,
+> Jessie Yanxiang Guo, Yibin Kang, Joshua D. Rabinowitz
+
 
 ## Requirements
 The following python packages are required to run the code: 
@@ -27,6 +28,7 @@ or [Miniconda](https://docs.conda.io/projects/conda/en/latest/glossary.html#mini
 to run the code, all required packages can be install by 
 simply running: 
 ```bash
+conda config --add channels conda-forge
 conda install --file requirements.txt
 ```
 
