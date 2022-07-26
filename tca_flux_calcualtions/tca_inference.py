@@ -340,15 +340,19 @@ class InstatFluxFitter(object):
         """
         Determine the confidence intervall of the output parameters
 
-        :param results:
-        :param columns:
-        :param alpha:
-        :param k:
-        :param n:
-        :return:
+        :param results: List of results from sel.fit_data()
+        :param columns: List of parameters
+        :param alpha: Confidence level
+        :param k: Top k fits to bootstrap
+        :param n: Number of resamples for the bootstrapping
+        :return: dict("parameter" : dict() ) median and ci bounds for each parameter defined in columns
         """
 
-        lower, upper, median, = self.boostrap_parameters( results, columns=columns, alpha=5.0, k=20, n=100,)
+        lower, upper, median, = self.boostrap_parameters( results,
+                                                          columns=columns,
+                                                          alpha=alpha,
+                                                          k=k,
+                                                          n=n,)
 
         confidence_intervals = dict()
 
@@ -364,10 +368,12 @@ class InstatFluxFitter(object):
 Ultility functions
 """
 
+
 def PARAMETER_BOUNDS(VMAX, RMAX, zero=0, r=(0, 1), da=(0, 1), dg=(-1, 1)):
     return[ dg, (zero, VMAX), (zero, VMAX), (zero, VMAX),  #
       (1, RMAX), (1, RMAX), (1, RMAX), (1, RMAX),
       (1, RMAX), (1, RMAX), (1, RMAX), (zero, 1), da, r]
+
 
 def initial_parameters(M, param_bounds):
     #RANDOM = lhsmdu.sample(len(param_bounds),M).T
@@ -377,3 +383,17 @@ def initial_parameters(M, param_bounds):
          p0 = [r*(u-l)+l for r, (l,u) in zip(R,param_bounds)]
          initial_params.append(p0)
     return initial_params
+
+
+def ci_table(tissue_cis, parameter):
+    table_data = []
+    index = []
+    for tissue, ci in tissue_cis.items():
+        tissue_data = ci[parameter]
+        table_data.append(tissue_data)
+        index.append(tissue)
+
+    df = pd.DataFrame(table_data, index=index)
+
+    return df
+
