@@ -39,7 +39,7 @@ if __name__ == '__main__':
 
     # Load initial guesses for the timescale
     tissue_time_scale = json.load(open('./../data/time_scale_estimates.json'))
-    tissues = labeling_data.tissues.unique()
+    tissues = labeling_data.tissue.unique()
 
 
     # Initialize fitter class

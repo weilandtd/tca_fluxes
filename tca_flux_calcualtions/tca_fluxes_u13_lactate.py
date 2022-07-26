@@ -48,7 +48,7 @@ if __name__ == '__main__':
     if EXAMPLE:
         tissues = ['liver', 'soleus', 'quad', 'GEMMPDAC']
     else:
-        tissues = labeling_data.tissues.unique()
+        tissues = labeling_data.tissue.unique()
 
 
     # Initialize fitter class
