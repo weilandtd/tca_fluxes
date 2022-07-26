@@ -52,6 +52,20 @@ More details on how to use the full collision model and how to compile custom mo
 We then provide two scripts to perform the TCA flux inference using data from U13-Lactate 
 (`tca_flux_calculations/tca_fluxees_u13_lactate.py`) 
 and U13-Glutamine tracer (`tca_flux_calculations/tca_fluxees_u13_glutamine.py`)
+To run these scripts change the directory to `tca_flux_calculations` and open an `ipython` console. 
+You can then run the scripts:
+```bash
+run tca_fluxees_u13_lactate.py
+```
+when the script starts successful you should see an output similar to below
+```
+Running flux inference for diaphragm
+100%|██████████████████████████████| 1000/1000 [13:42<00:00,  1.22it/s]
+Postprocessing fitting results for diaphragm
+...
+```
+
+
 Both these scripts follow a similar structure, first we import the required data which consists of 
 three elements i) labeling data, ii) pool size data (tissue concentrations), and iii)
 an estimate of the tissue timescale. 
