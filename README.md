@@ -49,7 +49,7 @@ python setup.py build_ext --inplace
 More details on how to use the full collision model and how to compile custom models can be found 
 [here](https://github.com/weilandtd/tca_fluxes/tree/main/models). 
 
-We then provide two scripts to perform the TCA flux using data from U13-Lactate 
+We then provide two scripts to perform the TCA flux inference using data from U13-Lactate 
 (`tca_flux_calculations/tca_fluxees_u13_lactate.py`) 
 and U13-Glutamine tracer (`tca_flux_calculations/tca_fluxees_u13_glutamine.py`)
 Both these scripts follow a similar structure, first we import the required data which consists of 
