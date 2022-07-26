@@ -72,4 +72,7 @@ if __name__ == '__main__':
 
 
     # Print/export results
-    print(ci_table(confidence_intervals, 'TCA'))
+    tca_ci = ci_table(confidence_intervals, 'TCA')
+    tca_ci.to_csv('glutamine_TCA_flux_estimates.csv')
+    print(tca_ci)
+
