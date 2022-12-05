@@ -29,8 +29,8 @@ EXAMPLE         Flag to run either the full simulation across all tissues and tu
                 for liver, soleus, quad, and one tumor
 """
 
-N_init = 2000
-N_CPU = 36
+N_init = 10
+N_CPU = 4
 
 
 # Main Script
@@ -43,8 +43,7 @@ if __name__ == '__main__':
     # Load initial guesses for the timescale
     tissue_time_scale = json.load(open('./../data/time_scale_estimates.json'))
 
-
-    tissues = labeling_data.tissue.unique()
+    tissues = ['liver', 'soleus', 'quad', 'GEMMPDAC']
 
 
     # Initialize fitter class
@@ -71,7 +70,7 @@ if __name__ == '__main__':
 
         print("Postprocessing fitting results for {}".format(tissue))
 
-        tissue_ci = fitter.find_confidence_intervals(tissue_result, columns=['TCA','r'])
+        tissue_ci = fitter.find_confidence_intervals(tissue_result, columns=['TCA','r','dg'])
 
         confidence_intervals[tissue] = tissue_ci
 

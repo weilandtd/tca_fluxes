@@ -335,6 +335,24 @@ class InstatFluxFitter(object):
 
         return lower, upper, median,
 
+    def percentile_boostrap_p_value(self,
+                                    result1, result2,
+                                    k=20, n=100,
+                                    columns=['TCA'],):
+
+        this_dataset_1 = result1.sort_values('cost')[:k]
+        this_dataset_2 = result2.sort_values('cost')[:k]
+
+        diff = this_dataset_1[columns] - this_dataset_2[columns]
+        t = diff.median()
+        t_start  =0
+
+
+        p_value = (sum(t_star > t) + 1) / (R + 1)
+
+        return p_value
+
+
 
     def find_confidence_intervals(self, results, columns=['TCA',], alpha=5.0, k=20, n=100, ):
         """
