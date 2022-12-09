@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 
 from scipy.optimize import least_squares
 from scikits.odes.odeint import odeint
-
+from scipy.stats import t as t_distribtion
 
 """
 Parameter sections with helpful deifnitions
@@ -337,21 +337,33 @@ class InstatFluxFitter(object):
 
     def percentile_boostrap_p_value(self,
                                     result1, result2,
-                                    k=20, n=100,
+                                    k=20, n=1000,
                                     columns=['TCA'],):
 
-        this_dataset_1 = result1.sort_values('cost')[:k]
-        this_dataset_2 = result2.sort_values('cost')[:k]
+        this_dataset_1 = result1.sort_values('cost')[:k].reset_index()
+        this_dataset_2 = result2.sort_values('cost')[:k].reset_index()
 
         diff = this_dataset_1[columns] - this_dataset_2[columns]
         t = diff.median()
-        t_start  =0
+        t_star = list()
 
+        m = diff.shape[0]
+        for _ in range(n):
+            # bootstrap sample
+            indices = np.random.randint(0, m, m)
+            sample = diff.loc[indices] - t
 
-        p_value = (sum(t_star > t) + 1) / (R + 1)
+            # calculate and store statistic
+            statistic = np.median(sample[columns], axis=0)
+
+            t_star.append(statistic)
+
+        t_stat = abs(np.median(t_star) - t) / np.std(t_star)
+
+        # Two-sided t-testnp.median(t_star)
+        p_value = (1 - t_distribtion.cdf(x=t_stat, df=n-1)) * 2.0
 
         return p_value
-
 
 
     def find_confidence_intervals(self, results, columns=['TCA',], alpha=5.0, k=20, n=100, ):
