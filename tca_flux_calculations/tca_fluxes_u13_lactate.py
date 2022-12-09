@@ -46,7 +46,6 @@ if __name__ == '__main__':
 
     tissues = labeling_data.tissue.unique()
 
-
     # Initialize fitter class
     fitter = InstatFluxFitter(tca_model=tca_model,
                               metabolite_ix_hash_map=IXM,
@@ -54,6 +53,9 @@ if __name__ == '__main__':
 
     # Optimize each tissue
     confidence_intervals = dict()
+
+    # Store tissue results for pair-wise comp.
+    tissue_results = dict()
 
     for tissue in tissues:
         print("Running flux inference for {}".format(tissue))
@@ -71,15 +73,42 @@ if __name__ == '__main__':
 
         print("Postprocessing fitting results for {}".format(tissue))
 
-        tissue_ci = fitter.find_confidence_intervals(tissue_result, columns=['TCA','r'])
+        tissue_ci = fitter.find_confidence_intervals(tissue_result, columns=['TCA','r'], n=100)
 
         confidence_intervals[tissue] = tissue_ci
+        tissue_results[tissue] = tissue_result
 
     # Print/export results
     tca_ci = ci_table(confidence_intervals, 'TCA')
     tca_ci.to_csv('lactate_TCA_flux_estimates.csv')
     print(tca_ci)
 
+    """
+    Pair wise t-test from the paper 
+    """
+    df = pd.concat([t for t in tissue_results.values()])
+    df.to_csv('lactate_parameter_estimates_2000.csv')
+
+    # t-test comparinson
+    tissue_pairs = [
+        ('pancreas','GEMMPDAC'),
+        ('pancreas', 'GEMMNSCLC'),
+        ('lung', 'GEMMPDAC'),
+        ('lung', 'flankNSCLC'),
+        ('colon', 'xenograftCRC'),
+        ('leukemicSpleen', 'controlSpleen_forLeukemia'),
+        ('primaryTumorLM2', 'metastaticLungLM2'),
+        #('primaryTumorM1a', 'metastaticLungM1a'), NOTE: This test was done with 5000K parameter estimates to increase
+        # statistical power
+    ]
+
+    p_value_results = {}
+    for t1, t2 in tissue_pairs:
+        data_1 = df[df.tissue == t1]
+        data_2 = df[df.tissue == t2]
+
+        pvalue = fitter.percentile_boostrap_p_value(data_1, data_2, n=100)
+        p_value_results[(t1,t2)] = pvalue
 
 
 
