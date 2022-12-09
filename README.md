@@ -59,7 +59,8 @@ You can then run the scripts:
 ```bash
 run example_tca_fluxees_u13_lactate.py
 ```
-when the script starts successful you should see an output similar to below
+when the script starts successful you should see an output similar to below. 
+Note: Some of the initial guesses may result in $[CVODE ERROR] ... the corrector convergence test failed repeatedly ...$. Since we use random sampling over a wide range of parameters this cannot be avoided but does not mean that the algorism is not working.
 ```
 Running flux inference for diaphragm
 100%|██████████████████████████████| 1000/1000 [13:42<00:00,  1.22it/s]
