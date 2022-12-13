@@ -10,6 +10,15 @@ flux calculations presented in:
 > Taijin Lan,Zhixian Hu, Xi Xing, Wenyun Lu, Shawn Davidson, Matthew Vander Heiden, Daniel Herranz,
 > Jessie Yanxiang Guo, Yibin Kang, Joshua D. Rabinowitz
 
+## Download
+To download the data and code from this repository use git clone and make sure you have [GIT-LFS](https://git-lfs.github.com/) installed:
+
+```bash
+git clone https://github.com/weilandtd/tca_fluxes
+git lfs install 
+git pull
+```
+
 
 ## Requirements
 The following python packages are required to run the code: 
