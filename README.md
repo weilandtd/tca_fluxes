@@ -3,12 +3,12 @@
 This repository contains the tools and scripts to reproduce the TCA 
 flux calculations presented in:
 
-> Slow TCA flux and ATP production in primary solid tumors
 > Caroline R. Bartman, Daniel R. Weilandt, Yihui Shen, Won Dong Lee, Yujiao Han,
 > Tara TeSlaa, Connor S.R. Jankowski, Laith Samarah, Noel Park, Maria Victoria da Silva,
 > Maya Aleksandrova, Yetis Gultekin, Lin Wang, Lifeng Yang, Asael Roichman, Vrushank Bhatt,
 > Taijin Lan,Zhixian Hu, Xi Xing, Wenyun Lu, Shawn Davidson, Matthew Vander Heiden, Daniel Herranz,
-> Jessie Yanxiang Guo, Yibin Kang, Joshua D. Rabinowitz
+> Jessie Yanxiang Guo, Yibin Kang, Joshua D. Rabinowitz, **Slow TCA flux and ATP production in primary solid tumors**. *Nature* (2023).
+> https://doi.org/10.1038/s41586-022-05661-6
 
 ## Download
 To download the data and code from this repository use git clone and make sure you have [GIT-LFS](https://git-lfs.github.com/) installed:
@@ -78,6 +78,8 @@ Postprocessing fitting results for diaphragm
 ```
 Note that the scripts `tca_fluxes_u13_lactate.py` and `tca_fluxes_u13_glutamine.py` are configured 
 to reproduce the paper results and are quite computationally expensive (See code for details).  
+
+## Additional information
 
 Both these scripts follow a similar structure, first we import the required data which consists of 
 three elements i) labeling data, ii) pool size data (tissue concentrations), and iii)
