@@ -10,6 +10,15 @@ flux calculations presented in:
 > Jessie Yanxiang Guo, Yibin Kang, Joshua D. Rabinowitz, **Slow TCA flux and ATP production in primary solid tumors**. *Nature* (2023).
 > https://doi.org/10.1038/s41586-022-05661-6
 
+
+We here implement non-stationary metabolic flux analysis using a simplified TCA model (see figure below). 
+The code allows the user to infer the fluxes of reactions in the network depicted below from labeling data of
+non-stationary isotope infusions. A full description of the methodology can be found 
+[here](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-022-05661-6/MediaObjects/41586_2022_5661_MOESM1_ESM.pdf).
+
+![Model schematic](./img.png)
+
+
 ## Download
 To download the data and code from this repository use git clone and make sure you have [GIT-LFS](https://git-lfs.github.com/) installed:
 
