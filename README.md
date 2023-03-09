@@ -16,7 +16,7 @@ The code allows the user to infer the fluxes of reactions in the network depicte
 non-stationary isotope infusions. A full description of the methodology can be found 
 [here](https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-022-05661-6/MediaObjects/41586_2022_5661_MOESM1_ESM.pdf).
 
-![Model schematic](./img.png)
+![Model schematic](https://github.com/weilandtd/tca_fluxes/blob/main/_img.png)
 
 
 ## Download
