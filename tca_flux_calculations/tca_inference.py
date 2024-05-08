@@ -230,14 +230,15 @@ class InstatFluxFitter(object):
 
         return res, pool_sizes
 
-    def make_input_data(self, tissue, pool_size_data, labeling_data, tissue_time_scale, N_init, M=3):
+    def make_input_data(self, tissue, pool_size_data, labeling_data, tissue_time_scale, N_init, 
+                        M=3, value_column="conc_micromolar"):
 
         # Select data for one tissue
         tissue_for_pool = tissue
         ps_data = pool_size_data[pool_size_data['tissue'] == tissue_for_pool]
 
-        ps_data = pd.concat([ps_data.groupby('Compound').mean(),
-                             ps_data.groupby('Compound').std()], axis=1)
+        ps_data = pd.concat([ps_data.groupby('Compound')[value_column].mean(),
+                             ps_data.groupby('Compound')[value_column].std()], axis=1)
 
         ps_data.columns = ['meanconc', 'sdconc']
 
