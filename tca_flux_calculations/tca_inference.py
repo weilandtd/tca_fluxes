@@ -165,7 +165,7 @@ class InstatFluxFitter(object):
 
         return res_lsq
 
-    def plot_data_fit(self, sol, data, M=3):
+    def plot_data_fit(self, sol, data, folder, name, M=3, ):
 
         compounds = data.Compound.unique()
         compounds = [c for c in compounds if c != 'lactate']
